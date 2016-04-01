@@ -6,6 +6,11 @@ import sys
 replacements = [
     (r'\r', '', 0, 0),
     (r'\n\\\n', '', 0, 0),
+    (r'</?span.*?>', '', 0, 0),
+    (r'</?div.*?>', '', 0, 0),
+    (r'\. \. \.', '...', 0, 0),
+    ('\x04', '', 0, 0),
+    ('\x05', '', 0, 0),
 ]
 
 parser = argparse.ArgumentParser(
