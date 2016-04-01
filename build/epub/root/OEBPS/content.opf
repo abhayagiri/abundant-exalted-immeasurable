@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Abundant, Exalted, Immeasurable</dc:title>
+    <dc:identifier id="BookID" opf:scheme="URL">http://www.abhayagiri.org/books/abundant-exalted-immeasurable</dc:identifier>
+    <dc:creator opf:role="aut" opf:file-as="Pasanno Bhikkhu">Pasanno Bhikkhu</dc:creator>
+    <dc:date opf:event="creation">2016-12-30</dc:date>
+    <dc:language>en</dc:language>
+    <dc:publisher>Abhayagiri Buddhist Monastery</dc:publisher>
+    <dc:rights>© 2016 Pasanno Bhikkhu</dc:rights>
+    <dc:subject>Buddhism</dc:subject>
+    <dc:type>Dhamma</dc:type>
+    <meta name="cover" content="cover.jpg" />
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="text.css" href="styles/text.css" media-type="text/css"/>
+    <item id="cover.jpg" href="images/cover.jpg" media-type="image/jpeg"/>
+    <item id="cover.xhtml" href="text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="title.xhtml" href="text/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="copyright.xhtml" href="text/copyright.xhtml" media-type="application/xhtml+xml"/>
+    <!--
+    <item id="dedication.xhtml" href="text/dedication.xhtml" media-type="application/xhtml+xml"/>
+    <item id="preface.xhtml" href="text/preface.xhtml" media-type="application/xhtml+xml"/>
+    <item id="abbreviations.xhtml" href="text/abbreviations.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter01.xhtml" href="text/chapter01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="glossary.xhtml" href="text/glossary.xhtml" media-type="application/xhtml+xml"/>
+    -->
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="copyright.xhtml"/>
+    <!--
+    <itemref idref="dedication.xhtml"/>
+    <itemref idref="preface.xhtml"/>
+    <itemref idref="abbreviations.xhtml"/>
+    <itemref idref="chapter01.xhtml"/>
+    <itemref idref="glossary.xhtml"/>
+    -->
+  </spine>
+  <guide>
+    <reference href="text/cover.xhtml" title="Cover" type="cover"/>
+    <reference href="text/title.xhtml" title="Title Page" type="title-page"/>
+    <reference href="text/copyright.xhtml" title="Copyright" type="copyright-page"/>
+    <!--
+    <reference href="text/dedication.xhtml" title="Dedication" type="dedication"/>
+    <reference href="text/preface.xhtml" title="Preface" type="preface"/>
+    <reference href="text/abbreviations.xhtml" title="Abbreviations" type="other.abbreviations"/>
+    <reference href="text/chapter01.xhtml" title="Refuges and Precepts" type="text"/>
+    <reference href="text/glossary.xhtml" title="Glossary" type="glossary"/>
+    -->
+  </guide>
+</package>

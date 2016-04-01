@@ -1,0 +1,74 @@
+\ProvidesPackage{local}
+
+\usepackage{geometry}
+\geometry{%
+    papersize={5.5in,8.25in},
+    layoutsize={5.25in,8in},
+    layoutoffset=9pt,
+    inner=.75in,
+    outer=.5625in,
+    top=.625in,
+    bottom=.5in,
+    headsep=14pt,
+    footskip=15pt,
+}
+
+\usepackage{fontspec}
+\setmainfont{Gentium Basic}
+\newfontface\sansfont[Scale=MatchLowercase]{DejaVu Sans ExtraLight}
+\renewcommand\normalsize{\fontsize{10.5}{13}}
+\linespread{1.02}
+
+\usepackage[defaultlines=2,all]{nowidow}
+\usepackage[hyphenation]{impnattypo}
+\usepackage[setpagesize=false,hidelinks=true]{hyperref}
+
+\setlength{\parskip}{0pt}
+\renewcommand\ldots{.~.~.}
+\frenchspacing
+
+\makechapterstyle{default}{%
+    \setlength{\beforechapskip}{0pt}
+    \setlength{\midchapskip}{0pt}
+    \setlength{\afterchapskip}{36pt}
+    \renewcommand*\chapnumfont{\LARGE\sansfont}
+    \renewcommand*\chaptitlefont{\LARGE\sansfont}
+    \renewcommand*\printchaptername{}
+    \renewcommand*\printchapternum{\center\chapnumfont\thechapter}
+    \renewcommand*\afterchapternum{}
+    \renewcommand*\printchaptertitle[1]{\center\chaptitlefont ##1\par}
+}
+\chapterstyle{default}
+
+\newcommand\headfont{\footnotesize\sansfont}
+
+\makeevenhead{headings}% verso
+{{\headfont \thepage\hspace{2em}\thetitle}}% left
+{{\headfont}}% center
+{{\headfont}}% right
+
+\makeoddhead{headings}% recto
+{{\headfont}}% left
+{{\headfont}}% center
+{{\headfont \rightmark\hspace{2em}\thepage}}% right
+
+\makepsmarks{headings}{%
+    \nouppercaseheads
+    \clearmark{section}
+    \createmark{chapter}{right}{nonumber}{}{}
+    \createplainmark{toc}{both}{\contentsname}
+    \createplainmark{lof}{both}{\listfigurename}
+    \createplainmark{lot}{both}{\listtablename}
+    \createplainmark{bib}{both}{\bibname}
+    \createplainmark{index}{both}{\indexname}
+    \createplainmark{glossary}{both}{\glossaryname}
+}
+\pagestyle{headings}
+
+\aliaspagestyle{chapter}{plain}
+
+\renewcommand{\cftchapterfont}{\normalfont}
+\renewcommand{\cftchapterformatpnum}[1]{{\normalfont #1}}
+%\renewcommand{\chapternumberline}[1]{\normalfont #1}
+\setlength{\cftbeforechapterskip}{.8em}
+

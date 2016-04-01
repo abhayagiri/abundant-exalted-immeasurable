@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="http://www.abhayagiri.org/books/beginning-our-day-volume-one"/>
+    <meta name="dtb:depth" content="4"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Beginning Our Day Volume One</text>
+  </docTitle>
+  <navMap>
+      <navPoint id="navPoint-1" playOrder="1">
+        <navLabel>
+          <text>Cover</text>
+        </navLabel>
+        <content src="text/cover.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>Title</text>
+        </navLabel>
+        <content src="text/title.xhtml"/>
+      </navPoint>
+      <!--
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Preface</text>
+        </navLabel>
+        <content src="text/preface.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Abbreviations</text>
+        </navLabel>
+        <content src="text/abbreviations.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Refuges and Precepts</text>
+        </navLabel>
+        <content src="text/chapter01.xhtml"/>
+      </navPoint>
+      -->
+  </navMap>
+</ncx>

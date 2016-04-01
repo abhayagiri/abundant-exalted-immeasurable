@@ -1,0 +1,40 @@
+h1 {
+    font-size: xx-large;
+    font-style: italic;
+    font-weight: normal;
+    text-align: center;
+}
+
+h2 {
+    font-size: large;
+    font-weight: normal;
+    text-align: center;
+    padding-bottom: 1em;
+}
+
+h1.title {
+    font-size: xx-large;
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+}
+
+h2.title {
+    font-size: x-large;
+    font-weight: normal;
+    text-align: center;
+    padding-bottom: 0em;
+}
+
+p {
+    text-align: justify;
+}
+
+p.copyright {
+    text-align: left;
+}
+
+p.title {
+    text-align: center;
+}
+
