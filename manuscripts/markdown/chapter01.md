@@ -1,0 +1,251 @@
+# Refuges and Precepts
+
+I’d like to welcome everyone who has gathered for this occasion and to
+express appreciation to Susan, Karen, and Cassidy for pulling it
+together and prodding me into giving a retreat. This is the second
+retreat I’ve led in California in twelve years. The theme is *mettā*,
+loving-kindness, and the context is a retreat, a practice situation. We
+are taking the opportunity to explore the different expressions,
+development, and implications of loving-kindness.
+
+As I understand it, we can’t extract loving-kindness out of the Buddha’s
+teachings as an orphan that stands alone. It doesn’t work that way. We
+pick up a corner of the Buddha’s teachings and everything comes along
+with it, including mettā. It’s like I pick up this little tassel here
+and, of course, everything connected to it starts coming up as
+well—everything’s attached. Pretty soon, the cushion, the bell,
+everything comes along with it.
+
+The teachings of loving-kindness are within a whole context and setting.
+Of course, one of the most important foundations for any aspect of the
+teaching to arise out of is what we’ve just done: determining the
+refuges and precepts. It’s not just a curious little ceremony that we
+begin a retreat with and that’s the end of it. The refuges of
+Buddha-Dhamma-Sangha provide the foundation for the wholesome qualities
+of the heart to arise. The precepts establish a strong foundation of
+integrity and virtue, as well as an ability to cultivate, both
+individually and in a group setting, a sense of trust: trust in oneself
+and the whole environment that one is in.
+
+Reflecting on and recollecting the Buddha, Dhamma, and Sangha as refuges
+is always an important reminder for us. The reality is that we are
+always taking refuge in something—whether it is in some distraction or
+particular worry or fear. The mind goes there, and that’s where we
+create our refuge. We rely on it and build our lives around it.
+
+As we find out, that’s not a very satisfying refuge, but it’s what we do
+as human beings. It’s like Ajahn Chah’s definition of what a human being
+is: “A human being is a being with issues.” It’s always having an issue
+with something or other. It keeps us busy and gives us something to live
+for. And then we die—it goes on and on.
+
+So, we redirect our attention to something that is a worthy refuge: the
+Buddha as a historical figure and symbol of fundamental qualities, such
+as wisdom, compassion, and purity. The first line of one of the morning
+chants we do at the monastery is “*Buddho, susuddho karuṇāmahaṇṇavo.*”
+“*Buddho*” is one who knows, one with wisdom. “*Susuddho*” is purity,
+and “*karuṇāmahaṇṇavo,*” great compassion.
+
+Even the recitation “*Namo tassa bhagavato arahato sammāsambuddhassa*”
+refers to those qualities. “*Bhagavato”* is the Blessed One, who
+radiates the blessing and heart quality of compassion. “*Arahato*” is
+one who is far from defiling tendencies and thus, pure.
+“*Sammāsambuddhassa*” refers to the self-enlightened, wisdom quality.
+
+The traditional recollections of the Buddha always refer to these
+qualities of wisdom, compassion, and purity. Of course, these are not
+qualities belonging solely to the Buddha, but the Buddha is the
+archetype of what is most fruitful for us to cultivate, pay attention
+to, and use to create a balance within the heart.
+
+Wisdom, compassion, and purity are the qualities that we cultivate and
+pay attention to if we reflect on how our practice is doing and how our
+life is going. Are these qualities being attended to? Am I out of
+balance or missing something? If so, how can I reconfigure that, so I
+pay attention to those aspects of the Buddha?
+
+The Dhamma is the teaching in a conventional sense and also the
+underlying truth of existence. There are fundamental truths that we are
+able to realize, understand, and penetrate, and when those truths are
+seen and understood, they have a transformative quality to them. The
+Buddha himself said that whether a Buddha arises in the world or not,
+there is still this underlying nature of things. All compounded things
+are impermanent and unsatisfactory. All dhammas, all things, are not
+self.
+
+It’s helpful when a Buddha comes along and points it out, but this is
+also the underlying truth, the way things are. We can direct our
+attention to and realize these fundamental truths.
+
+The Sangha as a refuge, on a conventional level, consists of ordained
+people who have stepped out of the world and made a commitment to
+spiritual practice and training. Having these examples is a helpful
+tool. This is a monastic retreat in the sense of having the monastic
+sangha here. We have our own particular perspectives. Some people find
+it useful, but it’s not everybody’s cup of tea. This is an opportunity
+to get a bit of the flavor of having ordained sangha nearby.
+
+However, when the Buddha refers to Sangha outside of the conventional
+level, he’s again pointing to qualities of the heart. In our morning
+chant, when we recollect Sangha, we say: “*Supaṭipanno bhagavato
+sāvakasaṅgho,*” the Sangha of the Blessed One’s disciples are those who
+practice well, “*ujupaṭipanno,*” practice directly, “*ñāyapaṭipanno,*”
+practice for the overcoming of suffering, for understanding and
+knowledge, “*sāmīcipaṭipanno,*” practice appropriately, with integrity.
+These are also the qualities of those who have entered into the fruition
+of the path: stream enterers, once returners, non-returners, and
+arahants.
+
+When we come together to practice in a retreat situation, we take on the
+eight precepts for the duration of the retreat. There’s a simplification
+that takes place, having the eight precepts as a foundation. There’s a
+very interesting discourse that the Buddha gave to Visākhā, one of his
+foremost female disciples. He was praising the lay community’s keeping
+of the lunar observance days once a week. In Pāli, it’s called the
+*uposatha*. Traditionally, laypeople would take the eight precepts in
+the morning and keep them for a day and a night.
+
+The way the Buddha described it is that the arahants, who are fully
+enlightened, live their whole lives not harming, not taking the life of
+any living creature. Laypeople are able to live just like arahants for a
+day and a night, not taking the life of any living creature. Arahants
+live their whole lives not taking what isn’t given, not stealing, and
+committed to honesty. For a day and a night, you are able to live just
+like an enlightened being, refraining from taking that which is not
+given—and so on, through all the eight precepts.
+
+This is basically how enlightened beings live; it’s their hardwired
+structure. For us to gather for a week of practicing together is a very
+special opportunity. Sometimes there is not much reflection when we ask
+someone how a retreat went. They’ll say, “Oh, my mind was all over the
+place; there was this ache and pain; there was this, and there was
+that.” Nobody says, “Well, I lived for a week in simplicity, living like
+the noble ones. It was great.” It ends up being hopelessly enmeshed in
+“me” and “my mind.”
+
+It’s no small thing to be able to say, “I got this opportunity to live
+simply for this week. It was great.” It has a wonderful effect. We are
+also doing it in an ideal, heavenly world here, surrounded by a lovely
+forest.
+
+We have this opportunity to come and practice walking and sitting
+meditation together, having taken on the refuges and precepts. The theme
+is loving-kindness, and I would encourage everybody to approach this
+whole time of practice together within this sphere of loving-kindness.
+Use walking and sitting meditation to bring up the quality of kindness.
+
+Traditionally, in the classical modes of cultivating loving-kindness,
+the first person you generate loving-kindness towards is yourself. So
+just be kind to yourself during this period of retreat. It’s a great
+opportunity to have time for solitude and quiet like this, to cultivate
+mindfulness and continuity of awareness. Enjoy it. Don’t tie yourself up
+in knots.
+
+I think loving-kindness can’t be separated from the Dhamma or anything
+else. Those qualities of letting go, non-contention: that’s where
+loving-kindness arises. When we let go of our moods, obsessions,
+worries, and fears—what’s left? Loving-kindness. We aren’t contending,
+struggling, and fighting—feeling in opposition to the weather, the
+circumstances, the people we are with, or ourselves, internally. There’s
+just that non-contention, that non-struggle, that non-irritation. The
+quality of loving-kindness is able to arise quite naturally as a result.
+
+It’s a good idea to review how we’re holding the meditation as we begin
+the practice. As we take time to establish and recollect the context of
+sitting here, just relaxing the body and awareness, ask, “Where am I
+holding, where am I tightening?” Say, “Okay, let’s just relax and
+settle.” Take a couple of minutes sweeping through the body, paying
+attention: “Let’s just relax here, let’s get settled.” Breath coming in
+and going out; tune in to the breath and allow that feeling of settling
+to establish itself. Then establish continuity of awareness with the
+object of meditation.
+
+I imagine that everybody here has experience in meditation. People will
+have their own particular methods they are comfortable or familiar with.
+My own inclination and ease of familiarity are with mindfulness of
+breathing, so if I am giving instruction, I will almost invariably use
+that as a framework in formal meditation.
+
+If you are using a different object for some reason, it’s easy to
+extrapolate the instruction for mindfulness of breathing and turn it to
+whatever method or technique that you are using. It’s very similar with
+walking meditation. Find a comfortable spot. If you like being in the
+shade, be in the shade. If you like being in the sun, be in the sun.
+Find a path that’s nice and level and long enough that you feel
+comfortable—twenty, twenty-five, thirty paces, or whatever. If it’s too
+long, it’s easy for the mind to start wandering. If it’s too short, it’s
+difficult to get settled, going back and forth all the time. Find
+something that’s comfortable for you.
+
+The underlying theme is how to make it comfortable, bringing ease into
+the practice, whether it’s walking or sitting. Or, if you like standing
+meditation, you can do standing meditation. Again, it’s not so much the
+posture or the method: it’s how you approach establishing the mind,
+bringing attention to the object of meditation, sustaining and working
+with continuity. Where does the mind go? Does it drift? Does it get
+loose and nebulous? Or does it hone in on the minutiae of the mind and
+get tied up and tight?
+
+Pay attention to what the mind is doing. Balance is an important quality
+to bring to the practice. How can you best sustain that continuity of
+awareness? That’s where the mind becomes peaceful. It doesn’t become
+peaceful just by forcing the mind onto an object and holding it there.
+Even if you succeed in doing that, it doesn’t actually make the mind
+that peaceful.
+
+For the mind to settle, there needs to be a balance of interested
+application of energy and ease. If there’s too much forcing, it creates
+tension; if it’s too loose, the mind gets nebulous and cloudy and
+drifts. We need to balance the mind by working with what is.
+
+Whether it’s sitting, walking, standing, or lying down, continuity
+starts to kick in and allows the mind to settle. The Buddha talks about
+cultivation of mindfulness in all four postures. It’s essential to
+develop continuity in the different postures.
+
+I remember the first year I was a monk: the evening meeting at the
+monastery where I was would be an hour sitting, an hour standing, and an
+hour walking, with some chanting at the beginning or end. That would be
+the evening meeting—an hour each. I remember when I first started, I
+thought, “Wow, great. They do standing meditation. Man, that’s going to
+be good. My knees kill me when I’m sitting.”
+
+Then I realized that the pain just goes somewhere else. What bodies do
+is get uncomfortable. What is needed is to relax around the pain or the
+discomfort and cultivate kindness.
+
+There was one Rains Retreat I did when I had about fifteen or twenty
+years as a monk, during which I had several months of lying-down
+meditation. I had fractured my pelvis, so I wasn’t doing anything else.
+But I was in very quiet, peaceful surroundings. I had lobbied the
+doctor, who was a supporter of the monastery, and he had sprung me out
+of the hospital and got me back to the monastery. I had said, “Whether
+I’m in the hospital or at the monastery, I’m going to be lying down
+anyway. I’ll be a lot happier out at the monastery.”
+
+We realize that what’s important is the continuity of the awareness and
+the quality of the attention that we pay to things. It’s not getting a
+particular posture or technique down. The techniques and postures are
+essential, but they’re tools, and it’s how you use a tool that’s
+important. During the week that we have here, pay attention. “How am I
+holding the meditation? How am I holding the perception? How am I
+holding my body? How am I holding the things that are coming up in my
+own mind? How am I holding the perceptions that I have of the people
+around me?” That’s what is really important.
+
+The mind in a mettā retreat can think, “All those other people are
+peaceful. How come I’m not peaceful?” Of course, everybody else is
+thinking the same thing: “All these other people look like they’re happy
+and kind; they’re really getting loving-kindness. I’m obviously not
+getting it.”
+
+We can take loving-kindness as a theme, and then sometimes, what comes
+up is how irritating the world is. But it doesn’t really matter. How are
+we holding it? What is actually coming up in the mind, and how are we
+relating to it? How are we layering our experience? That’s where the
+kindness is, having that sense of non-contention, letting go: “This is
+what’s coming up? Oh, that can be let go of. I don’t have to contend
+with that. Back to the breath, back to the walking, back to the
+continuity of awareness.”
+
+These are a few reflections to begin the retreat with.

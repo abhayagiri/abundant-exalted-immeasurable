@@ -1,0 +1,377 @@
+# Mettā and Relinquishment
+
+A couple of people astutely noticed that I had skipped a few lines of
+the *Mettā Sutta*. I consciously did that because I wanted to take the
+time to address them. I had spent pretty much the full hour talking
+about the *Mettā Sutta* up to that point, and I thought, “I don’t want
+to open up this can of worms and go on longer.”
+
+The *Mettā Sutta* lays the basis and foundation of the cultivation of
+mettā in terms of conduct, speech, and how we live in the world. It then
+goes into the actual cultivation of loving-kindness, giving different
+parameters, guidelines, and encouragement, saying we should sustain the
+recollection of mettā, which “is said to be the sublime abiding.”
+
+The sutta ends with, “By not holding to fixed views, the pure-hearted
+one, having clarity of vision, being freed from all sense desires, is
+not born again into this world.” With just a cursory glance, we might
+think, “How did that get tacked on? That doesn’t have anything to do
+with mettā.” But I think that we actually bring mettā to complete
+fruition by having the insight and understanding not to be caught in
+views, opinions, and attachment to our perspectives.
+
+“Being freed from all sense desires” is a radical relinquishing of
+attachment. For loving-kindness to manifest fully and come to fruition,
+we need to undermine the fundamental roots of attachment, defilement,
+and clinging.
+
+So this takes mettā practice and ramps it up to another level, bringing
+it to a liberating insight practice. As we cultivate loving-kindness,
+the heart becomes more attuned to its own movement. We start to feel the
+movement within the heart more clearly.
+
+Wanting to take a fixed view or have a position involves a feeling of
+contention and conflict, a feeling of butting up against something or
+somebody. How do we deal with that? Do we just swamp it with
+loving-kindness and make it go away? That is one way.
+
+Or, do we say, “Well, what’s the root of that? What’s the root of that
+feeling, of having to hold a view of right or wrong ... good or bad ...
+this is correct ... this is incorrect ... it’s got to be this way.” What
+is the root of that? The root is the sense of self, of “I am.” The mettā
+practice is a very skillful means of softening and opening the heart, so
+that it’s able to tune in and say, “Well, that’s suffering.” Even if
+your view is correct, holding it with a sense of self is still
+suffering!
+
+We prop up views and positions and then land in places of suffering. “I
+had such loving-kindness going. How did I get back to this point of
+suffering again?” That is the way it works when there is still greed,
+hatred, and delusion, when there are still the underlying roots of the
+*āsava*, the outflows. In order for mettā to come to fruition, we need
+to shine a light on the deeper-rooted tendencies.
+
+How do we work with them? Of course, one of the ways of working with
+them is with loving-kindness, in the sense that if we set ourselves up
+in opposition with our minds, then we are in a constant state of
+conflict. So, the kindest act that we can do is to let go of defilement
+and attachment. That is the kindest thing we can do for ourselves and
+others. We use the cultivation of loving-kindness as a means of
+highlighting where we create opposition and conflict, where we hold to a
+particular view, and how significant views are in supporting negative
+underlying tendencies within the mind.
+
+The Buddha outlined the three outflows or āsavas, as sensual desire
+(*kāmāsava*), becoming (*bhavāsava*), and ignorance (*avijjāsava*—not
+knowing, not having true knowledge). Very soon after the Buddha’s
+passing, commentators added the outflow of views (*ditthāsava*) because
+it seemed fundamental as well. These are a source of suffering and also
+perpetuate the round of rebirth.
+
+Views are deeply rooted in the mind. Even if they are not argumentative
+views, they still involve having to take a position, having to be right
+or wrong. In the Buddha’s time, there was a whole list of standard views
+that are probably not so meaningful to us. But at the Buddha’s time,
+they were the philosophical positions of the day. There were schools of
+religious seekers and philosophers who took various positions. Is the
+cosmos eternal or not eternal? What is the nature of the self? What is
+the nature of the body and the mind? Do enlightened beings exist after
+death? Do they not exist after death? Do they both exist and not exist
+after death? Or, do they neither exist nor not exist after death?
+
+There were great philosophical debates and conflicts about this. In a
+more modern setting, well, pick your view of choice.
+
+There is a discourse in which Ānanda goes into a wanderer’s park around
+Rajagaha and goes to a hot springs. He meets a wanderer, who immediately
+starts questioning him:
+
+“What teacher do you follow?”
+
+“I follow the son of the Sakyans, Gotama.”
+
+“What view do you hold? That the world is eternal, this alone is true,
+anything else is wrong?”
+
+“I don’t hold to such a view, friend.”
+
+“The world is not eternal; this alone is true, anything else is wrong?”
+
+“I don’t hold to such a view, friend.”
+
+The wanderer runs through the entire litany of positions and Ānanda
+responds with each one, “I don’t hold such a view, friend.”
+
+The wanderer is perplexed with this and asks, “Could it be that you
+don’t know or see?” Ānanda assures him that he does know and see (an
+idiom for insight). What he knows and sees is that all these different
+views are just speculative views. By understanding the foundation of
+views, the obsession with views, the origination of views, and the
+uprooting of views, there is a true knowing and seeing.
+
+It’s a wonderful perspective on views, opinions, and attachments. To be
+accomplished in not having views, one doesn’t have to become a kind of
+space cadet, completely out there, incapable of answering a question.
+But by recognizing how one starts to fix oneself into a position, and
+seeing, “Oh, I’m putting myself in opposition to that person or to that
+situation by holding to that view and that’s going to lead to
+suffering,” then one is able to step back from that position of holding
+to views. That allows one to return to a place of mindfulness and clear
+comprehension or discernment. That is what one takes as one’s abiding
+place.
+
+We recognize that whatever comes up is just a mental formation within
+the mind, just a thought or just a perception. We can have a perception
+about something and realize that it’s impermanent, unsatisfactory, and
+not-self. Sometimes we can act on views or perceptions if they have a
+usefulness at that particular time, but we are not building our home or
+sense of self within that.
+
+To tie that in again with loving-kindness: it’s being very kind to
+yourself and others because it doesn’t take very long to recollect the
+last time you were at loggerheads with somebody because of a particular
+view. You think about it afterwards and wonder, “Why did I even go
+there? What was the point of that anyway?”
+
+If we are not trapped by views, usually we can respond quite skillfully,
+and that is exceedingly useful. Reflect on the sense of non-contention
+as a basis for loving-kindness. There is an idiom in the scriptural
+language that describes this mental state of attaching to views: “this
+alone is true, anything else is wrong.” It isn’t as if we have
+consciously thought this out or even articulated it within the mind, but
+it is there. We can change our views, but at that particular moment it
+feels like, “This is right and everything else is wrong.”
+
+As soon as we are in that kind of position, it’s the basis for
+contention and conflict. It’s the basis for feeling irritation and
+aversion, whether short or protracted. Ill will is going to be attendant
+on holding that particular view.
+
+Try to make this very conscious through the cultivation of
+loving-kindness so as not to allow the formation of views to be so
+strong. Have a sense of loving-kindness and well-wishing towards
+yourself because you are usually the first person to suffer when you are
+tightly locked into a particular view. Then, of course, others suffer as
+well.
+
+The active application of loving-kindness is not just a nice emotion
+that we are able to generate sometimes while we are sitting on our
+cushions. It’s a very practical application of how we can interface with
+the world around us and not be trapped by fixed views. It lays the basis
+for peace and clarity.
+
+One of the underlying principles of the Dhamma that the Buddha pointed
+to is this aspect of letting go, relinquishing, and putting down. We can
+let go: we can let go of a mood, irritation, or aversion; we can let go
+of a view that’s starting to arise; we can let go of a particular
+perspective of how I think it has to be; we can let go of sense desires;
+and we can let go of the whole construct of “I am.” It’s that letting go
+that allows us to access and experience a real peace.
+
+There are a few places in the discourses in which the Buddha is asked
+for a way to formulate these teachings in a very succinct way. In the
+scriptures the Buddha says that all *dhamma*s—*sabbe dhamma*—are not to
+be clung to, all *dhamma*s are not worthy of holding on to, all
+*dhamma*s are not to be attached to. All things, all *dhamma*s with a
+small “d,” are not worthy of clinging. That’s a very simple phrase
+that’s helpful for practice, especially in terms of mettā bhāvanā. If we
+get entangled in the obstructions that come up in the mind or try to
+analyze and figure them out too much, they hook us in.
+
+The answer is to be able to come from that place of “all things are not
+to be clung to.” Maybe there is a mood of distraction, irritation, or
+confusion, but all *dhamma*s are not to be clung to. Then we need to
+bring into being the cultivation of loving-kindness, which is an
+expansive, wholesome quality that we ultimately have to let go of. But
+again, it’s a useful bridge to putting our effort and attention into
+things that help establish and sustain a sense of peace and clarity. So,
+the act of letting go is a very useful tool.
+
+One of the places that this teaching comes up is in a very interesting
+discourse, a well-known teaching that most people who have been on a
+meditation retreat have probably heard referred to in one way or
+another. It’s the discourse given to Moggallāna when he was meditating
+and experiencing drowsiness (A 7:61). It was shortly after Moggallāna
+was ordained. He is practicing diligently but is being overcome by
+drowsiness, sloth, and torpor. The Buddha comes and gives him
+instruction.
+
+That set of instructions is, first, to make your object of meditation
+clear. If that doesn’t work, then use an image of light to bring
+brightness to the mind. Use a recitation if that image of brightness
+doesn’t work. If that doesn’t work, pull your ears, rub your skin, and
+get some energy going somehow. If that doesn’t work, go out and look at
+the sky, look at the stars. If that doesn’t work, do some walking
+meditation. In the end, if none of this works, then lie down and have a
+rest, mindfully establishing a time for getting up and continuing your
+practice.
+
+The Buddha continues on and gives Moggallāna instruction in being
+careful not to get too involved with or to draw too close to laypeople,
+because laypeople have busy lives, and if you’re trying to be a part of
+their lives and they ignore you, then you wonder, “Oh, what did I do
+wrong?” There are endless complications. You’re a monk, do what monks
+do. Let laypeople do what laypeople do. Don’t get too entangled in other
+people’s lives.
+
+Then the Buddha gives Moggallāna instruction in maintaining a sense of
+circumspection in speech because inevitably, a lot of conversation and
+talking ends up in a lot of conflict. There are always
+misunderstandings. Restrain yourself in speech, paying attention to
+maintaining humility and not being proud wherever you go or whatever you
+do: good instructions for a new monk.
+
+Then Moggallāna asks the Buddha, “What is the core of the teachings?
+What is their basis?” That’s when the Buddha says that the fundamental
+teaching is that all *dhamma*s are not to be clung to. When you don’t
+cling to things, you are not building the momentum of habits and
+attachments. When you are not building that momentum of habits and
+attachments, you are not creating a sense of being sustained by them.
+When you are not being sustained by all those habit patterns, then you
+can dwell free and unsustained within the world and the body-mind
+complex. It’s a wonderful teaching. It’s very, very direct.
+
+As we reflect and investigate, we see how views—attachments to a sense
+of self, our sense of what we think is right and wrong, how things
+should and shouldn’t be—are endlessly frustrating, agitating, and a
+source of dukkha. The Buddha’s perspective is not that we are trying to
+wipe it all out and annihilate it, but rather that we are trying to
+understand the reason why we take a position or view. We are seeing the
+dynamic of that movement of mind that has to have a position of: “I am
+... I am right ... I am wrong ... I am good ... I am not good ... I’m
+correct ... I’m wrong again”—all the positions that we take.
+
+The word “conceit” in Buddhism has a whole level of meaning different
+from the way we normally use it in the English language. According to
+the teachings, there are nine different bases of conceit:
+
+
+1. being inferior and assuming oneself to be inferior;
+
+2. being inferior and assuming oneself to be equal;
+
+3. being inferior and assuming oneself to be superior;
+
+4. being equal and assuming oneself to be inferior;
+
+5. being equal and assuming oneself to be equal;
+
+6. being equal and assuming oneself to be superior;
+
+7. being superior and assuming oneself to be inferior;
+
+8. being superior and assuming oneself to be equal;
+
+9. being superior and assuming oneself to be superior.
+
+All of that is the basis of conceit. This is the act of trying to take a
+position all the time.
+
+You realize all of that is suffering: trying to figure out “Who am I?
+Where am I?” in this realm of relating to myself in the world around me
+and in comparison to others. As soon as you go there, you’re trapped.
+
+So again, bring it back to kindness, mettā: “May I abide in well-being;
+may all beings abide in well-being.” That is a much safer position,
+being able to drop and set aside all the “I”-making and “my”-making.
+This “I”-making and “my”-making is constantly being constructed; it
+isn’t as if the “I, me, and mine” is related to an actual fixed entity.
+
+This is something we are doing all of the time. That is made really
+clear in the Pali words *ahaṅkāra* and *mamaṅkāra*. *Kāra* is the verb
+“to do”: the “I-doing” and “mine-doing.” We are doing it and creating
+it, although it’s like the sorcerer’s apprentice in *Fantasia*. The
+apprentice ends up with a lot of complications and far more than he
+bargained for.
+
+The teachings of the Buddha give us the tools to be able to allow that
+to be let go of, to be put down, to be dropped. Of course that is a
+“doing” as well, but part of the practice is the craft of placing
+attention. We need to be doing something. On a certain level, we are
+doing something all the time. It’s just the nature of the body and mind.
+But we can put attention on the act of relinquishment, the act of
+kindness. Those are very conscious acts that reap the fruits of
+well-being and peace.
+
+We need to remind ourselves to do this: “One should sustain this
+recollection.” It’s reminding ourselves and recollecting mindful
+application. As we relinquish, “not holding to fixed views, the pure
+hearted one, having clarity of vision, being freed from all sense
+desire, is not born again into this world.” Somebody who is freed from
+all sense desires and is not born again into this world is an *anāgāmi*
+or *arahant*, a non-returner or somebody who is a fully enlightened
+being. That’s a real act of kindness, to be somebody who is fully able
+to penetrate the teachings and to be completely free of the
+entanglements of *saṃsāra*.
+
+Of course, the example closest to me, a contemporary example, is Ajahn
+Chah. The Buddha’s example is still resonating after 2,500 years. The
+act of relinquishment, being able to be freed from all sense desires,
+turning away from the cycle of *saṃsāra*, has had an extraordinarily
+powerful effect on the world.
+
+Ajahn Chah set an example of loving-kindness and had the ability to
+inspire people to practice. I don’t know exactly how many monasteries in
+Thailand are affiliated with Ajahn Chah—several hundred. And, of course,
+there is the Western Sangha: America, Canada, England, France,
+Switzerland, Germany, Italy, New Zealand, Australia, and Malaysia.
+Monasteries and so many other places have grown up just from this small
+bullfrog of a man. It’s like he sat on his lily pad in the middle of
+this monastery, and everybody came to him.
+
+Ajahn Chah’s loving-kindness was one that came to fruition through
+commitment to relinquishment. When he was asked, “What seems to have
+made the difference to you?” he said, “Well, I always wanted to find an
+end to things.” He wasn’t satisfied until he really found an end.
+
+Ajahn Chah had a lot of difficulty in practice. It wasn’t easy for him.
+On a certain level, that probably made him a lot more kind and
+compassionate, since he could definitely take in the foibles of the rest
+of us. He had the ability to see through. He cultivated loving-kindness,
+but it isn’t as if he didn’t have to deal with his own anger, aversion,
+or ill will.
+
+There is a nice story about Ajahn Chah. He was sitting and teaching, as
+often happened, underneath his dwelling place. A palm reader (an
+astrologer) was visiting and was captivated by his humor and warmth. He
+finally screwed up the courage to ask Ajahn Chah if he could look at the
+lines on his hands. Of course, Ajahn Chah teased him and said, “Well, am
+I going to win the lottery?” The palm reader looked at his hands and
+said, “Luang Por, the lines in your hands—you’ve got a lot of anger!”
+Ajahn Chah smiled and said, “Yes, but I don’t use it.” It’s those simple
+words: you don’t negate personality or temperament, but you have the
+wisdom and the clarity to say: “I really don’t want to repeat that. Been
+there, done that. Time to let it go.”
+
+Another story about Ajahn Chah took place when he had already been abbot
+of the monastery for some years. He was a real taskmaster. If you talk
+to the really senior monks, you would find out it was not much fun; he
+was very strict. One day, after the meal, everyone else had finished and
+left. As Ajahn Chah was walking past a novice, he saw the novice
+standing, picking up a kettle, and, rather than going to find a cup,
+drinking directly from it. Ajahn Chah lost it. In the first place, it is
+impolite for a monk or novice to stand and drink. And then to do it by
+drinking straight from the kettle was too much.
+
+Ajahn Chah took one look and just bolted after the lad. He was going to
+beat this little novice. The novice saw him and was out of there. Ajahn
+Chah chased after him, trying to catch the novice to thrash him. The
+novice was quicker and got away. Then it hit Ajahn Chah, what he was
+doing. He went back to his dwelling place and didn’t come out for three
+days. He sat and worked with that anger. He didn’t come out, go on
+almsround, or eat. The monks said that after that occasion, nobody ever
+saw him display anger again. It was very, very interesting. He just
+realized, “This is painful, this is suffering, and I’ve really got to
+deal with it.”
+
+Teachers who are wise or compassionate aren’t born like that—that’s not
+how it works. You have to work at it; you have to deal with it. There
+needs to be the realization: this is suffering and there is a way out of
+this. It’s seeing that taking rebirth again and again; even if it’s
+pleasant, is not worth it. This is a tremendous gift of kindness to the
+world. That’s something that we can be doing, each in our own way. We
+can set that intention, that resolution. Mettā bhāvanā is not an
+indulgent way of making yourself feel good for a little bit. It’s
+cultivating the roots of your liberation and recognizing what is of
+benefit to you and all beings. So I offer that for reflection this
+morning.

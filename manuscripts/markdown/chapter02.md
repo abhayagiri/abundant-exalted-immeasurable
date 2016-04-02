@@ -1,0 +1,257 @@
+# Mettā: A Mature Emotion
+
+Q: My activist neighbor is going to Nevada to register voters. It’s
+difficult to convince myself that I’m sitting in meditation for the
+benefit of all beings (not just giving myself a “gift”), let alone
+explain a week of sitting to her. Could you comment?
+
+A: There are a couple of different layers there. The main one that leaps
+out is, I don’t think you need to explain yourself to everybody,
+especially in the light of loving-kindness. It is usually not an act of
+loving-kindness to try to compare and then explain yourself to others.
+That’s usually an exercise in judgment of yourself in which you,
+invariably, come up short. The very impulse to have to explain yourself
+to others is almost always generated from the sense, “I must be doing
+something wrong, and therefore, I have to explain myself.” You’re
+inevitably going to come up short.
+
+A good question is: “Is this an act of kindness towards myself?” And
+then, “Is it a real act of kindness to explain yourself to other people?
+Do they actually need to know?” It’s something of an American compulsion
+to explain yourself to others.
+
+I remember the very first year that I came to America to help found
+Abhayagiri. I was invited on almsround to Peter Mayland’s house, which
+is about seven miles from the monastery. You walk down Tomki Road and
+East Road on almsround to get to their house. It’s a long walk. A woman
+pulled over and asked, “Where are you going? Do you need a ride?” I had
+misjudged the time and we were running a bit late, so it was quite good
+to have a ride. There was still maybe a mile or a mile and a half left.
+It wasn’t that far, but in the distance of a mile or a mile and a half,
+I learned more about that woman’s life than I had wanted to know. I had
+never seen her before. There is a compulsion in the American psyche to
+try to explain everything to everybody. I don’t know how much of a
+kindness that is to other people.
+
+So these are some basic thoughts in terms of the reflection around
+loving-kindness: “Is it a kindness to oneself? Is it a kindness to
+others?”
+
+In the realm of meditation and activism, we can ask ourselves: “What is
+better? What should I be doing?” There’s a tendency in the mind to think
+in terms of either/or. Either I should be doing this, or I should be
+doing that. Either this is right and that’s wrong or that’s wrong and
+this is right.
+
+That approach is very divisive and complicates things. Again, is it a
+kindness to think in that way? It’s a real questioning of the underlying
+ways that we relate to ourselves and the world around us: what is the
+effect of that framework of right and wrong, either/or? It’s important
+in terms of spiritual practice, particularly from this perspective of
+loving-kindness, to get some space around that way of dividing things
+up—separating them out and being in opposition to things.
+
+I don’t think that is a helpful way to reflect on our experience because
+how the Buddha structured things was not so much as “right and wrong,”
+but more as “skillful and unskillful, wholesome and unwholesome.” We
+realize that an activist who is registering voters is doing something
+wholesome and skillful. That’s a good thing to do. “Is it what *I* need
+to be doing? Is it what I want to be doing right now? Do I feel drawn to
+that?” Maybe yes, maybe no. It’s also about being able to see somebody
+else’s skillfulness or wholesome activity and delight in that, being
+able to derive a sense of encouragement from others’ good actions
+without intimidating ourselves: “Other people can and are happy to do
+that. That’s great.
+
+What I’d like to do for this week, at least, is to have a chance for a
+period of retreat—settling, creating an inner anchor for myself. That’s
+a wholesome, good, and skillful thing to do.” It doesn’t mean that
+because we have made the choice to be on retreat that we’re right and
+the rest of those schmucks out there really blew it. These are very
+separate realms.
+
+We can encourage ourselves in the choices that we make without
+undermining ourselves. That’s an act of kindness. We can also see how
+other people choose to use their time and energy and encourage and
+support them or at least delight in the good that they are doing. That
+is an aspect of our own wholesomeness as well, and we benefit from that.
+
+There is a word in Buddhist jargon: in Pāli, it is *puñña*, in the Thai
+language, *boon*. Inevitably, Thai people who have been to the West or
+have met a Westerner who is studying Buddhism ask, “How do you translate
+*boon*?” It’s one of those very difficult terms to render. But the
+Buddha himself said, “*Puñña* is another word for happiness.” It is the
+result of skillful action: good, wholesome actions or activities that
+result in happiness and well-being for you and for others.
+
+Generosity and giving are puñña. Keeping precepts and virtue are puñña.
+Meditation is puñña. Listening to teachings is puñña. Teaching is puñña.
+Giving the opportunity for other people to access teachings is puñña.
+Helping others, acts of service, are puñña. Delighting in the good that
+other people do is puñña. Dedicating the blessings that come from your
+own good actions is puñña.
+
+There are many levels, but these are avenues for creating happiness. We
+realize that we can tie them into the theme of loving-kindness. The
+recognition of that which is wholesome and skillful is an act of
+loving-kindness, as well as the commitment to doing that—also realizing
+that the thought, “If I’m not meditating, I’m wasting my time,” is not a
+fixed thing.
+
+There are many avenues of wholesome and skillful action, and it’s
+important to be able to have a recognition of the spectrum, so that we
+can seize the opportunities, such as seeing somebody else doing
+something skillful and then delighting in that. It’s expressed in the
+Pāli word *anumodanā*, delighting in the good that is done. You don’t
+even have to do anything.
+
+If you see somebody else doing something skillful, it doesn’t have to be
+intimidating: “I just don’t measure up.” Nor do you have to be jealous:
+“They’re not so good, really.” There is that sort of criticism, which is
+a way to pull people down and put them in their place. It’s very
+small-minded; it’s not kind to yourself and not kind to others.
+
+Conversely, there is a spaciousness in the heart when you are neither
+intimidated by others nor torturing yourself because you are not doing
+quite the “right” thing in the “right” way. Feeling guilty about
+something that you didn’t do properly just goes on and on. None of that
+is a kindness to yourself or to others.
+
+I remember one time traveling as a translator and attendant to a very
+senior, well-known, and highly respected Thai monk, Luang Por
+Paññananda. A few people in the room here have met him before. When I
+took a group to Thailand, we went to pay respects to him. Now, there is
+someone with serious puñña, a whole life of giving. When we went, he was
+sick and in the hospital, but it was a hospital that he had built. He
+was about ninety-six at the time, but very bright.
+
+I traveled with him in the 1980s and one time, we were in New Zealand.
+It was the evening session: chanting, meditation, Dhamma talk, and
+questions afterwards. One of the questions that somebody asked fairly
+early on was: “How do we deal with that feeling of guilt?” Of course, I
+was familiar with that feeling, but the interesting thing was that when
+I tried to translate it, I realized that I don’t know what the word for
+guilt is in Thai. I had been translating for teachers and studying the
+language and the Dhamma for years, but my mind drew a blank, so I burst
+out laughing. I explained to him what the question was, why I was
+laughing, and how the concept was a bit distant in the Thai language and
+culture. I had to explain to him what Westerners do with their minds to
+make themselves feel guilty.
+
+He listened and got this very concerned look on his face as I was
+explaining how guilt works. When I finished the explanation, he said,
+“Oh, that’s really suffering. Tell them not to do that.” It isn’t as if
+Thai people don’t have these emotions. There is a very healthy place for
+remorse, but not that complication of guilt, which is so easy to carry
+around because of the strong sense of self, “me,” and judgment. We
+judge, compare, and divide ourselves into “me” and this world that we
+are either trying to live up to or being intimidated by. These are very
+painful distinctions.
+
+An act of loving-kindness comes with the attitude of “this is the way
+things are,” in the sense that there is a recognition: “Well, that’s
+just a feeling. I’m going to get some space around that, not contend
+with it, and not slip into those thoughts of comparison and suffering
+that accompany it.” That is an act of loving-kindness towards oneself.
+It’s a very useful skill to be able to see somebody who is doing
+something good and then be able not to make it a judgment about
+yourself, torturing yourself.
+
+I think that sometimes, when we see loving-kindness as one of the
+*brahma viharas*, a divine abiding, that puts it out *there* somewhere:
+“The divine, that’s way off somewhere else.” One of the monks in England
+has started translating brahma vihara as “mature emotion,” and that’s a
+skillful way of bringing attention to that aspect. It is a mature
+emotion to be able to turn attention to loving-kindness, compassion,
+sympathetic joy, and equanimity. The doorway into them all is the
+quality of loving-kindness. Bring attention to that, consciously, and
+then also bring attention to what obstructs it. We can start to pay
+attention to the immature emotions, which are fairly accessible, and
+recognize: “There’s that twinge of jealousy; there’s that twinge of
+comparing; there’s that irritation.” Rather than letting them gain
+momentum, you can ask: “How can I bring a mature emotion into this? How
+can I bring some space around this?”
+
+The quality of loving-kindness creates space; it’s a very spacious
+emotion. As we create that spaciousness, it’s also very solid. It’s not
+a fleeting kind of pleasure, delight, or gratification. Irritation,
+jealousy, and aversion come up in the mind, but they don’t create a
+steadiness. They’re not stable feelings and emotions in the heart.
+
+With that feeling of loving-kindness—as we tap into and direct attention
+to it—we realize there is a stability and groundedness that comes from
+it. We have a ground beneath that is not shaken by the vagaries of
+either the internal world of our emotions and reactions or the external
+world of change and praise and blame. When I think of people I’ve met
+who embodied loving-kindness, there was a tremendous steadiness or
+stability there.
+
+Thinking of something being billed as a “Mettā Retreat,” what do we do?
+Do we come and ooze niceness? That turns my stomach, actually. Or do we
+put a lot of effort into trying to beam love everywhere? That can get
+pretty tiring. Again, the people I’ve met who embodied loving-kindness
+possessed tremendous stability.
+
+I think of one particular circumstance in my life that was very helpful
+and illuminating for me. I had been the abbot of the International
+Forest Monastery in Thailand for a few years, not all that long, and I
+was finding it overwhelming. I had a chance to go to England. Ajahn
+Sumedho and many of the other senior western monks, old mates, were
+there. I was still stuck in Thailand looking after a monastery. I wasn’t
+sure whether I was capable of doing it, or if I even wanted to do it.
+There were conflicts with the monks and duties with the lay community. I
+was feeling overwhelmed.
+
+Toward the end of my stay in England, which was just a few weeks, I was
+dreading getting on the plane. It was going to be a miserable plane ride
+because I was thinking: “Oh, I’ve got to go back to the monastery, and
+there’s this monk and that monk, and blah, blah, blah.” One of the
+senior monks in England, who had lived in Thailand for many years, had a
+little package. He said, “When you get to Bangkok, please take this and
+offer it to this particular monk.” This monk, Phra Payutto, had a good
+reputation, but I hadn’t met him yet. He was also not so well known at
+that time. Now, he is internationally renowned.
+
+In those days he lived in a temple in Bangkok at the edge of Chinatown,
+in the old central part of the city. The area that he was in wasn’t
+particularly nice. Oftentimes in Bangkok, all of the monks’ shops are in
+one area and then there is another area that is the clothing section.
+The place where the temple was looked like they fixed the transmissions
+of car engines there. Oil, grease, and car parts were everywhere as you
+entered the temple. One of the things the temple also did was cremations
+for the poorest of the poor people. There was always something
+happening, and it was crowded.
+
+I went to the back, where his dwelling place was. He radiated peace and
+kindness in the center of this business, dirtiness, pollution, and
+chaos. He was an anchor of peace, clarity, and kindness. Talking to him,
+he was extraordinarily kind, and he received me very well. He’s now very
+well-known and respected in Thailand. People come from all levels of
+society to pay respects to him. He’s one of the very few monks in
+Thailand to have completed all of his studies of the scriptures and Pāli
+when he was still a novice. When that happens, the King is traditionally
+the sponsor for the ordination. He has a brilliant mind. Sometimes,
+somebody with a brilliant mind is not necessarily attuned to other
+people, but he had a real completeness; everything was suffused with
+kindness.
+
+It really struck me: “Okay, that’s a way that I can survive. If I could
+turn my attention to those qualities of kindness and mettā, that would
+hold me in good stead. Also, I’m going back to a quiet forest monastery
+in the northeast of Thailand, and if I can’t get some peace out of that,
+I’m doing something wrong with my holy life.” He was a wonderful
+example.
+
+Some of the people here also met him when I took the group to Thailand.
+He received us so graciously. He is in constant pain; he has always been
+plagued by illness. But although he is in constant pain, the quality of
+kindness that radiates from him is very tangible.
+
+You see, again, the sense of a mature emotion that is very steadying,
+stabilizing, and grounding. These are not qualities that people are born
+with. It’s not that they get it all; these are universal qualities that
+anybody can cultivate and tap into. I think it’s an important reflection
+to develop: “Oh, this is a mature emotion to direct attention to.” It
+gives us the opportunity, whether one is in a family or social
+situation, whether it’s dealing with Buddhists, people in society, or
+oneself, to be able to direct attention to this very important quality.
