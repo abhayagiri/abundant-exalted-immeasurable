@@ -2,18 +2,19 @@
 
 \usepackage{geometry}
 \geometry{%
+    %papersize={378,576},
     inner=54pt,
     outer=45pt,
-    top=54pt,
-    bottom=54pt,
-    headsep=14pt,
-    footskip=15pt,
+    top=45pt,
+    bottom=45pt,
+    headsep=15pt,
+    footskip=30pt,
 }
 
 \usepackage{fontspec}
 \setmainfont{Gentium Basic}
 \newfontface\sansfont[Scale=MatchLowercase]{DejaVu Sans ExtraLight}
-\renewcommand\normalsize{\fontsize{10.5}{13}}
+%\renewcommand\normalsize{\fontsize{10.5}{13}}
 \linespread{1.02}
 
 \usepackage[defaultlines=2,all]{nowidow}
@@ -37,17 +38,27 @@
 }
 \chapterstyle{default}
 
-\newcommand\headfont{\footnotesize\sansfont}
+\newcommand\headfootfont{\small\sansfont}
+
+\makeevenfoot{plain}% verso
+{\headfootfont}
+{\headfootfont\thepage}
+{\headfootfont}
+
+\makeoddfoot{plain}% recto
+{\headfootfont}
+{\headfootfont\thepage}
+{\headfootfont}
 
 \makeevenhead{headings}% verso
-{{\headfont \thepage\hspace{2em}\thetitle}}% left
-{{\headfont}}% center
-{{\headfont}}% right
+{\headfootfont\thepage\hspace{2em}\thetitle}% left
+{\headfootfont}% center
+{\headfootfont}% right
 
 \makeoddhead{headings}% recto
-{{\headfont}}% left
-{{\headfont}}% center
-{{\headfont \rightmark\hspace{2em}\thepage}}% right
+{\headfootfont}% left
+{\headfootfont}% center
+{\headfootfont\rightmark\hspace{2em}\thepage}% right
 
 \makepsmarks{headings}{%
     \nouppercaseheads
@@ -71,3 +82,10 @@
 
 \sloppy
 \sloppybottom
+
+\title{Abundant, Exalted, Immeasurable}
+\hypersetup{%
+    pdftitle={\thetitle},
+    pdfauthor={Pasanno Bhikkhu},
+    pdfkeywords={Buddhism, loving-kindness},
+}
