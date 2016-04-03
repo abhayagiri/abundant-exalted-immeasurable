@@ -1,6 +1,6 @@
 LATEX=lualatex
 LATEX_OPTS=-interaction=nonstopmode -halt-on-error
-LATEX_FILES=print.tex
+LATEX_FILES=print.tex web.tex
 PDF_FILES=$(LATEX_FILES:.tex=.pdf)
 
 all: $(PDF_FILES)
