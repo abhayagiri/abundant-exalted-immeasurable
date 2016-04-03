@@ -22,6 +22,7 @@
 \usepackage[setpagesize=false,hidelinks=true]{hyperref}
 
 \setlength{\parskip}{0pt}
+\setlength{\parindent}{16.5pt}
 \renewcommand\ldots{.~.~.}
 \frenchspacing
 
@@ -89,3 +90,8 @@
     pdfauthor={Pasanno Bhikkhu},
     pdfkeywords={Buddhism, loving-kindness},
 }
+
+\renewenvironment{quotation}
+    {\list{}{\leftmargin=16.5pt\rightmargin=16.5pt}\linespread{1.2}\parindent 1.5em\small\item[]}
+    {\endlist}
+
