@@ -6,6 +6,9 @@ import sys
 replacements = [
     ('\r', '', 0, 0),
     (r'\\label{.*?}', '', 0, 0),
+    (r'\.\.\.', '\ldots{}', 0, 0),
+    (r'\\begin{quote}', r'\\begin{quotation}', 0, 0),
+    (r'\\end{quote}', r'\\end{quotation}', 0, 0),
 ]
 
 
