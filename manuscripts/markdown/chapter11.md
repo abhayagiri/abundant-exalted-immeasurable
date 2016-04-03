@@ -1,4 +1,4 @@
-# Day Four Questions and Answers
+# Questions and Answers
 
 So, we’ll begin this evening’s question period. Nature abhors a vacuum
 and we managed to get through all the submitted questions last night.

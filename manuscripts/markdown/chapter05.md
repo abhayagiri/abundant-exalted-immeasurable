@@ -1,4 +1,4 @@
-# Day Two Questions and Answers
+# Questions and Answers
 
 Let’s begin the question-and-answer session. It looks like there is a
 veritable blizzard of questions. That’s always encouraging.

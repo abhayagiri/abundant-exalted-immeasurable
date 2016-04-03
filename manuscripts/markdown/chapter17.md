@@ -1,4 +1,4 @@
-# Day Siz Questions and Answers
+# Questions and Answers
 
 1\. In the palm-reader story, you mentioned that Ajahn Chah still had a
 lot of anger, but that he chose not to act from it. Does this mean that,

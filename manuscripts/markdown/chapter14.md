@@ -1,4 +1,4 @@
-# Day Five Questions and Answers
+# Questions and Answers
 
 1a. Realized beings abound these days. Care to comment?
 

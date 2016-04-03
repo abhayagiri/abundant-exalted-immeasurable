@@ -1,4 +1,4 @@
-# Day Three Questions and Answers
+# Questions and Answers
 
 Q: For me, there appears to be a fine line between paying attention to
 breath and controlling breath. Is it like with quantum physics: just
