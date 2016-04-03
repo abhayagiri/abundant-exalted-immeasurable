@@ -1,7 +1,7 @@
 LATEX=lualatex
 LATEX_OPTS=-interaction=nonstopmode -halt-on-error
 LATEX_FILES=print.tex
-PDFFILES=$(LATEX_FILES:.tex=.pdf)
+PDF_FILES=$(LATEX_FILES:.tex=.pdf)
 
 all: $(PDF_FILES)
 
