@@ -86,10 +86,10 @@
 \aliaspagestyle{chapter}{plain}
 
 \renewcommand{\cftchapterfont}{\normalfont}
-%\renewcommand{\cftchapterformatpnum}[1]{{\normalfont #1}}
-\renewcommand{\cftchapterformatpnum}[1]{}
-%\renewcommand{\chapternumberline}[1]{\normalfont #1}
-\setlength{\cftbeforechapterskip}{.6em}
+\renewcommand{\cftchapterformatpnum}[1]{{\normalfont #1}}
+%\renewcommand{\chapternumberline}[1]{\normalfont #1\hspace{.5em}}
+\renewcommand{\chapternumberline}[1]{}
+\setlength{\cftbeforechapterskip}{.4em}
 
 \sloppy
 \sloppybottom
@@ -100,6 +100,9 @@
         \small\parindent 1.5em\linespread{1.08}%
         \setlength{\parskip}{0pt}\item[]}
     {\endlist}
+
+\newlength{\qaskip}
+\setlength{\qaskip}{.5em}
 
 \title{Abundant, Exalted, Immeasurable}
 \hypersetup{%
