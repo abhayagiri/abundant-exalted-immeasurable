@@ -28,108 +28,113 @@ and again, and by reason of which they take delight.” (A 8.19)
 As I was poking around, I came across a delightful sutta that I thought
 I would read this morning, which also concerns the fruits of realization
 and, in particular, the first access into the realization of
-stream-entry. (A 6.10)
+stream-entry (A 6.10).
 
-On one occasion the Blessed One was dwelling among the Sakyans at
-Kapilavattu in the Banyan Tree Park. \[That was his hometown.\] Then
-Mahānāma the Sakyan approached the Blessed One, paid homage to him, sat
-down to one side, and said to the Blessed One:
-
-“Bhante, how does a noble disciple, who has arrived at the fruit and
-understood the teaching, often dwell?” \[That is, the realization of
-stream-entry.\]
-
-“Mahānāma, a noble disciple, who has arrived at the fruit and understood
-the teaching, often dwells in this way:
-
-“Here, Mahānāma, a noble disciple recollects the Tathāgata thus: ‘The
-Blessed One is an arahant, perfectly enlightened, accomplished in true
-knowledge and conduct, fortunate, knower of the world, unsurpassed
-trainer of persons to be tamed, teacher of devas and humans, the
-Enlightened One, the Blessed One.’ When a noble disciple recognizes the
-Tathāgata thus, on that occasion his mind is not obsessed with lust,
-hatred or delusion; on that occasion his mind is simply straight, based
-on the Tathāgata. A noble disciple whose mind is straight gains
-inspiration in the meaning, gains inspiration in the Dhamma, gains joy
-connected with the Dhamma. When he is joyful, rapture arises. For one
-with a rapturous mind, the body becomes tranquil. One tranquil in body
-feels pleasure. For one feeling pleasure, the mind becomes concentrated.
-This is called a noble disciple who dwells in balance amid an unbalanced
-population, who dwells unafflicted amid an afflicted population. As one
-who has entered upon the stream of the Dhamma, he develops recollection
-of the Buddha.
-
-“Again, Mahānāma, a noble disciple recollects the Dhamma thus: ‘The
-Dhamma is well expounded by the Blessed One, directly visible,
-immediate, inviting one to come and see, applicable, to be personally
-experienced by the wise.’ When a noble disciple recollects the Dhamma,
-on that occasion his mind is not obsessed by lust, hatred, and delusion;
-on that occasion his mind is simply straight, based on the Dhamma ...
-This is called a noble disciple who dwells in balance amid an unbalanced
-population, who dwells unafflicted amid an afflicted population. As one
-who has entered upon the stream of the Dhamma, he develops recollection
-of the Dhamma.
-
-“Again, Mahānāma, a noble disciple recollects the Sangha thus: ‘The
-Sangha of the Blessed One’s disciples is practicing the good way,
-practicing the straight way, practicing the true way, practicing the
-proper way; that is, the four pairs of persons, the eight types of
-individuals—this Sangha of the Blessed One’s disciples is worthy of
-gifts, worthy of hospitality, worthy of offerings, worthy of reverential
-salutation, the unsurpassed field of merit for the world.’ When a noble
-disciple recollects the Sangha, on that occasion his mind is not
-obsessed by lust, hatred, and delusion; on that occasion his mind is
-simply straight, based on the Sangha ... This is called a noble disciple
-who dwells in balance amid an unbalanced population, who dwells
-unafflicted amid an afflicted population. As one who has entered upon
-the stream of the Dhamma, he develops recollection of the Sangha.
-
-“Again, Mahānāma, a noble disciple recollects his own virtuous behavior
-as unbroken, flawless, unblemished, unblotched, freeing, praised by the
-wise, ungrasped, leading to concentration. When a noble disciple
-recollects his virtuous behavior, on that occasion his mind is not
-obsessed by lust, hatred, and delusion; on that occasion his mind is
-simply straight, based on virtuous behavior ... This is called a noble
-disciple who dwells in balance amid an unbalanced population, who dwells
-unafflicted amid an afflicted population. As one who has entered of the
-stream of the Dhamma, he develops recollection of virtuous behavior.
-
-“Again, Mahānāma, a noble recollects his own generosity thus: ‘It is
-truly my good fortune and gain that in a population obsessed by the
-stain of miserliness, I dwell at home with a mind devoid of the stain of
-miserliness, freely generous, openhanded, delighting in relinquishment,
-devoted to charity, delighting in giving and sharing.’ When a noble
-disciple recollects his own generosity, on that occasion his mind is not
-obsessed by lust, hatred, and delusion; on that occasion his mind is
-simply straight, based on generosity ... This is called a noble disciple
-who dwells in balance amid an unbalanced population, who dwells
-unafflicted amid an afflicted population. As one who has entered of the
-stream of the Dhamma, he develops recollection of generosity.
-
-“Again, Mahānāma, a noble disciple recollects the deities thus: ‘There
-are devas \[ruled by\] the four great kings, Tāvatiṃsa devas, Yāma
-devas, Tusita devas, devas who delight in creation, devas who control
-what is created by others, devas of Brahmā’s company, and devas still
-higher than these. There exists in me too such faith as those deities
-possessed because of which, when they passed away here, they were born
-there. There is found in me such virtuous behavior ... such learning ...
-such generosity ... such wisdom as those deities possessed because of
-which, when they passed away from here, they were reborn there.’ When a
-noble disciple recollects the faith, virtuous behavior, learning,
-generosity, and wisdom in himself and in those deities, on that occasion
-his mind is not obsessed by lust, hatred, and delusion; on that occasion
-his mind is simply straight, based on the deities. A noble disciple
-whose mind is straight gains inspiration in the meaning, gains
-inspiration in the Dhamma, gains joy connected with the Dhamma. When he
-is joyful, rapture arises. For one with a rapturous mind, the body
-becomes tranquil. One tranquil in body feels pleasure. For one feeling
-pleasure, the mind becomes concentrated. This is called a noble disciple
-who dwells in balance amid an unbalanced population, who dwells
-unafflicted amid an afflicted population. As one who has entered the
-stream of the Dhamma, he develops recollection of the deities.
-
-“Mahānāma, a noble disciple, who has arrived at the fruit and understood
-the teaching, often dwells in just this way.” (A 6.10)
+> On one occasion the Blessed One was dwelling among the Sakyans at
+> Kapilavattu in the Banyan Tree Park. \[That was his hometown.\] Then
+> Mahānāma the Sakyan approached the Blessed One, paid homage to him,
+> sat down to one side, and said to the Blessed One:
+> 
+> “Bhante, how does a noble disciple, who has arrived at the fruit and
+> understood the teaching, often dwell?” \[That is, the realization of
+> stream-entry.\]
+> 
+> “Mahānāma, a noble disciple, who has arrived at the fruit and
+> understood the teaching, often dwells in this way:
+> 
+> “Here, Mahānāma, a noble disciple recollects the Tathāgata thus: ‘The
+> Blessed One is an arahant, perfectly enlightened, accomplished in true
+> knowledge and conduct, fortunate, knower of the world, unsurpassed
+> trainer of persons to be tamed, teacher of devas and humans, the
+> Enlightened One, the Blessed One.’ When a noble disciple recognizes
+> the Tathāgata thus, on that occasion his mind is not obsessed with
+> lust, hatred or delusion; on that occasion his mind is simply
+> straight, based on the Tathāgata. A noble disciple whose mind is
+> straight gains inspiration in the meaning, gains inspiration in the
+> Dhamma, gains joy connected with the Dhamma. When he is joyful,
+> rapture arises. For one with a rapturous mind, the body becomes
+> tranquil. One tranquil in body feels pleasure. For one feeling
+> pleasure, the mind becomes concentrated. This is called a noble
+> disciple who dwells in balance amid an unbalanced population, who
+> dwells unafflicted amid an afflicted population. As one who has
+> entered upon the stream of the Dhamma, he develops recollection of the
+> Buddha.
+> 
+> “Again, Mahānāma, a noble disciple recollects the Dhamma thus: ‘The
+> Dhamma is well expounded by the Blessed One, directly visible,
+> immediate, inviting one to come and see, applicable, to be personally
+> experienced by the wise.’ When a noble disciple recollects the Dhamma,
+> on that occasion his mind is not obsessed by lust, hatred, and
+> delusion; on that occasion his mind is simply straight, based on the
+> Dhamma ... This is called a noble disciple who dwells in balance amid
+> an unbalanced population, who dwells unafflicted amid an afflicted
+> population. As one who has entered upon the stream of the Dhamma, he
+> develops recollection of the Dhamma.
+> 
+> “Again, Mahānāma, a noble disciple recollects the Sangha thus: ‘The
+> Sangha of the Blessed One’s disciples is practicing the good way,
+> practicing the straight way, practicing the true way, practicing the
+> proper way; that is, the four pairs of persons, the eight types of
+> individuals—this Sangha of the Blessed One’s disciples is worthy of
+> gifts, worthy of hospitality, worthy of offerings, worthy of
+> reverential salutation, the unsurpassed field of merit for the world.’
+> When a noble disciple recollects the Sangha, on that occasion his mind
+> is not obsessed by lust, hatred, and delusion; on that occasion his
+> mind is simply straight, based on the Sangha ... This is called a
+> noble disciple who dwells in balance amid an unbalanced population,
+> who dwells unafflicted amid an afflicted population. As one who has
+> entered upon the stream of the Dhamma, he develops recollection of the
+> Sangha.
+> 
+> “Again, Mahānāma, a noble disciple recollects his own virtuous
+> behavior as unbroken, flawless, unblemished, unblotched, freeing,
+> praised by the wise, ungrasped, leading to concentration. When a noble
+> disciple recollects his virtuous behavior, on that occasion his mind
+> is not obsessed by lust, hatred, and delusion; on that occasion his
+> mind is simply straight, based on virtuous behavior ... This is called
+> a noble disciple who dwells in balance amid an unbalanced population,
+> who dwells unafflicted amid an afflicted population. As one who has
+> entered of the stream of the Dhamma, he develops recollection of
+> virtuous behavior.
+> 
+> “Again, Mahānāma, a noble recollects his own generosity thus: ‘It is
+> truly my good fortune and gain that in a population obsessed by the
+> stain of miserliness, I dwell at home with a mind devoid of the stain
+> of miserliness, freely generous, openhanded, delighting in
+> relinquishment, devoted to charity, delighting in giving and sharing.’
+> When a noble disciple recollects his own generosity, on that occasion
+> his mind is not obsessed by lust, hatred, and delusion; on that
+> occasion his mind is simply straight, based on generosity ... This is
+> called a noble disciple who dwells in balance amid an unbalanced
+> population, who dwells unafflicted amid an afflicted population. As
+> one who has entered of the stream of the Dhamma, he develops
+> recollection of generosity.
+> 
+> “Again, Mahānāma, a noble disciple recollects the deities thus: ‘There
+> are devas \[ruled by\] the four great kings, Tāvatiṃsa devas, Yāma
+> devas, Tusita devas, devas who delight in creation, devas who control
+> what is created by others, devas of Brahmā’s company, and devas still
+> higher than these. There exists in me too such faith as those deities
+> possessed because of which, when they passed away here, they were born
+> there. There is found in me such virtuous behavior ... such learning
+> ... such generosity ... such wisdom as those deities possessed because
+> of which, when they passed away from here, they were reborn there.’
+> When a noble disciple recollects the faith, virtuous behavior,
+> learning, generosity, and wisdom in himself and in those deities, on
+> that occasion his mind is not obsessed by lust, hatred, and delusion;
+> on that occasion his mind is simply straight, based on the deities. A
+> noble disciple whose mind is straight gains inspiration in the
+> meaning, gains inspiration in the Dhamma, gains joy connected with the
+> Dhamma. When he is joyful, rapture arises. For one with a rapturous
+> mind, the body becomes tranquil. One tranquil in body feels pleasure.
+> For one feeling pleasure, the mind becomes concentrated. This is
+> called a noble disciple who dwells in balance amid an unbalanced
+> population, who dwells unafflicted amid an afflicted population. As
+> one who has entered the stream of the Dhamma, he develops recollection
+> of the deities.
+> 
+> “Mahānāma, a noble disciple, who has arrived at the fruit and
+> understood the teaching, often dwells in just this way.” (A 6.10)
 
 One of the things that I like to point out is that, particularly in
 terms of meditation, there are different recollections such as these to
@@ -158,7 +163,7 @@ Dhamma, with respect to the five khandhas.
 When we do the morning chanting, we go through all of the different
 aspects of suffering. Then the chant ties it all up, saying, “In brief,
 the five focuses of the grasping mind are dukkha.” This is a recognition
-that these *pañcupādāna khandhā* (the aggregates of being) are affected
+that these *pañcupādāna-khandhā* (the aggregates of being) are affected
 by grasping, clinging, and attachment. The identification with body,
 feeling, perception, mental formations, and consciousness—the habit of
 attachment and clinging—is what is intrinsically bound up with
@@ -260,8 +265,8 @@ It had been so vivid in his memory and he had told the story so many
 times, but when he actually went back, it wasn’t how he had remembered
 it or had related it to people. It was different.
 
-“*Sañña anicca*” (perception is impermanent). Perception is not a
-mechanical function that is solid. It’s the *upādāna khandha* ( the
+*Saññā aniccā* (perception is impermanent). Perception is not a
+mechanical function that is solid. It’s the *upādāna-khandha* ( the
 aggregate of being affected by attachment and clinging). Clinging arises
 out of like or dislike, or some kind of delusion. It doesn’t have to be
 gross. We pick up on gross things, but it is the subtle things that are

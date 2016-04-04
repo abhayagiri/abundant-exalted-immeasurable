@@ -25,7 +25,7 @@ Discourses*:
 > If one thing, O monks, is developed and cultivated, ignorance is
 > abandoned, supreme knowledge arises, delusion of self is given up, the
 > underlying tendencies are eliminated and the fetters are discarded. What
-> is that one thing? It is mindfulness directed to the body.[^1]
+> is that one thing? It is mindfulness directed to the body. (A 1:11)
  
 These are very useful reflections because although the theme of this
 retreat is mettā, loving-kindness, it’s essential to have an anchor, a
@@ -363,7 +363,3 @@ path, stop for a minute because it’s easy when the body is walking for
 the mind to wander off as well. So connect with present reality, make
 sure you are sustaining that connection with the posture and the
 continuity of mindfulness.
-
-[^1]: Numerical Discoursed of the Buddha – An Anthology of Suttas from the
-Anguttara Nikāya, Translated and edited by Nyanaponika Thera and Bhikkhu
-Bodhi, \#11(1) p. 38-39.

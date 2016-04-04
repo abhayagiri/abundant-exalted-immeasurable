@@ -1,16 +1,15 @@
 # Questions and Answers
 
-1a. Realized beings abound these days. Care to comment?
+Question: Realized beings abound these days. Care to comment? When the
+conditions are conducive and the inquiry is in earnest, is it possible
+to “wake up” quickly?
 
-1b. When the conditions are conducive and the inquiry is in earnest, is
-it possible to “wake up” quickly?
-
-I remember when Ajahn Chah came to America to teach. Because he had done
-some traveling and had taught in a few different places, he was asked,
-“Now that you have been in America for a while, how do you feel about
-Buddhism coming to America?” Ajahn Chah had this blank look on his face
-and said that Buddhism hadn’t come to America yet: “I haven’t seen any
-Buddhism yet.” Ajahn Chah could be naughty sometimes.
+Answer: I remember when Ajahn Chah came to America to teach. Because he
+had done some traveling and had taught in a few different places, he was
+asked, “Now that you have been in America for a while, how do you feel
+about Buddhism coming to America?” Ajahn Chah had this blank look on his
+face and said that Buddhism hadn’t come to America yet: “I haven’t seen
+any Buddhism yet.” Ajahn Chah could be naughty sometimes.
 
 Certainly, when the conditions are conducive and the inquiry is in
 earnest, it is possible to wake up quickly, but finding conducive
@@ -26,21 +25,21 @@ wanted. I wouldn’t have to be reborn in the lower realms again. It’s not
 quite that easy, but certainly, attention to conducive conditions and
 the earnestness of inquiry are really important.
 
-2\. Which suttas describe path and fruit?
+Q: Which suttas describe path and fruit?
 
-There are two different modalities. One is the path as I described it
+A: There are two different modalities. One is the path as I described it
 the other night. There is also another kind of modality, a seven-factor
 description of path and realization. That is in *Majjhima Nikāya* 70,
-the *Kītāgiri Sutta*. Path and fruit are fairly ubiquitous, but I don’t
+the *Kīṭāgiri Sutta*. Path and fruit are fairly ubiquitous, but I don’t
 have a good reference off the top of my head.
 
-3\. I am hoping to go to the Udon Thani and Khon Kaen areas of Thailand.
+Q: I am hoping to go to the Udon Thani and Khon Kaen areas of Thailand.
 Are there temples and teachers that you would recommend for lay
 practice? I am also curious to know the name and location of the teacher
 you mentioned today who has students who focus on themselves as mettā
 objects for so long. That seems appropriate for my case.
 
-That is Ajahn Maha Chatchai in Wat Pleng in Nonthaburi. He lives on the
+A: That is Ajahn Maha Chatchai in Wat Pleng in Nonthaburi. He lives on the
 outskirts of Bangkok.
 
 Udon Thani has lots of forest monasteries with good teachers. There are
@@ -54,11 +53,11 @@ Ajahn Maha Boowa’s monastery. The best thing to do is to get local
 knowledge of good practice places in that area, as there are lots of
 good teachers up there.
 
-4\. Would you say a bit about the benefits of dwelling in
+Q: Would you say a bit about the benefits of dwelling in
 loving-kindness during the dying process? Both for the caregiver and the
 person dying.
 
-The immediate benefit for the person dying is that the mind is not drawn
+A: The immediate benefit for the person dying is that the mind is not drawn
 to negative mental states. That eases the whole process of dying. There
 is physical ease and the diminution of fear. One is able to pass away
 and let the body go with clarity because it is held within the sphere of
@@ -101,17 +100,17 @@ work. The horse collapses, dies, and is shipped off to the glue factory.
 It is really important to have loving-kindness about our limits and to
 find other resources.
 
-5\. If everything about me, my body, thoughts, feelings, and
+Q: If everything about me, my body, thoughts, feelings, and
 consciousness is impermanent, and even if my “self” is illusionary, whom
 or what am I addressing when I wish myself well-being?
 
-It isn’t as if there is no one home. This conventional self is a focal
-point, has taken rebirth, has a mind, and has results ripening from the
-past. These aren’t illusory in the sense that they have no meaning or
-effect. We experience and feel those results. Part of the means of
-disentangling ourselves and ceasing to suffer from the complications
-that we make of that self is loving-kindness. It is one of the skillful
-means for amelioration.
+A: It isn’t as if there is no one home. This conventional self is a
+focal point, has taken rebirth, has a mind, and has results ripening
+from the past. These aren’t illusory in the sense that they have no
+meaning or effect. We experience and feel those results. Part of the
+means of disentangling ourselves and ceasing to suffer from the
+complications that we make of that self is loving-kindness. It is one of
+the skillful means for amelioration.
 
 The negation of self is just as much a wrong view as the full-blown
 belief in self. There is a narrow balance that we need to make in order
@@ -126,18 +125,18 @@ experience the results of actions and the skillful application of that
 which is positive, wholesome, and leads to peace, clarity, and
 well-being. These are exceedingly useful.
 
-6\. For most of the time on this retreat I have had a lot of thoughts
-and worries about a problem that I have been dealing with in daily life
-and which I will have to continue to deal with after the retreat. I’ve
-tried to work skillfully with it, extending mettā to myself and the
-others involved and doing mindfulness practice, working with anxiety,
-anger, aversion, playing out all the possible scenarios, and returning
-to the body. This only seems to intensify things and feels obsessional.
-I recognize this pattern from numerous prior retreats, although the
+Q: For most of the time on this retreat I have had a lot of thoughts and
+worries about a problem that I have been dealing with in daily life and
+which I will have to continue to deal with after the retreat. I’ve tried
+to work skillfully with it, extending mettā to myself and the others
+involved and doing mindfulness practice, working with anxiety, anger,
+aversion, playing out all the possible scenarios, and returning to the
+body. This only seems to intensify things and feels obsessional. I
+recognize this pattern from numerous prior retreats, although the
 thematic content changes. I’m feeling discouraged. Any suggestions?
 
-I think one of the things is recognizing that this is the way the mind
-tends to go. It grabs a particular scenario or difficulty and then
+A: I think one of the things is recognizing that this is the way the
+mind tends to go. It grabs a particular scenario or difficulty and then
 obsesses on it. There is anxiety and fear around it. It’s good to be
 able to say, “Okay, that’s a reasonably well-established pattern,” and
 be able to recognize that. It’s better to approach it by asking, “Can I
@@ -164,20 +163,20 @@ helpful exercise in imagination or visualization: just to replace
 yourself with somebody else. Recognize that you would probably respond
 in a completely different way.
 
-7\. Was Ajahn Chah an *anāgami* \[“non-returner”\] when he became angry
-with the young monk? I thought the root of anger is uprooted at that
-stage. Please explain.
+Q: Was Ajahn Chah an *anāgami* (non-returner) when he became angry with
+the young monk? I thought the root of anger is uprooted at that stage.
+Please explain.
 
-Absolutely not, with that kind of anger. An anāgami has absolutely
+A: Absolutely not, with that kind of anger. An anāgami has absolutely
 eradicated anger and sensual desire. That was the sign that he really
 missed his shot and still had some major defilements to work with, and
 that’s what he put his energy into working with.
 
-8\. Would you explain, in English, the Pali blessings you chant after
+Q: Would you explain, in English, the Pali blessings you chant after
 the meal offering? I can’t remember the whole translation but remember
 that it is very beautiful and complements the concept of mettā.
 
-I can’t remember it either, truth be told. One of the reasons that we
+A: I can’t remember it either, truth be told. One of the reasons that we
 don’t do it in English is that we haven’t got a really good translation
 of it. We have tried on various occasions. It is either hokey or clunky,
 so we haven’t been able to get it into English. But essentially, the
@@ -198,20 +197,20 @@ haven’t got it together yet in English. They are called anumodanā
 chants, and there are a few different ones. “Anumodanā” literally means
 delighting in the goodness that has been done. So that’s the gist of it.
 
-9\. Could you please talk about the difference between awareness and
+Q: Could you please talk about the difference between awareness and
 consciousness? Is awareness a conditioned state, the way consciousness
 is? How can we be aware if not through consciousness?
 
-Exactly. You can’t really separate out the khandhas, the five aggregates
-of being. You can by using language and concepts, but, in reality,
-they’re tied together, rely on each other, and depend on each other. The
-difference between awareness and consciousness is that consciousness is
-the basic function of being able to be aware through the sense doors:
-eye consciousness, ear consciousness, nose consciousness, tongue
-consciousness, body consciousness, and mind consciousness. The ability
-to be conscious of sensory contact—that’s a basic function. If you live,
-exist, and have a body and a mind, then you have a basic function of
-consciousness.
+A: Exactly. You can’t really separate out the khandhas, the five
+aggregates of being. You can by using language and concepts, but, in
+reality, they’re tied together, rely on each other, and depend on each
+other. The difference between awareness and consciousness is that
+consciousness is the basic function of being able to be aware through
+the sense doors: eye consciousness, ear consciousness, nose
+consciousness, tongue consciousness, body consciousness, and mind
+consciousness. The ability to be conscious of sensory contact—that’s a
+basic function. If you live, exist, and have a body and a mind, then you
+have a basic function of consciousness.
 
 Awareness is a function of *saṅkhāra*, mental formations. The
 distinguishing characteristic of saṅkhāra, mental formations, is
@@ -228,12 +227,12 @@ awareness in consciousness as well. By becoming increasingly aware of
 what we are conscious of, we can make clearer decisions and more clearly
 discern what is actually happening to us.
 
-10\. Would you be willing to share some of your personal journey,
+Q: Would you be willing to share some of your personal journey,
 including some description of your life before you became a monk? Why
 did you choose to become a monk? Could you shed light on how the holy
 life can help people grow and change?
 
-I have a very short life history. I grew up in a podunk little town in
+A: I have a very short life history. I grew up in a podunk little town in
 Canada and got out of there as soon as I could. I became interested in
 Buddhism in university in the 1960s. I grew up in the province of
 Manitoba. The town I grew up in is six-hundred miles north of the US
@@ -304,11 +303,11 @@ difficulty, they stick with it and they change. That is one of the
 things that is consistent: if somebody stays with it, change takes
 place. People really do grow and change.
 
-10\. It has been so helpful to hear stories from your own experience.
+Q: It has been so helpful to hear stories from your own experience.
 Could you talk about some of the more challenging moments in your
 practice and how you worked with them?
 
-I’ve shared a few things, especially in terms of conflicts with others.
+A: I’ve shared a few things, especially in terms of conflicts with others.
 One of the things that might be useful is dealing with doubt. That is
 something that we all experience: doubt in ourselves, doubt in the
 practice. One thing that I have found interesting is that it isn’t
@@ -330,12 +329,12 @@ That’s interesting.” On reflection, you see that the doubt has unraveled
 because of the power of the practice and path itself. Confidence in the
 efficacy of the path and training grows and continues to grow.
 
-11\. What is the Pali word for letting go or relinquishment? Please
-spell that as well.
+Q: What is the Pali word for letting go or relinquishment? Please spell
+that as well.
 
-Well there are a few different words that sometimes get tied into the
-phrase “letting go.” *Abhinivesāya*: all *dhamma*s are not to be clung
-to. Not clinging is, of course, letting go. *Patinissagga* directly
+A: Well there are a few different words that sometimes get tied into the
+phrase “letting go.” *Abhinivesāya*: all *dhammas* are not to be clung
+to. Not clinging is, of course, letting go. *Paṭinissagga* directly
 means relinquishment or letting go. *Vossagga* is relinquishment,
 particularly around the sense of self—letting go of the sense of self or
 “I.”
@@ -347,14 +346,14 @@ in relinquishment. The cultivation of *ānāpānasati*, mindfulness of
 breathing, culminates in reflections on impermanence, cessation, and
 relinquishment, which are important terms for reflection.
 
-12\. Is this relinquishment, letting go, the opposite of *upādāna*?
+Q: Is this relinquishment, letting go, the opposite of *upādāna*?
 
-Yes, it would be the opposite of that clinging.
+A: Yes, it would be the opposite of that clinging.
 
-13\. Is *attavādupādāna* clinging to *sakkāya-diṭṭhi*?
+Q: Is *attavādupādāna* clinging to *sakkāya-diṭṭhi*?
 
-There are four different types of upādāna or clinging. The last one is
-*attavādupādāna*, which is the clinging to the belief in self.
+A: There are four different types of upādāna or clinging. The last one
+is *attavādupādāna*, which is the clinging to the belief in self.
 *Sakkāya-diṭṭhi* is one of the fetters; it is the identification with
 the body-mind complex. Attavādupādāna is much broader. It would still
 play itself out in the more refined types of clinging to self and
@@ -365,11 +364,11 @@ clinging to belief in self. It is interesting that the structure of the
 language is not “clinging to self” because the self is non-existent.
 Rather, it is the clinging to the belief in self.
 
-14\. Do you think being interested in Buddhism guided you to the
+Q: Do you think being interested in Buddhism guided you to the
 contemplative life or would you have become a monk in any tradition?
 Would you share a bit of your story?
 
-Certainly there was a draw to some kind of contemplative life. When I
+A: Certainly there was a draw to some kind of contemplative life. When I
 was young, religion didn’t draw me, although that is probably a
 manifestation of stubbornness and contrariness. But something resonated
 immediately with Buddhism and something drew me to meditation and
@@ -386,16 +385,16 @@ But I can see that something resonated, even if it wasn’t conscious.
 Something was definitely drawing me to some kind of spiritual tradition
 and training.
 
-15\. Could you say a few more words on posture? For example, I noticed
+Q: Could you say a few more words on posture? For example, I noticed
 that my body was leaning towards the left, and if I weighted my right
 hand with intention, this seemed to stop. Is this a correct tactic? In
 my marital arts training the goal is to relax and make the breathing
 easier. Is that true of *vipassanā* as well?
 
-I haven’t addressed posture very much on this retreat; I somehow skipped
-over it. Posture is a very helpful anchor for awareness: being able to
-attend to posture, paying attention to a balance of posture and the
-energy we bring into the posture. It is very helpful in terms of the
+A: I haven’t addressed posture very much on this retreat; I somehow
+skipped over it. Posture is a very helpful anchor for awareness: being
+able to attend to posture, paying attention to a balance of posture and
+the energy we bring into the posture. It is very helpful in terms of the
 practice: recognizing where our bodies either slump, lean, or drift. It
 is helpful for balancing energy within the body-mind complex, but you
 also start to get an inkling of what’s going on in your body-mind.
@@ -425,7 +424,7 @@ Chah saw it, was quiet for a while, and looked at it from time to time.
 In the Thai language, the word for “westerner” is *farang*. Finally he
 said, “It looks like a farang Buddha. It looks very tense.”
 
-16\. Could you please explain devas to us? I had an experience yesterday
+Q: Could you please explain devas to us? I had an experience yesterday
 after the Dhamma talk in which I may have seen a group of beings above
 us, particularly above you. This is not the first experience I’ve had
 with perceiving other-worldly beings, but this is the first time new
@@ -437,7 +436,7 @@ a while, they seemed calmer, and I no longer felt their presence. I
 don’t think I’m crazy, but I’m very interested in what the Dhamma says
 about other-worldly, non-material beings.
 
-Unfortunately, I’m one of the last people to talk about any direct
+A: Unfortunately, I’m one of the last people to talk about any direct
 experience with this. I don’t see other realms or other beings. When I
 used to live at Wat Nanachat, there was a cremation ground, so there
 were many ghosts as well as many devas (celestial beings). On more than
@@ -475,12 +474,12 @@ They were reborn immediately by the force of their goodness. There is
 nothing but good spirits here.” Not having direct experience, being able
 to rely on Ajahn Plien was very helpful.
 
-17\. What is the difference between meditating on and contemplating or
+Q: What is the difference between meditating on and contemplating or
 thinking about something? Could you give some examples about someone who
 would be skillfully meditating on something versus unskillfully doing
 so? And what does “*saṅkhāra*” mean?
 
-“Meditating” is a generic term. “Contemplating” definitely has the sense
+A: “Meditating” is a generic term. “Contemplating” definitely has the sense
 of reflection, investigation, and thinking. Meditation can use the
 thought process, but also, the thought process can be still. We use
 contemplation and reflection to help the meditation process, either in
@@ -506,23 +505,23 @@ therefore, one’s a bad meditator or bad person. That’s unskillful.
 Recognize that that is just an impermanent experience, arising and
 ceasing, so there is space around it.
 
-“*Saṅkhāra*” probably has one of the longest definitions in the
+*Saṅkhāra* probably has one of the longest definitions in the
 Pali-English dictionary. It is a complicated word and concept, and it’s
 used in different contexts. In a literal sense, it is something that is
-built, compounded, or created. So in the chant that we do, “*sabbe
-saṅkhāra anicca*” means, “all things of a compounded nature are
-impermanent.” But the phrase is also used in *rupaṁ aniccaṁ*,
-*vedana anicca*, and *sañña anicca*, as well as *saṅkhāra anicca*.
+built, compounded, or created. So in the chant that we do, *sabbe
+saṅkhārā aniccā* means, “all things of a compounded nature are
+impermanent.” But the phrase is also used in *rūpaṃ aniccaṃ*,
+*vedanā aniccā*, and *saññā aniccā*, as well as *saṅkhārā aniccā*.
 It’s used in the context of the khandhas, the aggregates of being. And
 there is also a specific meaning of saṅkhāra that refers to mental
 states, mental formations, which are the compounded and compounding,
 volitional aspect of mental activities.
 
-17\. When I think of people with spontaneous, open, and generous hearts,
-they are full of mettā, *karuna*, and mudita but do not seem equanimous.
+Q: When I think of people with spontaneous, open, and generous hearts,
+they are full of mettā, *karuṇā*, and mudita but do not seem equanimous.
 Can upekkha come naturally, as well as be cultivated?
 
-I think it really is more a result of cultivation because it isn’t
+A: I think it really is more a result of cultivation because it isn’t
 immediately apparent in human experience that equanimity has value. We
 can see the value in loving-kindness, compassion, and sympathetic joy
 (the freedom from jealousy), but it isn’t immediately apparent what is
@@ -558,15 +557,15 @@ think, “Well that’s pretty good, but I bet there is something more.”
 Well, in fact, there is. Equanimity is the refinement that allows us to
 be drawn towards true peace.
 
-18\. What is the difference between *piti* and sukha?
+Q: What is the difference between *pīti* and sukha?
 
-These are qualities that usually arise in meditation as we develop a
+A: These are qualities that usually arise in meditation as we develop a
 continuity of awareness and the mind becomes more and more settled,
 composed, and unified. The description of the first jhāna, or stage of
-absorption, includes *vitakka-vicara*, or directed thought and
-evaluation, *piti*, sukha, and *ekaggata*, which is unification of mind.
+absorption, includes *vitakka-vicāra*, or directed thought and
+evaluation, *pīti*, sukha, and *ekaggatā*, which is unification of mind.
 
-*Piti* is usually translated as joy and sukha as happiness. The classic
+*Pīti* is usually translated as joy and sukha as happiness. The classic
 description from the *Visuddhimagga* is a very good illustration of the
 difference between the two. The image is of a person walking through an
 area of wilderness with no source of water or shade, so that there is an
@@ -587,7 +586,7 @@ experience.
 So, similarly in practice, as we begin to have a continuity of awareness
 and attention, the mind becomes more settled and we start to have a
 joyful energy coming through the body. The feeling of joyful energy that
-we experience is piti, which can be experienced in different ways.
+we experience is pīti, which can be experienced in different ways.
 Sometimes when you are sitting and meditating and the mind is settling,
 there might be some tingling and a rushing feeling in the body. The
 breathing is deep and the body is experiencing a sense of joy, but it’s
@@ -599,7 +598,7 @@ much more pervasive throughout the body. The mind and body become
 relaxed and settled. Feelings of pain and discomfort are completely
 gone, and there is a feeling of well-being.
 
-So those are the differences between piti and sukha. Piti can be a bit
+So those are the differences between pīti and sukha. Pīti can be a bit
 exciting. Sometimes you are meditating, reflecting on some aspect of
 Dhamma, and tears of joy come. It’s hard to get peaceful and settled
 with tears running down your face: you need to blow your nose.
@@ -609,7 +608,7 @@ which is very pervasive. Do not try to control or force things at this
 point. Allow the mind to move into the object of attention. There is a
 unification of mind.
 
-Piti and sukha are very helpful tools in practice, but they are also a
+Pīti and sukha are very helpful tools in practice, but they are also a
 natural result. People experience them in different ways. If you create
 an idea or concept of it, you will almost certainly block it off. The
 most important aspect of practice is mindfulness; that’s really the

@@ -42,15 +42,15 @@ for. And then we die—it goes on and on.
 So, we redirect our attention to something that is a worthy refuge: the
 Buddha as a historical figure and symbol of fundamental qualities, such
 as wisdom, compassion, and purity. The first line of one of the morning
-chants we do at the monastery is “*Buddho, susuddho karuṇāmahaṇṇavo.*”
-“*Buddho*” is one who knows, one with wisdom. “*Susuddho*” is purity,
-and “*karuṇāmahaṇṇavo,*” great compassion.
+chants we do at the monastery is *Buddho, susuddho karuṇāmahaṇṇavo.*
+*Buddho* is one who knows, one with wisdom. *Susuddho* is purity, and
+*karuṇāmahaṇṇavo*, great compassion.
 
-Even the recitation “*Namo tassa bhagavato arahato sammāsambuddhassa*”
-refers to those qualities. “*Bhagavato”* is the Blessed One, who
-radiates the blessing and heart quality of compassion. “*Arahato*” is
-one who is far from defiling tendencies and thus, pure.
-“*Sammāsambuddhassa*” refers to the self-enlightened, wisdom quality.
+Even the recitation *namo tassa bhagavato arahato sammāsambuddhassa*
+refers to those qualities. *Bhagavato* is the Blessed One, who radiates
+the blessing and heart quality of compassion. *Arahato* is one who is
+far from defiling tendencies and thus, pure. *Sammāsambuddhassa* refers
+to the self-enlightened, wisdom quality.
 
 The traditional recollections of the Buddha always refer to these
 qualities of wisdom, compassion, and purity. Of course, these are not
@@ -70,7 +70,7 @@ able to realize, understand, and penetrate, and when those truths are
 seen and understood, they have a transformative quality to them. The
 Buddha himself said that whether a Buddha arises in the world or not,
 there is still this underlying nature of things. All compounded things
-are impermanent and unsatisfactory. All dhammas, all things, are not
+are impermanent and unsatisfactory. All *dhammas*, all things, are not
 self.
 
 It’s helpful when a Buddha comes along and points it out, but this is
@@ -87,11 +87,11 @@ to get a bit of the flavor of having ordained sangha nearby.
 
 However, when the Buddha refers to Sangha outside of the conventional
 level, he’s again pointing to qualities of the heart. In our morning
-chant, when we recollect Sangha, we say: “*Supaṭipanno bhagavato
-sāvakasaṅgho,*” the Sangha of the Blessed One’s disciples are those who
-practice well, “*ujupaṭipanno,*” practice directly, “*ñāyapaṭipanno,*”
+chant, when we recollect Sangha, we say: *Supaṭipanno bhagavato
+sāvakasaṅgho*, the Sangha of the Blessed One’s disciples are those who
+practice well, *ujupaṭipanno*, practice directly, *ñāyapaṭipanno*,
 practice for the overcoming of suffering, for understanding and
-knowledge, “*sāmīcipaṭipanno,*” practice appropriately, with integrity.
+knowledge, *sāmīcipaṭipanno*, practice appropriately, with integrity.
 These are also the qualities of those who have entered into the fruition
 of the path: stream enterers, once returners, non-returners, and
 arahants.

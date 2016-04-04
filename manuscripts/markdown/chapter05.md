@@ -3,10 +3,10 @@
 Let’s begin the question-and-answer session. It looks like there is a
 veritable blizzard of questions. That’s always encouraging.
 
-Question: Can you speak a little bit about *samatha vipassanā* and
+Question: Can you speak a little bit about *samatha-vipassanā* and
 explain the difference between serenity and equanimity?
 
-LPP: *Samatha vipassanā* is actually a commentarial division. *Samatha*
+Answer: *Samatha-vipassanā* is actually a commentarial division. *Samatha*
 is about tranquility, *vipassanā* about insight. This has a scriptural
 basis to a certain extent, but as the commentaries tried to systematize
 the teachings and methodologies, there was a division into distinct
@@ -45,13 +45,13 @@ both emotion and wisdom. So equanimity is a bit more nuanced. Samatha is
 just the settling of the mind, the peacefulness of the mind, a peaceful
 abiding.
 
-Question: Could you please explain the death process? What happens to us
+Q: Could you please explain the death process? What happens to us
 as we die or as the body dies? How quickly does rebirth occur? Is there
 anything in those last moments of that life that affects how we are
 reborn: our thoughts, our environment, how we are being cared for, our
 mature or not-so mature emotions, and so forth?
 
-LPP: One of the things that is good to take into account is that when we
+A: One of the things that is good to take into account is that when we
 think about the death process, we often think, “There I am, in my bed at
 home, surrounded by my family and loved ones, and then I mindfully pay
 attention to the death process.” In reality, more often what happens is
@@ -66,9 +66,9 @@ We idealize how we think we are going to die. Death can come quickly,
 come slowly, it can come on our terms, it can come not on our terms at
 all—more often than not, that is what happens. So, the preparation for
 death is reflection and investigation on a day-to-day basis. One of the
-chants in the chanting book is called “*abhinha paccavekkhana*”:
-things that are to be reflected upon again and again. The Buddha said we
-should be reflecting on these on a daily basis.
+chants in the chanting book is called *abhiṇha-paccavekkhana*: things
+that are to be reflected upon again and again. The Buddha said we should
+be reflecting on these on a daily basis.
 
 “I am of the nature to age; I have not gone beyond aging. I am of the
 nature to sicken; I have not gone beyond sickness. I am of the nature to
@@ -116,11 +116,11 @@ Theravadin scriptures is that they kept everything. As the name itself,
 were the conservative element.
 
 So within the scriptures, you can also have things that contradict that.
-The *antarabhava*, the “in-between becoming,” is a state the Buddha
-talked about. There is also a discourse in which the Buddha compared the
-state to a fire being blown by the wind. The wind picks up the flame and
+The *antarābhava*, the in-between becoming, is a state the Buddha talked
+about. There is also a discourse in which the Buddha compared the state
+to a fire being blown by the wind. The wind picks up the flame and
 pushes it somewhere else, which could be near or far away. The Buddha
-compared that to the desire, the degree of *tanha* and identification,
+compared that to the desire, the degree of *taṇha* and identification,
 that impels the mind to rebirth.
 
 In general, I don’t think it’s as neat and tidy as the ancient
@@ -163,14 +163,14 @@ to prepare throughout our lives. His Holiness the Dalai Lama was once
 asked what the basis of his spiritual practice was, and he said, “I
 practice dying.”
 
-Question: As a guilt-ridden American, I can’t quite comprehend how to
+Q: As a guilt-ridden American, I can’t quite comprehend how to
 respond without guilt when I have caused harm, even inadvertently. Could
 you walk through the non-guilt-oriented mental process of a person who
 has harmed or caused inconvenience to someone else? I’m thinking of the
 monk who falsely accused Sariputta. If that were me, I would practically
 have to leave the sangha out of embarrassment and shame.
 
-LPP: It’s essentially answered in the way the Buddha responded when the
+A: It’s essentially answered in the way the Buddha responded when the
 monk made his confession—“I falsely accused Sariputta”—and then asked
 for forgiveness. The Buddha said, “It’s recognizing one’s faults as
 faults, one’s unskillful action as unskillful action and wishing to make
@@ -182,7 +182,7 @@ truth.
 
 Nobody is exempt. Remorse, from a Buddhist perspective, says, “I really
 missed my shot on that and that was unskillful,” and there is an impetus
-to change. In Pāli there is the word *hiri ottappa*: *hiri* is a sense
+to change. In Pāli there is the word *hiri-ottappa*: *hiri* is a sense
 of conscience or embarrassment toward an action done in the past;
 *ottappa* is a concern for future wrong-doing. It’s interesting when you
 say it in English because early translators used shame and fear of
@@ -239,10 +239,10 @@ very helpful to do when recognizing that we have missed our shot is
 asking for forgiveness and seeking reconciliation. It’s not that
 difficult to do, and it’s very healing.
 
-Question: How would you describe the *jhāna* states, and do you teach
+Q: How would you describe the *jhāna* states, and do you teach
 this kind of meditation?
 
-LPP: That’s pretty extensive. The *jhāna* states are internal states of
+A: That’s pretty extensive. The *jhāna* states are internal states of
 stability and composure that are a basis for very bright states of
 consciousness. These are states the Buddha encourages because they lead
 to an energizing and a clarity of the mind that allows seeing things in
@@ -259,12 +259,12 @@ states of consciousness are most easily approached and accessed when we
 are able to keep letting go of those aspects of the mind that are
 obstructive. As we keep doing that, the mind settles.
 
-Question: When there is a lot of pain in the body, it is difficult to
+Q: When there is a lot of pain in the body, it is difficult to
 maintain Right Effort. Yet sometimes, through patient endurance, the
 pain lessens. Can you speak about Right Effort and the connection
 between Right Effort and *samādhi*?
 
-LPP: It’s good to refresh our memory as to what Right Effort actually
+A: It’s good to refresh our memory as to what Right Effort actually
 is. When we conceive of Right Effort, we use the word “effort,” and of
 course effort is about doing, struggling: getting out there and
 energetically being assiduous and diligent, which is sometimes good.
@@ -328,10 +328,10 @@ life, pain, illness, and injury were fairly constant features of my
 meditation. I had the opportunity and had to use it. I had to become
 familiar with pain, and I find that that has held me in good stead.
 
-Question: What is loving-kindness? What is the body and mind’s
+Q: What is loving-kindness? What is the body and mind’s
 experience when I feel mettā for myself and others?
 
-LPP: I think everybody is going to experience it in a slightly different
+A: I think everybody is going to experience it in a slightly different
 way. There is not a formulaic way that you should experience
 loving-kindness. There is a general parameter at the base of
 loving-kindness, which is dwelling in non-aversion, to put it in
@@ -363,7 +363,7 @@ others’ well-being. You don’t even have to like people to do that. I
 think that is casting it into a light that is practical and realistic.
 
 Sometimes it’s good to use words that are unfamiliar to us. Bhante
-Gunaratana plays with language: loving friendliness or an appreciative
+Guṇaratana plays with language: loving friendliness or an appreciative
 friendliness. It’s not a word that we use all the time, but it’s trying
 to convey a particular feeling. That kind of well-wishing or
 appreciative friendliness is the mental state. Internally, within the

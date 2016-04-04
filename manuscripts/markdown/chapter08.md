@@ -1,10 +1,10 @@
 # Questions and Answers
 
-Q: For me, there appears to be a fine line between paying attention to
+Question: For me, there appears to be a fine line between paying attention to
 breath and controlling breath. Is it like with quantum physics: just
 being aware changes the phenomena?
 
-LPP: That’s absolutely true in the sense that, as we’re attentive to the
+Answer: That’s absolutely true in the sense that, as we’re attentive to the
 breath, in the same way as if we’re really aware of a thought or an
 emotion, a change is already set in motion. It takes a degree of skill
 in crafting exactly how we are attentive. Sometimes we pay attention in
@@ -38,7 +38,7 @@ turns into a forest fire, uncontrollable, and the person experiences
 mania, delusions, and paranoia? What is the spiritual treatment for
 this?
 
-LPP: One of the first spiritual treatments is to stop meditating. When
+A: One of the first spiritual treatments is to stop meditating. When
 there isn’t a very solid anchor in what is real, when one is caught up
 in delusions, then it’s important not to feed the desire to meditate or
 delight in those delusions, manic states, or paranoia.
@@ -82,18 +82,19 @@ helpful.
 Q: What is the definition of wholesome? The word connotes for me the
 ’50s era of Ozzie and Harriet.
 
-LPP: I think I mentioned today that the Pāli word is kusala: wholesome,
-skillful, beneficial. Intrinsic to a kusala state, or the *kusala
-citta*, the mind that is happy and at ease, is well-being, *sukha*.
-There is a sense of peace and stability, and then there is a freedom
-from greed, hatred, and delusion, a certain purity or a lack of the
-stain of the different defilements. The opposite of this is *akusala*.
-With *akusala*, there is a sense of dukkha: dissatisfaction, suffering,
-disease in some way. With the *akusula citta*, there is always a certain
-amount of restlessness or agitation, the inability to settle and be
-peaceful because of the presence of the fundamental roots of defilement.
-Greed, hatred, and delusion are its different manifestations. It’s a
-helpful perspective to see that these are intrinsic to such states.
+A: I think I mentioned today that the Pāli word is kusala: wholesome,
+skillful, beneficial. Intrinsic to a kusala state, or the
+*kusala-citta*, the mind that is happy and at ease, is well-being,
+*sukha*. There is a sense of peace and stability, and then there is a
+freedom from greed, hatred, and delusion, a certain purity or a lack of
+the stain of the different defilements. The opposite of this is
+*akusala*. With *akusala*, there is a sense of dukkha: dissatisfaction,
+suffering, disease in some way. With the *akusula-citta*, there is
+always a certain amount of restlessness or agitation, the inability to
+settle and be peaceful because of the presence of the fundamental roots
+of defilement. Greed, hatred, and delusion are its different
+manifestations. It’s a helpful perspective to see that these are
+intrinsic to such states.
 
 Q: If someone were to become a monastic at Abhayagiri, how would he go
 about doing so? What are the day-to-day activities of a monk? What are a
@@ -101,7 +102,7 @@ monk’s duties and responsibilities? How does this change from season to
 season and year to year? What do I need to know and consider before
 making such a commitment?
 
-LPP: You have to know it’s not fun. Generally, what would happen would
+A: You have to know it’s not fun. Generally, what would happen would
 be somebody would come to the monastery interested in practicing,
 training, and becoming a monastic, and he would stay a few months. He
 comes for an initial stay of a week, and then he comes back again and
@@ -109,7 +110,7 @@ asks to stay longer. If he fits in with the community, he could be
 accepted to stay for a longer period of time.
 
 He would be in the monastery for three or four months and then request
-the anagarika training, like Louis here, who is in white. He formally
+the anagārika training, like Louis here, who is in white. He formally
 takes the eight precepts and makes a commitment for a year. He can leave
 at any time, but we encourage people to make that commitment. After
 someone has been there a few months, it’s not that difficult to say,
@@ -131,7 +132,7 @@ years with the teacher. The decisions are community based, so he could
 be an anagarika or a novice longer, but it’s approximately a year for
 each stage. This doesn’t mean he would stay all of the time at the
 monastery because usually we’ll send monks to study somewhere else for
-at least one year during that time. Like Tan Sampajano: he is finishing
+at least one year during that time. Like Tan Sampajāno: he is finishing
 his third year here and, at the end of this Rains Retreat period, he’ll
 go to study in Thailand for a year.
 
@@ -172,20 +173,20 @@ monastery.
 
 Q: How will I know I am experiencing loving-kindness?
 
-LPP: Again, I think that it’s important that we are attending to the
+A: Again, I think that it’s important that we are attending to the
 experience of non-ill will, “not dwelling in aversion.” That is a much
 more stable or steady indicator of the building of loving-kindness—ill
 will, aversion, and irritation are not overwhelming the mind. We aren’t
 dwelling on it; we are able to let it go; we are able to recognize its
 bane.
 
-Q: Please explain how to cultivate *mudita*. I’ve heard it described as
+Q: Please explain how to cultivate *muditā*. I’ve heard it described as
 “poor man’s happiness.”
 
-LPP: Actually, the previous Upāsika Day, the teaching day at the
+A: Actually, the previous Upāsikā Day, the teaching day at the
 monastery last month, was billed as “The Other Brahma Vihāras” because
 mettā tends to get all the press, and the other ones tend to be easily
-overlooked. *Mudita* is appreciative joy, sympathetic joy, delighting in
+overlooked. *Muditā* is appreciative joy, sympathetic joy, delighting in
 the well-being or success of others. Its direct opposite, of course, is
 jealousy, comparing oneself to others and generating negative feelings
 on account of what others have. Within the human condition, it’s fairly
@@ -206,19 +207,19 @@ delight and there are another eight billion people on the planet, our
 chances go up tremendously. If you’re a betting person, I would put my
 bets on that.
 
-Q: What is the difference between *tanha* and *lobha*?
+Q: What is the difference between *taṇhā* and *lobha*?
 
-LPP: They are both forms of desire, Pāli words for desire, but *lobha*
+A: They are both forms of desire, Pāli words for desire, but *lobha*
 is a bit more specific in terms of greed: covetousness, the desire that
-comes from greed. *Tanhā* is a much more generic name for desire. In the
-very first discourse that the Buddha gave, he pointed to *tanha* as the
-cause of suffering and then he specified *kama tanha*, sensual desire,
-*bhava tanha*, the desire for becoming, for being, that sense of the
-self trying to establish itself, and *vibhava tanha*, the desire for
+comes from greed. *Taṇhā* is a much more generic name for desire. In the
+very first discourse that the Buddha gave, he pointed to *taṇhā* as the
+cause of suffering and then he specified *kāma-taṇhā*, sensual desire,
+*bhava-taṇhā*, the desire for becoming, for being, that sense of the
+self trying to establish itself, and *vibhava-taṇhā*, the desire for
 non-being, non-becoming, which is pushing away, rejection, fear,
 aversion.
 
-So *tanha* is a much broader term for desire, and it can manifest in
+So *taṇhā* is a much broader term for desire, and it can manifest in
 aversion, ill will, fear, as well as sensual desire. *Lobha* is much
 more a sense of greed and is not necessarily focused on say, the
 sensual, but is an underlying desire seeking an object that is
@@ -226,7 +227,7 @@ gratifying.
 
 Q: “Non-contention” is a high-falutin’ word. What does it mean?
 
-LPP: We are always trying to find language to encapsulate something.
+A: We are always trying to find language to encapsulate something.
 Contention is based in aversion, a sense of competition, and is
 generated through a sense of dislike. There is a certain ill will there.
 When somebody is contentious, it’s usually fraught with aversion or
@@ -240,7 +241,7 @@ as they are, which isn’t so easy.
 
 Q: Would you talk more about working with the hindrance of doubt?
 
-LPP: One of the things with doubt is recognizing the tendency to
+A: One of the things with doubt is recognizing the tendency to
 uncertainty and wavering that comes when there is doubt in the mind.
 There is uncertainty, wavering, not being sure. Then how do we fill that
 gap? We tend either to fill it with projections of fear and aversion or
@@ -295,7 +296,7 @@ and thoughts that arise, I sometimes meet them skillfully; at other
 times, I lose skillful means. Any suggestions would most gratefully be
 received.
 
-LPP: One approach would be tuning in to the body itself, recognizing
+A: One approach would be tuning in to the body itself, recognizing
 that we can influence the feelings around us, particularly internally,
 if something is agitating. We can pay attention to something like the
 breath or the feeling somewhere in the body—picking a spot that feels
@@ -353,7 +354,7 @@ Q: Would you be willing to repeat the mettā phrases that you taught us
 yesterday and today? The only one I can remember is, “May I be
 prosperous.”
 
-LPP: Those filters are working all the time. One is, “May I be well,
+A: Those filters are working all the time. One is, “May I be well,
 happy, peaceful, and prosperous. May no harm come to me. May no
 difficulties come to me. May no problems come to me. May I always meet
 with spiritual success. May I have the patience, courage, understanding,
@@ -363,7 +364,7 @@ problems, and failures in life.”
 These are the phrases. It’s helpful to get these fully embedded in
 memory, so you’re not thinking, “What the heck was that phrase that he
 was saying?” Committing it to memory turns it into a kind of mantra that
-you can use. This is what is called parikamma in Pāli, a repetition that
-is useful for establishing concentration or consistent mindfulness.
+you can use. This is what is called *parikamma* in Pāli, a repetition
+that is useful for establishing concentration or consistent mindfulness.
 These mettā phrases are skillful tools for setting a tone within the
 mind.

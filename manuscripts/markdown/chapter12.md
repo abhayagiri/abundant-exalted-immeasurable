@@ -64,7 +64,7 @@ underlying tendencies within the mind.
 The Buddha outlined the three outflows or āsavas, as sensual desire
 (*kāmāsava*), becoming (*bhavāsava*), and ignorance (*avijjāsava*—not
 knowing, not having true knowledge). Very soon after the Buddha’s
-passing, commentators added the outflow of views (*ditthāsava*) because
+passing, commentators added the outflow of views (*diṭṭhāsava*) because
 it seemed fundamental as well. These are a source of suffering and also
 perpetuate the round of rebirth.
 
@@ -86,19 +86,20 @@ There is a discourse in which Ānanda goes into a wanderer’s park around
 Rajagaha and goes to a hot springs. He meets a wanderer, who immediately
 starts questioning him:
 
-“What teacher do you follow?”
-
-“I follow the son of the Sakyans, Gotama.”
-
-“What view do you hold? That the world is eternal, this alone is true,
-anything else is wrong?”
-
-“I don’t hold to such a view, friend.”
-
-“The world is not eternal; this alone is true, anything else is wrong?”
-
-“I don’t hold to such a view, friend.”
-
+> “What teacher do you follow?”
+> 
+> “I follow the son of the Sakyans, Gotama.”
+> 
+> “What view do you hold? That the world is eternal, this alone is true,
+> anything else is wrong?”
+> 
+> “I don’t hold to such a view, friend.”
+> 
+> “The world is not eternal; this alone is true, anything else is
+> wrong?”
+> 
+> “I don’t hold to such a view, friend.”
+ 
 The wanderer runs through the entire litany of positions and Ānanda
 responds with each one, “I don’t hold such a view, friend.”
 
@@ -170,17 +171,17 @@ that allows us to access and experience a real peace.
 
 There are a few places in the discourses in which the Buddha is asked
 for a way to formulate these teachings in a very succinct way. In the
-scriptures the Buddha says that all *dhamma*s—*sabbe dhamma*—are not to
-be clung to, all *dhamma*s are not worthy of holding on to, all
-*dhamma*s are not to be attached to. All things, all *dhamma*s with a
+scriptures the Buddha says that all *dhammas*—*sabbe dhammā*—are not to
+be clung to, all *dhammas* are not worthy of holding on to, all
+*dhammas* are not to be attached to. All things, all *dhammas* with a
 small “d,” are not worthy of clinging. That’s a very simple phrase
-that’s helpful for practice, especially in terms of mettā bhāvanā. If we
+that’s helpful for practice, especially in terms of mettā-bhāvanā. If we
 get entangled in the obstructions that come up in the mind or try to
 analyze and figure them out too much, they hook us in.
 
 The answer is to be able to come from that place of “all things are not
 to be clung to.” Maybe there is a mood of distraction, irritation, or
-confusion, but all *dhamma*s are not to be clung to. Then we need to
+confusion, but all *dhammas* are not to be clung to. Then we need to
 bring into being the cultivation of loving-kindness, which is an
 expansive, wholesome quality that we ultimately have to let go of. But
 again, it’s a useful bridge to putting our effort and attention into
@@ -223,7 +224,7 @@ do: good instructions for a new monk.
 
 Then Moggallāna asks the Buddha, “What is the core of the teachings?
 What is their basis?” That’s when the Buddha says that the fundamental
-teaching is that all *dhamma*s are not to be clung to. When you don’t
+teaching is that all *dhammas* are not to be clung to. When you don’t
 cling to things, you are not building the momentum of habits and
 attachments. When you are not building that momentum of habits and
 attachments, you are not creating a sense of being sustained by them.
@@ -370,7 +371,7 @@ needs to be the realization: this is suffering and there is a way out of
 this. It’s seeing that taking rebirth again and again; even if it’s
 pleasant, is not worth it. This is a tremendous gift of kindness to the
 world. That’s something that we can be doing, each in our own way. We
-can set that intention, that resolution. Mettā bhāvanā is not an
+can set that intention, that resolution. Mettā-bhāvanā is not an
 indulgent way of making yourself feel good for a little bit. It’s
 cultivating the roots of your liberation and recognizing what is of
 benefit to you and all beings. So I offer that for reflection this

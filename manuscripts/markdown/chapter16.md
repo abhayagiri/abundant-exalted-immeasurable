@@ -121,7 +121,7 @@ factor of our development of meditation.
 
 This next sutta reading also comes from *The Middle-Length
 Discourses*, number 21. It’s a very famous sutta, *The Simile of the
-Saw.*
+Saw*.
 
 There is a buildup to the simile. The incident that gave rise to the
 teaching is that one of the bhikkhus was in conflict with the other
@@ -306,7 +306,7 @@ Even something as sublime as loving-kindness is impermanent. Seeing its
 changing nature can be a basis for investigation and penetration.
 
 I’ll do a few readings from *The Numerical Discourses*, the *Aṅguttara
-Nikāya*. This is from the sixth section of the “Ones.” This is addressed
+Nikāya*. This is from the sixth section of the ones. This is addressed
 to monks but applies to everybody.
 
 “Monks, if for just the time of a finger-snap, a monk produces a thought
@@ -318,14 +318,14 @@ it.” (A 1:53, Numerical Discourses of the Buddha – An Anthology of
 Suttas from the Aṅguttara Nikāya, Nyanaponika Thera & Bhikkhu Bodhi)
 
 So what we have been doing is not to be sniffed at. The next sutta is
-one that everyone knows, the *Kalāma Sutta,* but almost never when the
-*Kalāma Sutta* is quoted does loving-kindness get any mention. So I
+one that everyone knows, the *Kālāma Sutta,* but almost never when the
+*Kālāma Sutta* is quoted does loving-kindness get any mention. So I
 thought I’d read the complete discourse. This is *Aṅguttara Nikāya,*
-threes, number 65 (Thanissaro Bhikkhu’s translation).
+threes, number 65 (Ṭhānissaro Bhikkhu’s translation).
 
 > I have heard that on one occasion the Blessed One, on a wandering tour
 > among the Kosalans with a large community of monks, arrived at
-> Kesaputta, a town of the Kalāmas. The Kalāmas of Kesaputta heard it
+> Kesaputta, a town of the Kālāmas. The Kālāmas of Kesaputta heard it
 > said, “Gotama the contemplative—the son of the Sakyans, having gone
 > forth from the Sakyan clan—has arrived at Kesaputta. And of that
 > Master Gotama this fine reputation has spread: ‘He is indeed a Blessed
@@ -340,7 +340,7 @@ threes, number 65 (Thanissaro Bhikkhu’s translation).
 > life both in its particulars and in its essence, entirely perfect,
 > surpassingly pure. It is good to see such a worthy one.’”
 > 
-> So the Kalāmas of Kesaputta went to the Blessed One. On arrival, some
+> So the Kālāmas of Kesaputta went to the Blessed One. On arrival, some
 > of them bowed down to him and sat to one side. Some of them exchanged
 > courteous greetings with him and, after an exchange of friendly
 > greetings and courtesies, sat to one side. Some of them sat to one
@@ -348,7 +348,7 @@ threes, number 65 (Thanissaro Bhikkhu’s translation).
 > hearts. Some of them sat to one side having announced their name and
 > clan. Some of them sat to one side in silence.
 > 
-> As they sat there, the Kalāmas of Kesaputta said to the Blessed One,
+> As they sat there, the Kālāmas of Kesaputta said to the Blessed One,
 > “Lord, there are some brahmans and contemplatives who come to
 > Kesaputta. They expound and glorify their own doctrines, but as for
 > the doctrines of others, they deprecate them, revile them, show
@@ -359,9 +359,9 @@ threes, number 65 (Thanissaro Bhikkhu’s translation).
 > absolutely uncertain and in doubt: Which of these venerable brahmans
 > and contemplatives are speaking the truth, and which ones are lying?”
 > 
-> “Of course you are uncertain, Kalāmas. Of course you are in doubt.
+> “Of course you are uncertain, Kālāmas. Of course you are in doubt.
 > When there are reasons for doubt, uncertainty is born. So in this
-> case, Kalāmas, don’t go by reports, by legends, by traditions, by
+> case, Kālāmas, don’t go by reports, by legends, by traditions, by
 > scripture, by logical conjecture, by inference, by analogies, by
 > agreement through pondering views, by probability, or by the thought,
 > ‘This contemplative is our teacher.’ When you know for yourselves
@@ -370,7 +370,7 @@ threes, number 65 (Thanissaro Bhikkhu’s translation).
 > qualities, when adopted and carried out, lead to harm and to
 > suffering’—then you should abandon them.
 > 
-> “What do you think, Kalāmas? When greed arises in a person, does it
+> “What do you think, Kālāmas? When greed arises in a person, does it
 > arise for welfare or for harm?”
 > 
 > “For harm, lord.”
@@ -382,7 +382,7 @@ threes, number 65 (Thanissaro Bhikkhu’s translation).
 > 
 > “Yes, lord.”
 > 
-> “Now, what do you think, Kalāmas? When aversion arises in a person,
+> “Now, what do you think, Kālāmas? When aversion arises in a person,
 > does it arise for welfare or for harm?”
 > 
 > “For harm, lord.”
@@ -394,7 +394,7 @@ threes, number 65 (Thanissaro Bhikkhu’s translation).
 > 
 > “Yes, lord.”
 > 
-> “Now, what do you think, Kalāmas? When delusion arises in a person,
+> “Now, what do you think, Kālāmas? When delusion arises in a person,
 > does it arise for welfare or for harm?”
 > 
 > “For harm, lord.”
@@ -406,7 +406,7 @@ threes, number 65 (Thanissaro Bhikkhu’s translation).
 > 
 > “Yes, lord.”
 > 
-> “So what do you think, Kalāmas: Are these qualities skillful or
+> “So what do you think, Kālāmas: Are these qualities skillful or
 > unskillful?”
 > 
 > “Unskillful, lord.”
@@ -425,7 +425,7 @@ threes, number 65 (Thanissaro Bhikkhu’s translation).
 > “When adopted and carried out, they lead to harm and to suffering.
 > That is how it appears to us.”
 > 
-> “So, as I said, Kalāmas: ‘Don’t go by reports, by legends, by
+> “So, as I said, Kālāmas: ‘Don’t go by reports, by legends, by
 > traditions, by scripture, by logical conjecture, by inference, by
 > analogies, by agreement through pondering views, by probability, or by
 > the thought, “This contemplative is our teacher.” When you know for
@@ -435,7 +435,7 @@ threes, number 65 (Thanissaro Bhikkhu’s translation).
 > suffering”—then you should abandon them.’ Thus was it said. And in
 > reference to this was it said.
 > 
-> “Now, Kalāmas, don’t go by reports, by legends, by traditions, by
+> “Now, Kālāmas, don’t go by reports, by legends, by traditions, by
 > scripture, by logical conjecture, by inference, by analogies, by
 > agreement through pondering views, by probability, or by the thought,
 > ‘This contemplative is our teacher.’ When you know for yourselves
@@ -444,7 +444,7 @@ threes, number 65 (Thanissaro Bhikkhu’s translation).
 > and carried out, lead to welfare and to happiness’—then you should
 > enter and remain in them.
 > 
-> “What do you think, Kalāmas? When lack of greed arises in a person,
+> “What do you think, Kālāmas? When lack of greed arises in a person,
 > does it arise for welfare or for harm?”
 > 
 > “For welfare, lord.”
@@ -456,7 +456,7 @@ threes, number 65 (Thanissaro Bhikkhu’s translation).
 > 
 > “Yes, lord.”
 > 
-> “What do you think, Kalāmas? When lack of aversion arises in a person,
+> “What do you think, Kālāmas? When lack of aversion arises in a person,
 > does it arise for welfare or for harm?”
 > 
 > “For welfare, lord.”
@@ -468,7 +468,7 @@ threes, number 65 (Thanissaro Bhikkhu’s translation).
 > 
 > “Yes, lord.”
 > 
-> “What do you think, Kalāmas? When lack of delusion arises in a person,
+> “What do you think, Kālāmas? When lack of delusion arises in a person,
 > does it arise for welfare or for harm?”
 > 
 > “For welfare, lord.”
@@ -480,7 +480,7 @@ threes, number 65 (Thanissaro Bhikkhu’s translation).
 > 
 > “Yes, lord.”
 > 
-> “So what do you think, Kalāmas: Are these qualities skillful or
+> “So what do you think, Kālāmas: Are these qualities skillful or
 > unskillful?”
 > 
 > “Skillful, lord.”
@@ -499,7 +499,7 @@ threes, number 65 (Thanissaro Bhikkhu’s translation).
 > “When adopted and carried out, they lead to welfare and to happiness.
 > That is how it appears to us.”
 > 
-> “So, as I said, Kalāmas: ‘Don’t go by reports, by legends, by
+> “So, as I said, Kālāmas: ‘Don’t go by reports, by legends, by
 > traditions, by scripture, by logical conjecture, by inference, by
 > analogies, by agreement through pondering views, by probability, or by
 > the thought, “This contemplative is our teacher.” When you know for
@@ -509,7 +509,7 @@ threes, number 65 (Thanissaro Bhikkhu’s translation).
 > you should enter and remain in them.’ Thus was it said. And in
 > reference to this was it said.
 > 
-> “Now, Kalāmas, one who is a disciple of the noble ones—thus devoid of
+> “Now, Kālāmas, one who is a disciple of the noble ones—thus devoid of
 > greed, devoid of ill will, undeluded, alert, and resolute—keeps
 > pervading the first direction \[the east\]—as well as the second
 > direction, the third, and the fourth—with an awareness imbued with
@@ -647,7 +647,7 @@ forth in that which is beautiful.
 In the teachings, there are what are called *vimokkhas*. One of the
 *vimokkhas* (liberations or emancipations) is liberation through the
 beautiful. This can be a meditative attainment in terms of color, the
-*kasinas*, which are exceedingly beautiful. But it can also be a state
+*kasiṇas*, which are exceedingly beautiful. But it can also be a state
 of mind like loving-kindness, which is a beautiful mind-state that
 allows the mind to drop its self-concern, worries, fears, anxieties, and
 comparisons and dwell in that which is truly beautiful. It is not really

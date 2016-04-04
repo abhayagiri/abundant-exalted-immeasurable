@@ -1,4 +1,4 @@
-# Spreading Mettā to the Four Corners
+# Spreading Mettā to the Four Quarters
 
 As we work with the cultivation of mettā, loving-kindness, one cause for
 the arising of loving-kindness is not attending to things that are
@@ -70,7 +70,7 @@ One way he did that was to bribe the king’s men who were the keepers of
 Nalagiri, the state elephant but also a rogue elephant, whose job
 description was that of executioner. They plied him with alcohol and let
 him loose as the Buddha was approaching, so that this enraged elephant
-would trample the Buddha. Ananda, the Buddha’s trustworthy attendant,
+would trample the Buddha. Ānanda, the Buddha’s trustworthy attendant,
 saw the elephant coming and jumped in front of the Buddha, wanting to
 protect him. The Buddha asked him to step aside and then radiated
 loving-kindness. As the story goes, the elephant came barreling up to

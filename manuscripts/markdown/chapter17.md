@@ -1,17 +1,17 @@
 # Questions and Answers
 
-1\. In the palm-reader story, you mentioned that Ajahn Chah still had a
-lot of anger, but that he chose not to act from it. Does this mean that,
-for example, if there was a troublesome monk, Ajahn Chah would still
-experience a flare of anger but still have the wisdom to set it aside
-and consider what to do with a cool head? This sounds similar to what
-Ram Dass has said about his defilements: after so many years of
+Question: In the palm-reader story, you mentioned that Ajahn Chah still
+had a lot of anger, but that he chose not to act from it. Does this mean
+that, for example, if there was a troublesome monk, Ajahn Chah would
+still experience a flare of anger but still have the wisdom to set it
+aside and consider what to do with a cool head? This sounds similar to
+what Ram Dass has said about his defilements: after so many years of
 practice, they are more like little neurotic shmoos that he can relate
 to in a relaxed way.
 
-What the palm reader was looking at was fundamental temperament, karmic
-tendencies, the patterns that are there. Anger was a particular tendency
-that Ajahn Chah had, but through his ability to see clearly, he
+A: What the palm reader was looking at was fundamental temperament,
+karmic tendencies, the patterns that are there. Anger was a particular
+tendency that Ajahn Chah had, but through his ability to see clearly, he
 relinquished the tendency. The awareness had such clarity that the mind
 was not drawn to the tendency at all.
 
@@ -50,11 +50,11 @@ to be boxed in: “Oh, I’m supposed to be a nice loving-kindness monk.”
 You didn’t want to get on the wrong side of him because he could be very
 direct and blunt.
 
-2\. Would you explain the duties adult children have towards aging
+Q: Would you explain the duties adult children have towards aging
 parents? And the duties of parents towards their children, as taught by
 the Buddha.
 
-The Buddha taught that one should look after one’s parents and try to
+A: The Buddha taught that one should look after one’s parents and try to
 care for their needs. In Asia, in general, that is very much a part of
 the cultural norm. One looks after one’s parents. Of course, the parents
 have a duty toward their children of both helping and being role models
@@ -70,14 +70,14 @@ beneficial and useful if one can encourage one’s parents to establish
 themselves in a higher degree of virtue and generosity, as well as in
 aspects of right view and discernment.
 
-3\. In a Dhamma talk several years ago, you mentioned in an interview a
+Q: In a Dhamma talk several years ago, you mentioned in an interview a
 Christian monk. Reflecting on his forty years of monastic life, the monk
 said something about “I wish I’d been more kind.” Reflecting on your
 thirty-five years in robes, do you have any lessons that stand out? I’m
 not interested in regrets, but the kind of wisdom-knowledge that the
 accumulation of years of practice illuminates.
 
-It would depend on whatever is the thought of the moment as it comes
+A: It would depend on whatever is the thought of the moment as it comes
 out. It is also very encouraging that people actually remember Dhamma
 talks. I had forgotten I said that.
 
@@ -107,35 +107,35 @@ able to be present with experience. That is how I relate to patience:
 that willingness and ability to be present with experience, so we can
 take it in and be present for it.
 
-4\. Is it hopeless to send loving-kindness to Mara?
+Q: Is it hopeless to send loving-kindness to Māra?
 
-Well, Mara gets a bad rap. It depends on how we relate to it. Mara is
+A: Well, Māra gets a bad rap. It depends on how we relate to it. Mara is
 the personification of the tempter. In the midst of being tempted with
 the desire of the moment, loving-kindness might not be the right tool.
 But in a bigger sense, that is the most important thing to have
 loving-kindness for, in the sense that loving-kindness is the wish for
-well-being. Mara is the epitome of the tempter, the personification of
-evil. That’s a lot of suffering isn’t it? The karmic accumulations don’t
-bode well for him.
+well-being. Māra is the epitome of the tempter, the personification of
+evil. That’s a lot of suffering isn’t it? The *kammic* accumulations
+don’t bode well for him.
 
 When we follow our desires and get caught in our views and opinions, how
 we suffer! That the whole construct keeps repeating itself: these are
-the forces of Mara. That’s a worthy object of loving-kindness because
+the forces of Māra. That’s a worthy object of loving-kindness because
 there is so much suffering there. This helps turn our attention to the
 way out of suffering.
 
-5\. When you have guided meditation in the past two afternoons, I’ve
+Q: When you have guided meditation in the past two afternoons, I’ve
 enjoyed slipping past the rapture and joy. I found the meditations
 incredibly grounding and at the same time streaming with energy. I’m
 finding it difficult to get past joy without your vocal guidance. Can
 you offer suggestions?
 
-It’s an experiential memory. It’s good to remember that it’s possible to
-go past that excitement of rapture and joy and be grounded in something
-that is very stilling, but still clear and spacious. So, tune in to the
-body because the body remembers these things. Come into the body, into
-the rhythm of the breath, the feelings and perceptions of joy, but allow
-oneself to move into steadiness and clarity.
+A: It’s an experiential memory. It’s good to remember that it’s possible
+to go past that excitement of rapture and joy and be grounded in
+something that is very stilling, but still clear and spacious. So, tune
+in to the body because the body remembers these things. Come into the
+body, into the rhythm of the breath, the feelings and perceptions of
+joy, but allow oneself to move into steadiness and clarity.
 
 Try to connect with it on a physical level, that is, with the tendency
 for energy, rapture, and joy. There can be a level of excitement that
@@ -144,11 +144,11 @@ move the energy down and through the body, allowing it to settle. That’s
 a skillful way to work with it because once it comes up, it can feed
 into the proliferating mind.
 
-6\. What are the characteristics of our personalities? Are personalities
+Q: What are the characteristics of our personalities? Are personalities
 conditioned by *kamma* and our family, culture, and nationality? How do
 I learn not to take mine as true and real?
 
-It’s the suffering: that’s how we learn to drop it and recognize the
+A: It’s the suffering: that’s how we learn to drop it and recognize the
 limitations, drawbacks, and pain involved. Certainly, personalities are
 conditioned by all that: past *kamma*, present *kamma*, family *kamma*,
 cultural *kamma*, nationality, gender, everything. It’s all part of the
@@ -178,12 +178,12 @@ able to laugh at ourselves and the human condition, because taking it
 all very seriously weighs us down. In the end it is absurd. Life is
 sometimes “How did I walk into this Samuel Beckett play?”
 
-7\. Just to clarify for my loving-kindness anxiety, are any phrases
+Q: Just to clarify for my loving-kindness anxiety, are any phrases
 okay? And can they be said as a chant or at any speed? Is one more
 effective for attaining deep concentration?
 
-The phrases have to have some sort of feeling meaningful to you. Is it
-meaningful to you? Does it resonate somehow? Because what is really
+A: The phrases have to have some sort of feeling meaningful to you. Is
+it meaningful to you? Does it resonate somehow? Because what is really
 important is not so much the phrases, but the feeling that arises, the
 feeling that is generated and established within the heart,
 loving-kindness.
@@ -201,11 +201,11 @@ tools or just one screwdriver. You are not going to feel confident that
 the job is going to get done. It’s the same here. As we are practicing
 and cultivating, have some tools on your belt.
 
-8\. Sometimes when I am concentrated, I have spontaneous body or facial
+Q: Sometimes when I am concentrated, I have spontaneous body or facial
 movements. They may be large or just small twitches. Can you comment on
 this?
 
-It’s reasonably common. This is when an attunement with the body is
+A: It’s reasonably common. This is when an attunement with the body is
 quite helpful, and loving-kindness is very good with balancing that kind
 of energy within the body-mind complex, allowing that to unravel and
 untie. Whereas trying to concentrate too strongly or forcing the mind to
@@ -214,11 +214,11 @@ that is broad and body-based lets that kind of energy flow through the
 body-mind. Then loving-kindness has a subsidiary effect of softening,
 replacing, and settling. These are good practices to work with.
 
-9\. Is gladness the same as thankfulness?
+Q: Is gladness the same as thankfulness?
 
-In the chant in which the word is translated as gladness, the Pali word
-is *mudita*, which is appreciative joy, sympathetic joy, delighting in
-the goodness and success of others. So that’s not quite the same as
+A: In the chant in which the word is translated as gladness, the Pali
+word is *muditā*, which is appreciative joy, sympathetic joy, delighting
+in the goodness and success of others. So that’s not quite the same as
 thankfulness. Another Pali word that is sometimes translated as gladness
 is *pāmojja*. That’s a feeling of well-being, a kind of delight, a sense
 of feeling good about something.
@@ -227,22 +227,22 @@ Often the causal conditions in these sequences are a bit different:
 reflecting on virtue and the sense of non-remorse, a feeling of gladness
 arises. Reflecting on the truth of the teachings, gladness arises, or
 faith or confidence. Thankfulness is more gratitude, which in Pali is
-*kataññuta.* That feeling of thankfulness, appreciation, and gratitude
+*kataññuta*. That feeling of thankfulness, appreciation, and gratitude
 has a different quality to it. So the word gladness is used in a couple
 of different ways.
 
-10\. By the way, what does “Pasanno” mean?
+Q: By the way, what does “Pasanno” mean?
 
-It’s primary meaning is one having faith, but also one having joy, sort
-of joyful faith.
+A: It’s primary meaning is one having faith, but also one having joy,
+sort of joyful faith.
 
-11\. The near enemy of equanimity is aloofness. I’ve tasted both. One is
+Q: The near enemy of equanimity is aloofness. I’ve tasted both. One is
 much more familiar, and the difference is quite apparent. Can you
 provide any clues to identify subtle aloofness, which may not be so
 obvious, especially to the habituated mind?
 
-One of the things that immediately comes up—I’ve mentioned it several
-times and then it also came up in the reading of the *Kalama Sutta*—is
+A: One of the things that immediately comes up—I’ve mentioned it several
+times and then it also came up in the reading of the *Kālāma Sutta*—is
 how the Buddha asks if this is wholesome or unwholesome? Is it
 beneficial or not beneficial? So there is an immediate turning to what
 is *kusala*.
@@ -264,22 +264,22 @@ intimidating or fearful, and it doesn’t stir up any aversion or
 negativity. It’s just the way it is. So there is a clarity there. Tuning
 into kusala and akusala sorts things out very quickly.
 
-12\. In your opinion, why do you think that Venerable Moggallana is most
+Q: In your opinion, why do you think that Venerable Moggallāna is most
 often portrayed in suttas as a bit of an idiot and highly impractical
 while Venerable Sariputta is portrayed as wise and skillful? Both were
 the Buddha’s leading disciples. Is this possibly a result of translation
 or translators’ view, or is this so in Pali also?
 
-Actually, I think if anybody gets the short end of the stick, it is
+A: Actually, I think if anybody gets the short end of the stick, it is
 Ananda, because he is a bit of a fall guy sometimes. But with all of his
-psychic powers, there is a certain spectacular quality to Moggallana. He
+psychic powers, there is a certain spectacular quality to Moggallāna. He
 is also sometimes involved in sorting out certain problems within the
 sangha. He is trusted, as well as proactive in dealing in sangha
 matters.
 
-I’m not so familiar with the Mahayana sutras. Certainly Sariputta is
-often a fall guy in the Mahayana sutras. I’m not sure how Moggallana
-comes across in the Mahayana sutras.
+I’m not so familiar with the Mahāyāna sutras. Certainly Sāriputta is
+often a fall guy in the Mahayana sutras. I’m not sure how Moggallāna
+comes across in the Mahāyāna sutras.
 
 In regards to Anuruddha, there is a passing comment about when Ananda
 had asked Anuruddha to sort something out and it didn’t get done (A
@@ -291,8 +291,8 @@ I think one of the things is that in the Pali Canon, these great
 disciples come across as very human. They have personalities. They are
 distinct individuals.
 
-There is a great sutta in which Sariputta is sitting and meditating in
-the forest and Moggallana, who is adept in psychic powers, sees this
+There is a great sutta in which Sāriputta is sitting and meditating in
+the forest and Moggallāna, who is adept in psychic powers, sees this
 scene unfolding where there are two *yakkhas*, which is a type of
 celestial demon. They are flying along overhead and see Sariputta
 meditating in the forest. It is the day before the Full Moon Day, and
@@ -306,22 +306,22 @@ target. I don’t think I can resist.” So he goes over, takes his club,
 and wallops Sariputta over the head. The description is that he gives
 him a blow that could split a mountain.
 
-Sariputta is unmoved. Moggallana has seen this scene unfold. Sariputta
-comes out of his meditation, and Moggallana asks, “How are you feeling
-today?” Sariputta says, “Okay. But I’ve got a bit of a headache today.”
-Moggallana says, “It’s no wonder, with these yakkhas.” He relates the
+Sāriputta is unmoved. Moggallāna has seen this scene unfold. Sāriputta
+comes out of his meditation, and Moggallāna asks, “How are you feeling
+today?” Sāriputta says, “Okay. But I’ve got a bit of a headache today.”
+Moggallāna says, “It’s no wonder, with these yakkhas.” He relates the
 scene. “This is wonderful. These mighty yakkhas can give a blow to
-Sariputta, and all he says is, “I’ve got a bit of a headache.”
+Sāriputta, and all he says is, “I’ve got a bit of a headache.”
 
-Then Sariputta says, “What’s really amazing to me is that you can see
+Then Sāriputta says, “What’s really amazing to me is that you can see
 these things happening. I didn’t see so much as a mud sprite, let alone
 a yakkha, a deva, or anything like that.” The sutta ends with these two
 great disciples admiring each other’s qualities.
 
-13\. What are the primary distinctions between Theravada, Mahayana, and
-Vajrayana?
+Q: What are the primary distinctions between Theravāda, Mahāyāna, and
+Vajrayāna?
 
-Without confusing people, I think Theravada, just by the very literal
+A: Without confusing people, I think Theravāda, just by the very literal
 translation of its name, means the teaching of the elders. Its primary
 focus is in trying to maintain the tradition as it was passed down as
 closely as they could assume were the original teachings of the Buddha.
@@ -329,7 +329,7 @@ There are always some accretions and additions, but that has been its
 primary flavor.
 
 It’s also interesting that when the Dalai Lama gives teachings, one of
-the things he will do is invite Mahayana, Theravada, and Vajrayana monks
+the things he will do is invite Mahāyāna, Theravāda, and Vajrayāna monks
 to give blessings before the teachings begin. He will always invite the
 Theravadans to give a Pali chant because he will say that the oldest
 scriptures are in Pali, and these are the elder brothers within the
@@ -338,36 +338,36 @@ Buddhist fold. He gives deference. It is very beautiful.
 In Buddhist history, there was a range of schools. About 250 years after
 the Buddha, by the time of King Asoka, there were about eighteen
 distinct schools of Buddhism. Subsequent to that, there began to be a
-Mahayana movement, reinvigorating and redefining some of the principles.
+Mahāyāna movement, reinvigorating and redefining some of the principles.
 One of the main principles is putting emphasis on the Bodhisattva ideal.
 
-The Vajrayana grew out of the Mahayana. There are several Vajrayana
-schools. Usually when someone says Vajrayana, they mean Tibetan. The
-Vajrayana schools in Tibet actually took many of the different schools
+The Vajrayāna grew out of the Mahāyāna. There are several Vajrayāna
+schools. Usually when someone says Vajrayāna, they mean Tibetan. The
+Vajrayāna schools in Tibet actually took many of the different schools
 and brought them to Tibet. One of the distinctive qualities of the
 Vajrayana is the emphasis on faith, ceremony, ritual, and the efficacy
 and use of that.
 
 These are just snapshots. Of course, within these there are a huge
 number of schools as well. When you look at Buddhism, there is not a
-Theravada tradition, a Mahayana tradition, and a Vajrayana tradition
+Theravāda tradition, a Mahāyāna tradition, and a Vajrayāna tradition
 that are each homogenous and monolithic. A country like Thailand is
-considered very strictly Theravada. But if you start looking and digging
+considered very strictly Theravāda. But if you start looking and digging
 into the history of doctrinal and popular Buddhism, one thing looks like
-a Mahayana teaching and then another one looks like a tantric ritual. So
+a Mahāyāna teaching and then another one looks like a tantric ritual. So
 there has been mixing and cross-pollination going on for millennia.
 
-14\. What could American culture learn from Thai culture?
+Q: What could American culture learn from Thai culture?
 
-What immediately comes to mind is one of the first things you learn when
-you go to Thailand. There is a phrase, *“mai pen rai.”* That would be a
-really good thing for American culture to learn. It means “never mind,”
-as in, “let go, it’s not a big deal.”
+A: What immediately comes to mind is one of the first things you learn
+when you go to Thailand. There is a phrase, *mai pen rai*. That would be
+a really good thing for American culture to learn. It means “never
+mind,” as in, “let go, it’s not a big deal.”
 
-“*Mai pen rai.*” Literally it means, “It is not anything.” It allows
-people to navigate the thorny aspects of human relationships. “*Mai pen
-rai.*” That’s the way it is. Never mind. There is no point in getting
-upset. “*Mai pen rai.*”
+*Mai pen rai*: literally it means, “It is not anything.” It allows
+people to navigate the thorny aspects of human relationships. *Mai pen
+rai.* That’s the way it is. Never mind. There is no point in getting
+upset. *Mai pen rai.*
 
 Of course, Thailand has been steeped in Buddhist culture for a long,
 long time. There is a book that was written by Phra Payutto; I don’t

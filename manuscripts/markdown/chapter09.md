@@ -18,7 +18,7 @@ citta, the mind of wholesomeness, is that it’s peaceful, settled, and
 has a steady quality to it.
 
 Another useful way of directing thought is to the aspects of what in
-Pāli is called *samvega*: urgency, the sense that there is no time to
+Pāli is called *saṃvega*: urgency, the sense that there is no time to
 waste or to fool around. One of the reflections that the monastics are
 encouraged to cultivate on a regular basis is: “The days and nights are
 relentlessly passing. How well am I spending my time?” That’s a very
@@ -47,7 +47,7 @@ discernment. These are motivations. Again, it’s not to turn urgency into
 something that has a frantic or a manic edge to it; that isn’t
 particularly useful. But it is helpful to have a sense of urgency.
 
-Samvega is a very positive mental state and motivation. As we use
+Saṃvega is a very positive mental state and motivation. As we use
 directed thought, it’s helpful in meditation or in ordinary
 circumstances to be able to review the five hindrances. These particular
 tendencies of the mind are the fundamental qualities that bring us to a
@@ -184,7 +184,7 @@ good: “My body is feeling more comfortable and settled.” So, there is a
 recognition of the effect.
 
 With loving-kindness as a meditation object, we encourage ourselves with
-samvega. We are attentive to the five hindrances, and then we direct
+saṃvega. We are attentive to the five hindrances, and then we direct
 thought and evaluation to the object of loving-kindness.
 
 One of the very powerful aspects of loving-kindness is that, as
@@ -216,7 +216,7 @@ as the feeling of loving-kindness is able to bridge across the habit
 patterns of restlessness, doubt, or drifting, and go to that steadiness
 of mind.
 
-As we practice and work with vitakka vicāra by ** bringing up and
+As we practice and work with vitakka vicāra by bringing up and
 sustaining positive thought, something pleasurable, bright, and joyful
 arises in the mind. We are not doing anything wrong. It’s all right to
 feel that. You may get excited and start to analyze. Instead, give

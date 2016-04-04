@@ -22,8 +22,8 @@ mind on track and reminding it what it’s intending to do. So that is
 actually the meditation; that is how we train the mind.
 
 In Thailand, one of the most common meditation methods or techniques is
-using the word “*Buddho*,” the name of the Buddha. “*Bud*” on the
-in-breath and “*dho*” on the out breath: just that simple word. If you
+using the word “*Buddho*,” the name of the Buddha. “*Bud-*” on the
+in-breath and “*-dho*” on the out breath: just that simple word. If you
 want, you can use the word “mettā”: “met” on the in-breath and “tā” on
 the out-breath. Use that word to keep the mind on track. Tune in to the
 feeling, the connotations of mettā you have reflected on. This helps the
@@ -31,10 +31,10 @@ mind to channel its attention and energy to the pleasing emotional tone
 of well-wishing.
 
 In meditation practice, mettā has the very useful function of providing
-emotional moisture. If you think, “*Anicca, dukkha, anatta, anicca,
-dukkha, anatta, anicca, dukkha, anatta*,” it gets pretty dry after a
-while. “Impermanence, unsatisfactoriness, not self, impermanence,
-unsatisfactoriness, not self” are very true. However, the mind has to be
+emotional moisture. If you think, “*Anicca, dukkha, anattā, anicca,
+dukkha, anattā, anicca, dukkha, anattā*,” it gets pretty dry after a
+while. “Impermanence, unsatisfactoriness, not-self, impermanence,
+unsatisfactoriness, not-self” are very true. However, the mind has to be
 prepared and balanced. Mettā bhāvanā can be a very useful basis for
 providing a sense of moisture, warmth, and brightness to the mind.
 
@@ -63,8 +63,8 @@ compassion, sympathetic joy, and equanimity. To try to establish
 equanimity or sympathetic joy on its own is not that easy, but
 loving-kindness is an appropriate doorway into these sublime abidings.
 
-The chant begins with a very direct statement: in Pāli, “*Ahaṁ sukhito
-homi*,” which is “May I be happy.” Of course, if you’re chanting “May I
+The chant begins with a very direct statement: in Pāli, *Ahaṃ sukhito
+homi*, which is “May I be happy.” Of course, if you’re chanting “May I
 be happy,” it falls a bit flat. Whereas, if you begin a chant, “May I
 abide in well-being,” it’s kind of nice to chant.
 
@@ -83,15 +83,15 @@ loving-kindness: to direct attention inward and establish that very
 strong feeling of well-wishing towards oneself.
 
 In the scriptures, there is a very lovely exchange between King Pasenadi
-and Queen Mallika. He was the king of Kosala, in which is Savatthi,
+and Queen Mallika. He was the king of Kosala, in which is Sāvatthi,
 where the Buddha spent the majority of his Rains residences in Jeta's
 Grove and elsewhere in the region. So he was very familiar with King
-Pasenadi. Queen Mallika was a devout Buddhist and had a solid practice.
+Pasenadi. Queen Mallikā was a devout Buddhist and had a solid practice.
 King Pasenadi had tremendous faith in the Buddha, but there is never any
 mention of him having attained any levels of liberation.
 
 In any event, in the palace, King Pasenadi asks Queen Mallika, “Who is
-it that you cherish the most?” Queen Mallika replies, “Well, I cherish
+it that you cherish the most?” Queen Mallikā replies, “Well, I cherish
 myself the most.” “Hmmm,” he thinks. He always takes her lead. He has
 tremendous love and respect for her, so there must be something to this.
 
@@ -114,21 +114,21 @@ ourselves that blocks us off from others.
 
 So, establish that sense of “May I abide in well-being.” Take that in
 and open the heart to the sincere wish, “May I abide in well-being and
-freedom from affliction.” In Pāli the phrase is “*niddukkho homi*,”
-without dukkha, without suffering. “In freedom from hostility” is
-“*avero homi*.” *Vera* is conflict and also grudges—the grudges and
+freedom from affliction.” In Pāli the phrase is *niddukkho homi*,
+without dukkha, without suffering. *Avero homi* is “In freedom from
+hostility.” *Vera* is conflict and also grudges—the grudges and
 conflicts that ironically bind us together. In Thai, there is a phrase
 that you say when something goes wrong. In English, we say, “Oh, shoot.”
 In Thai, it’s “*wain gam*,” “Oh, this is conflict and kamma.” Establish
 the wish, “May I abide in freedom from hostility,” in freedom from any
 kind of conflict.
 
-“*Abyapajjho homi*”: freedom from ill will. *Byapada* is ill will,
+“*Abyāpajjho homi*”: freedom from ill will. *Byāpada* is ill will,
 anger, irritation, aversion. “May I abide in freedom from ill will.”
 “*Anīgho homi*”: in freedom from anxiety, worry, or fear. Establish that
 wish, “May I abide in freedom from anxiety.”
 
-“*Sukhi attānaṁ pariharāmi*”: *atta* is me, self. “May I be happy, and
+*Sukhi attānaṃ pariharāmi*: *atta* is me, self. “May I be happy, and
 may I maintain well-being in myself.” Draw attention to that wish for
 freedom from affliction, hostility, ill will, and anxiety, and that wish
 to maintain well-being. Establish yourself as grounded in well-being. As
@@ -138,9 +138,9 @@ well-being.
 
 Then allow it to be a bit more non-directional: not directed toward
 yourself, but a bit more pervasive: “May everyone abide in well-being.”
-In the Pāli, “*Sabbe satta sukhitā hontu*”: “May all beings abide
+In the Pāli, *sabbe satta sukhitā hontu*: “May all beings abide
 in well-being; may all beings be happy.” Then proceed to similar
-recollections or aspirations. “*Sabbe satta avera hontu*”: “May all
+recollections or aspirations. *Sabbe satta avera hontu*: “May all
 beings abide in freedom from hostility, ill will, and anxiety.” Those
 feelings of fear, worry, and anxiety are part of not just the human
 condition, but the universal condition of having a life force, whether
@@ -171,7 +171,7 @@ anxiety is exceedingly uncomfortable.
 On the sheet of paper I passed out on the sharing of loving-kindness,
 there is a very similar formulation, with a bit of a twist that is very
 nice. But it uses those same structures and is very classical. It is out
-of a very early commentarial treatise, the *Patisambhidāmagga*, which is
+of a very early commentarial treatise, the *Paṭisambhidāmagga*, which is
 so old it’s in the Pāli Canon. These are the formulations for one of the
 ways for the cultivating of loving-kindness: developing freedom from
 hostility, freedom from ill will, freedom from anxiety, and then the

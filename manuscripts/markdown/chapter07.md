@@ -1,4 +1,4 @@
-# The *Karaniya Mettā Sutta*
+# The *Karanīya Mettā Sutta*
 
 Yesterday, I introduced a method for the cultivation of loving-kindness
 using the phrases: “May I be well, happy, peaceful. May no harm come to
@@ -18,7 +18,7 @@ direct attention, it’s like trying to enter into and abide in that
 feeling, allowing it to establish itself.
 
 I think it’s also quite important in terms of the cultivation of
-loving-kindness that we recall this *mettā nimitta*, the sign of
+loving-kindness that we recall this *mettā-nimitta*, the sign of
 loving-kindness. Find a place where that feeling of mettā begins to
 establish itself and then protect it. Then use the different phrases to
 try to support, nurture, and hold loving-kindness in a skillful way so
@@ -76,7 +76,7 @@ discourse in terms of the scriptural Pāli language. There is not a spare
 word anywhere; it’s all perfect. Of course, in trying to get things into
 English, you try your best, and there are many different translations.
 The beauty of the Internet is that you can find a half-dozen different
-translations of the *Karaniya Mettā Sutta*.
+translations of the *Karaṇīya Mettā Sutta*.
 
 One of the striking things, given that this is the Buddha’s best-known
 discourse on loving-kindness, is that it is about a third of the way
@@ -151,11 +151,11 @@ worry about what somebody is going to think, let’s take the standards of
 somebody who is really wise and use that as a sounding board.
 
 “Wishing: in gladness and in safety, may all beings be at ease.” The
-scriptural Pāli is, “*Sukhino vā khemino hontu, sabbe sattā bhavantu
-sukhitattā.*” “*Sukhino*” is happy, with gladness and well-being: may
-they be happy; may they experience well-being. “*Khemino*” is safety,
-security, stability, freedom from any kind of threat. “*Sabbe satta
-bhavantu sukhitatta*”: may all beings bring this quality of happiness
+scriptural Pāli is, *Sukhino vā khemino hontu, sabbe sattā bhavantu
+sukhitattā.* *Sukhino* is happy, with gladness and well-being: may
+they be happy; may they experience well-being. *Khemino* is safety,
+security, stability, freedom from any kind of threat. *Sabbe satta
+bhavantu sukhitatta*: may all beings bring this quality of happiness
 and well-being into being; may they be at ease.
 
 Establish that wish, that thought, that aspiration. The Buddha then
@@ -206,10 +206,10 @@ want to be born, I want to be reborn.” Of course, that’s the cycle—it
 goes around and around.
 
 So, having that deep sense of kindness and compassion towards all
-beings— “May all beings be at ease.” “*Sabbe satta sukhita hontu*;
-*sabbe satta bhavante sukhitatta.*” “May all beings bring that
-happiness into being”—it then comes back to how we live with each other,
-living with loving-kindness.
+beings—*sabbe satta sukhita hontu*, “may all beings be at ease.” *Sabbe
+satta bhavante sukhitatta*, “May all beings bring that happiness into
+being”—it then comes back to how we live with each other, living with
+loving-kindness.
 
 “Let none deceive another”: the commitment to real honesty and
 straightforwardness in our dealings with each other and, again,

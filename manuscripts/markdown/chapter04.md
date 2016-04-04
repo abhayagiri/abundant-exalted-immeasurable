@@ -9,7 +9,7 @@ In the Noble Eightfold Path, there is *sammā-saṅkappa*, Right Intention
 or Right Thought. There are three aspects of this: *nekkhamma-saṅkappa*,
 the aspect of renunciation or not drifting into sensuality;
 *abyāpāda-saṅkappa*, not thinking with ill will or aversion; and
-*avihiṁsa-saṅkappa*, thoughts of non-harming. The last two are often
+*avihiṃsa-saṅkappa*, thoughts of non-harming. The last two are often
 equated with loving-kindness and compassion.
 
 For loving-kindness to arise, there have to be thoughts of non-ill will,
@@ -21,7 +21,7 @@ then encourage yourself along the way.
 
 Encouraging ourselves is very important. That in itself is an act of
 loving-kindness, encouraging ourselves in something skillful. Bhante
-Gunaratana tells a lovely story. He was going to teach in Europe, and
+Guṇaratana tells a lovely story. He was going to teach in Europe, and
 when it was getting close to the time that he was to leave, the person
 who invited him called and asked him, “What do you teach?” He said, “I
 teach mindfulness. I teach *vipassanā*.” And she said, “You don’t teach
@@ -52,7 +52,7 @@ into being thoughts of loving-kindness towards yourself. We can
 complicate this with feelings of uncertainty, doubt, or guilt: “Maybe I
 shouldn’t be doing it towards myself, because I’m not worthy.”
 
-One of the monks in Australia, Ajahn Brahmavamso, teaches people that if
+One of the monks in Australia, Ajahn Brahmavaṃso, teaches people that if
 you can’t start with yourself, start with anything that evokes a feeling
 of loving-kindness—a little puppy, a kitten, anything like that—because
 in reality, the cultivation of loving-kindness is not the repeating of
@@ -158,7 +158,7 @@ posture, allowing the breathing to settle deeply—tapping in to the
 rhythm of the breathing and planting a seed within that sphere of
 relaxation. Then pay attention to the feeling.
 
-I can’t emphasize enough that *mettā bhāvanā*, the development of
+I can’t emphasize enough that *mettā-bhāvanā*, the development of
 loving-kindness, is not about getting proficient at memorizing the lines
 or coming up with really neat new lines: “the revolutionary art of
 cultivating loving-kindness, new and improved!” Pay attention to the

@@ -1,11 +1,11 @@
 # Mettā: A Mature Emotion
 
-Q: My activist neighbor is going to Nevada to register voters. It’s
+Question: My activist neighbor is going to Nevada to register voters. It’s
 difficult to convince myself that I’m sitting in meditation for the
 benefit of all beings (not just giving myself a “gift”), let alone
 explain a week of sitting to her. Could you comment?
 
-A: There are a couple of different layers there. The main one that leaps
+Answer: There are a couple of different layers there. The main one that leaps
 out is, I don’t think you need to explain yourself to everybody,
 especially in the light of loving-kindness. It is usually not an act of
 loving-kindness to try to compare and then explain yourself to others.
@@ -102,7 +102,7 @@ There are many avenues of wholesome and skillful action, and it’s
 important to be able to have a recognition of the spectrum, so that we
 can seize the opportunities, such as seeing somebody else doing
 something skillful and then delighting in that. It’s expressed in the
-Pāli word *anumodanā*, delighting in the good that is done. You don’t
+Pāli word *anumodana*, delighting in the good that is done. You don’t
 even have to do anything.
 
 If you see somebody else doing something skillful, it doesn’t have to be
@@ -158,9 +158,9 @@ something good and then be able not to make it a judgment about
 yourself, torturing yourself.
 
 I think that sometimes, when we see loving-kindness as one of the
-*brahma viharas*, a divine abiding, that puts it out *there* somewhere:
+*brahmavihāras*, a divine abiding, that puts it out *there* somewhere:
 “The divine, that’s way off somewhere else.” One of the monks in England
-has started translating brahma vihara as “mature emotion,” and that’s a
+has started translating brahmavihāra as “mature emotion,” and that’s a
 skillful way of bringing attention to that aspect. It is a mature
 emotion to be able to turn attention to loving-kindness, compassion,
 sympathetic joy, and equanimity. The doorway into them all is the
