@@ -3,19 +3,24 @@
 \usepackage{geometry}
 \geometry{%
     %papersize={396pt,612pt},
-    inner=54pt,
-    outer=45pt,
-    top=45pt,
-    bottom=45pt,
-    headsep=15pt,
+    inner=.75in,
+    outer=.625in,
+    top=.875in,
+    bottom=.75in,
+    headsep=24pt,
     footskip=30pt,
 }
 
 \usepackage{fontspec}
 \setmainfont{Gentium Basic}
-\newfontface\sansfont[Scale=MatchLowercase]{DejaVu Sans ExtraLight}
+%\newfontface\sansfont[Numbers=Uppercase,Scale=MatchLowercase]{Alegreya Sans Light}
+\newfontfamily\sansfont[Scale=MatchLowercase,
+    BoldFont={Alegreya Sans},
+    ItalicFont={Alegreya Sans Light Italic},
+    BoldItalicFont={Alegreya Sans Italic},
+]{Alegreya Sans Light}
 %\renewcommand\normalsize{\fontsize{10.5}{13}}
-\linespread{1.02}
+\linespread{1.1}
 
 \usepackage[defaultlines=2,all]{nowidow}
 \usepackage[hyphenation]{impnattypo}
@@ -27,39 +32,43 @@
 \frenchspacing
 
 \makechapterstyle{default}{%
-    \setlength{\beforechapskip}{0pt}
+    %\setlength{\beforechapskip}{0pt}
+    \setlength{\beforechapskip}{40pt}
     \setlength{\midchapskip}{0pt}
     \setlength{\afterchapskip}{36pt}
     \renewcommand*\chapnumfont{\LARGE\sansfont}
     \renewcommand*\chaptitlefont{\LARGE\sansfont}
     \renewcommand*\printchaptername{}
-    \renewcommand*\printchapternum{\center\chapnumfont\thechapter}
+    %\renewcommand*\printchapternum{\center\chapnumfont\thechapter}
+    \renewcommand*\printchapternum{}
     \renewcommand*\afterchapternum{}
     \renewcommand*\printchaptertitle[1]{\center\chaptitlefont ##1\par}
 }
 \chapterstyle{default}
 
-\newcommand\headfootfont{\small\sansfont}
+\newcommand\headfootfont{\normalsize\sansfont}
 
 \makeevenfoot{plain}% verso
 {\headfootfont}
-{\headfootfont\thepage}
+{\headfootfont\large\thepage}
 {\headfootfont}
 
 \makeoddfoot{plain}% recto
 {\headfootfont}
-{\headfootfont\thepage}
+{\headfootfont\large\thepage}
 {\headfootfont}
 
 \makeevenhead{headings}% verso
-{\headfootfont\thepage\hspace{2em}\thetitle}% left
-{\headfootfont}% center
+%{\headfootfont\thepage\hspace{2em}\thetitle}% left
+{\headfootfont\large\thepage}% left
+{\headfootfont\thetitle}% center
 {\headfootfont}% right
 
 \makeoddhead{headings}% recto
 {\headfootfont}% left
-{\headfootfont}% center
-{\headfootfont\rightmark\hspace{2em}\thepage}% right
+{\headfootfont\rightmark}% center
+{\headfootfont\large\thepage}% right
+%{\headfootfont\rightmark\hspace{2em}\thepage}% right
 
 \makepsmarks{headings}{%
     \nouppercaseheads
@@ -77,12 +86,20 @@
 \aliaspagestyle{chapter}{plain}
 
 \renewcommand{\cftchapterfont}{\normalfont}
-\renewcommand{\cftchapterformatpnum}[1]{{\normalfont #1}}
+%\renewcommand{\cftchapterformatpnum}[1]{{\normalfont #1}}
+\renewcommand{\cftchapterformatpnum}[1]{}
 %\renewcommand{\chapternumberline}[1]{\normalfont #1}
-\setlength{\cftbeforechapterskip}{.8em}
+\setlength{\cftbeforechapterskip}{.6em}
 
 \sloppy
 \sloppybottom
+
+\newcommand\quotationsize{\fontsize{10}{13.6}\selectfont}
+\renewenvironment{quotation}
+    {\list{}{\leftmargin=\the\parindent\rightmargin=\the\parindent}%
+        \small\parindent 1.5em\linespread{1.08}%
+        \setlength{\parskip}{0pt}\item[]}
+    {\endlist}
 
 \title{Abundant, Exalted, Immeasurable}
 \hypersetup{%
@@ -91,7 +108,4 @@
     pdfkeywords={Buddhism, loving-kindness},
 }
 
-\renewenvironment{quotation}
-    {\list{}{\leftmargin=16.5pt\rightmargin=16.5pt}\linespread{1.2}\parindent 1.5em\small\item[]}
-    {\endlist}
 
