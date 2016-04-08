@@ -521,7 +521,7 @@ thought I’d read the complete discourse.
 > free from hostility, free from ill will. \[And the same for
 > compassion, appreciative joy, and equanimity.\]
 > 
-> (A 3.65)
+> (A 3:65)
 
 It is interesting how the Buddha’s teaching that is often quoted as a
 charter of how to make up one’s mind is then taken a step further and
@@ -554,7 +554,7 @@ encourages this.
 > undeveloped, but now it is measureless, and well developed. No
 > measurable kamma remains or persists there.’”
 > 
-> (A 10.219)
+> (A 10:219)
 
 What is being referred to is that no measurable *kamma* will come of
 this. None will persist. With the liberation of the mind with
@@ -597,7 +597,7 @@ heavy *kamma*s because they take precedence over other forms of *kamma*.
 > wisdom found here in this teaching, but who has not penetrated to a
 > higher liberation.”
 > 
-> (A 10.219)
+> (A 10:219)
 
 So there is the recognition of the strength of loving-kindness as the
 ability to undermine other tendencies within the kammic potential.
@@ -607,14 +607,14 @@ ability to undermine other tendencies within the kammic potential.
 > established, consolidated, and properly undertaken, eleven benefits
 > may be expected. What eleven?
 > 
-> (1) “One sleeps well; (2) one awakens happily; (3) one does not have
+> \(1) “One sleeps well; (2) one awakens happily; (3) one does not have
 > bad dreams; (4) one is pleasing to human beings; (5) one is pleasing
 > to spirits; (6) deities protect one; (7) fire, poison, and weapons do
 > not injure one; (8) one’s mind quickly becomes concentrated; (9) one’s
 > facial complexion is serene; (10) one dies unconfused; and (11) if one
 > does not penetrate further, one fares on to the brahmā world.”
 > 
-> (A 11.15)
+> (A 11:15)
 
 Even if one does not realize some state of liberation, those are all
 good things. I don’t see anything that is a drawback here at all.

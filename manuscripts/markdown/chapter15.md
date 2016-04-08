@@ -23,7 +23,7 @@ the realization of the fruit of once-returning; the non-returner and the
 one practicing for the fruit of non-returning; the arahant and the one
 practicing for arahantship. This is the eighth wonderful and marvelous
 quality of this Dhamma and discipline, which the monks perceive again
-and again, and by reason of which they take delight.” (A 8.19) 
+and again, and by reason of which they take delight.” (A 8:19) 
 
 As I was poking around, I came across a delightful sutta that I thought
 I would read this morning, which also concerns the fruits of realization
@@ -136,7 +136,7 @@ stream-entry.
 > “Mahānāma, a noble disciple, who has arrived at the fruit and
 > understood the teaching, often dwells in just this way.”
 > 
-> (A 6.10)
+> (A 6:10)
 
 One of the things that I like to point out is that, particularly in
 terms of meditation, there are different recollections such as these to
@@ -173,7 +173,7 @@ suffering, dissatisfaction, and discontent, and then spills out into all
 of the various forms of afflicted emotional states. So investigate those
 five aggregates of being.
 
-There is a discourse (S 22.100) in which the Buddha gives an image of a
+There is a discourse (S 22:100) in which the Buddha gives an image of a
 dog being tied to a post. Whether that dog lies down, stands up, sits,
 or walks, it is tied to that post. And the Buddha says as long as we are
 bound up and tied to those five khandhas—identification with the body,
@@ -208,7 +208,7 @@ willing to put it down.
 
 The Buddha had us reflect on and investigate these aspects of the
 khandhas and their emptiness, their ephemeral nature. The Buddha once
-offered a discourse (S 22.95) when he was by a river. As often happens,
+offered a discourse (S 22:95) when he was by a river. As often happens,
 there was some foam on the river, and the Buddha used that as an
 example.
 

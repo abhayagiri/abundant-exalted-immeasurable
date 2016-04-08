@@ -33,7 +33,7 @@ Buddha concerning mindfulness of the body.
 > body. When this one thing is developed and cultivated, the fetters are
 > abandoned.”
 > 
-> (A 1:575, 1:576--582, 1:583, 1:586--590)
+> (A 1:575, 1:576–582, 1:583, 1:586–590)
 
 These are very useful reflections because although the theme of this
 retreat is mettā, loving-kindness, it’s essential to have an anchor, a

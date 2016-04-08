@@ -82,7 +82,7 @@ after death? Or, do they neither exist nor not exist after death?
 There were great philosophical debates and conflicts about this. In a
 more modern setting, well, pick your view of choice.
 
-There is a discourse (A 10.96) in which Ānanda goes into a wanderer’s
+There is a discourse (A 10:96) in which Ānanda goes into a wanderer’s
 park around Rājagaha and goes to a hot springs. He meets a wanderer, who
 immediately starts questioning him:
 
