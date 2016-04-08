@@ -39,7 +39,9 @@ the monks paid their respects to him.
 > mind.” The venerable Nandiya and the venerable Kimbila each spoke
 > likewise, adding: “That is how, venerable sir, we are living in
 > concord, with mutual appreciation, without disputing, blending like
-> milk and water, viewing each other with kindly eyes.” (M 128)
+> milk and water, viewing each other with kindly eyes.”
+>
+> (M 128)
 
 That’s a delightful description of what is possible in the human realm.
 There is another discourse in which the Buddha is trying to convince the
@@ -96,8 +98,9 @@ and then he outlines a more appropriate, skillful way to live together.
 > that is noble and emancipating, and leads one who practices in
 > accordance with it to the complete destruction of suffering. This too
 > is a principle of cordiality that creates love and respect, and
-> conduces to cohesion, to non-dispute, to concord, and to unity.” (M
-> 48)
+> conduces to cohesion, to non-dispute, to concord, and to unity.”
+> 
+> (M 48)
 
 The six qualities of creating concord and living together come up in
 different places in the suttas: loving-kindness in acts, speech, and
@@ -151,7 +154,7 @@ to be used as an example of application of Dhamma within the community.
 > “Bhikkhus, there are these five courses of speech that others use when
 > they address you: their speech may be timely or untimely, true or
 > untrue, gentle or harsh, connected with good or with harm, spoken with
-> a mind of loving-kindness or with inner hate... Herein, bhikkhus,
+> a mind of loving-kindness or with inner hate ... Herein, bhikkhus,
 > \[regardless of how someone speaks\] you should train thus: ‘Our minds
 > will remain unaffected, and we shall utter no evil words; we shall
 > abide compassionate for their welfare, with a mind of loving-kindness,
@@ -171,8 +174,8 @@ to be used as an example of application of Dhamma within the community.
 > without earth. Eventually the man would reap only weariness and
 > disappointment.
 > 
-> “So too, bhikkhus, there are these five courses of speech... Herein,
-> bhikkhus, you should train thus: ‘Our minds will remain unaffected...
+> “So too, bhikkhus, there are these five courses of speech ... Herein,
+> bhikkhus, you should train thus: ‘Our minds will remain unaffected ...
 > and starting with him, we shall abide pervading the all-encompassing
 > world with a mind similar to the earth, abundant, exalted,
 > immeasurable, without hostility and without ill will.’ That is how you
@@ -187,8 +190,8 @@ to be used as an example of application of Dhamma within the community.
 > pictures appear there. Eventually the man would reap only weariness
 > and disappointment.
 > 
-> “So too, bhikkhus, there are these five courses of speech... Herein,
-> bhikkhus, you should train thus: ‘Our minds will remain unaffected...
+> “So too, bhikkhus, there are these five courses of speech ... Herein,
+> bhikkhus, you should train thus: ‘Our minds will remain unaffected ...
 > and starting with him, we shall abide pervading the all-encompassing
 > world with a mind similar to empty space, abundant, exalted,
 > immeasurable, without hostility and without ill will.’ That is how you
@@ -203,8 +206,8 @@ to be used as an example of application of Dhamma within the community.
 > grass-torch. Eventually the man would reap only weariness and
 > disappointment.
 > 
-> “So too, bhikkhus, there are these five courses of speech... Herein,
-> bhikkhus, you should train thus: ‘Our minds will remain unaffected...
+> “So too, bhikkhus, there are these five courses of speech ... Herein,
+> bhikkhus, you should train thus: ‘Our minds will remain unaffected ...
 > and starting with him, we shall abide pervading the all-encompassing
 > world with a mind similar to the river Ganges, abundant, exalted,
 > immeasurable, without hostility and without ill will.’ That is how you
@@ -213,18 +216,18 @@ to be used as an example of application of Dhamma within the community.
 > “Bhikkhus, suppose there were a catskin bag that was rubbed, well
 > rubbed, thoroughly well rubbed, soft, silky, rid of rustling, rid of
 > crackling, and a man came with a stick or a potsherd and said: ‘There
-> is this catskin bag that is rubbed... rid of rustling, rid of
+> is this catskin bag that is rubbed ... rid of rustling, rid of
 > crackling. I shall make it rustle and crackle.’ What do you think,
 > bhikkhus? Could that man make it rustle or crackle with the stick or
 > the potsherd?”—“No, venerable sir.” “Why is that? Because that catskin
-> bag being rubbed... rid of rustling, rid of crackling, it is not easy
+> bag being rubbed ... rid of rustling, rid of crackling, it is not easy
 > to make it rustle or crackle with the stick or the potsherd.
 > Eventually the man would reap only weariness and disappointment.
 > 
 > “So too, bhikkhus, there are these five courses of speech that others
 > may use when they address you: their speech may be timely or untimely,
 > true or untrue, gentle or harsh, connected with good or with harm,
-> spoken with a mind of loving-kindness or with inner hate... Herein,
+> spoken with a mind of loving-kindness or with inner hate ... Herein,
 > bhikkhus, \[regardless of how someone speaks\] you should train thus:
 > ‘Our minds will remain unaffected, and we will utter no evil words; we
 > shall abide compassionate for their welfare, with a mind of
@@ -254,7 +257,9 @@ to be used as an example of application of Dhamma within the community.
 > That will lead to your welfare and happiness for a long time.”
 > 
 > That is what the Blessed One said. The bhikkhus were satisfied and
-> delighted in the Blessed One’s words. (M 21)
+> delighted in the Blessed One’s words.
+> 
+> (M 21)
 
 This sets the bar pretty high, doesn’t it? You think, “How is it
 possible when someone is attacking you not to give rise to any anger or
@@ -296,7 +301,9 @@ I’ll just mention how he describes loving-kindness.
 > bhikkhu abides diligent, ardent, and resolute, his unliberated mind
 > comes to be liberated, his undestroyed taints come to be destroyed,
 > and he attains the supreme security from bondage that he had not
-> attained before.” (M 52)
+> attained before.”
+> 
+> (M 52)
 
 Even something as sublime as loving-kindness is impermanent. Seeing its
 changing nature can be a basis for investigation and penetration.
@@ -309,7 +316,9 @@ Nikāya*. This is addressed to monks but applies to everybody.
 > rightly called a monk. Not in vain does he meditate. He acts in
 > accordance with the Master's teaching, he follows his advice, and eats
 > deservingly the country’s alms-food. How much more so if he cultivates
-> it.” (A 1:53)
+> it.”
+> 
+> (A 1:53)
  
 So what we have been doing is not to be sniffed at. The next sutta is
 one that everyone knows, the *Kālāma Sutta,* but almost never when the
@@ -510,7 +519,9 @@ thought I’d read the complete discourse.
 > everywhere and in every respect the all-encompassing cosmos with an
 > awareness imbued with good will: abundant, expansive, immeasurable,
 > free from hostility, free from ill will. \[And the same for
-> compassion, appreciative joy, and equanimity.\] (A 3.65)
+> compassion, appreciative joy, and equanimity.\]
+> 
+> (A 3.65)
 
 It is interesting how the Buddha’s teaching that is often quoted as a
 charter of how to make up one’s mind is then taken a step further and
@@ -541,7 +552,9 @@ encourages this.
 > loving-kindness, vast, exalted, measureless, without enmity, without
 > ill will. He understands thus: ‘Previously, my mind was limited and
 > undeveloped, but now it is measureless, and well developed. No
-> measurable kamma remains or persists there.’” (A 10.219)
+> measurable kamma remains or persists there.’”
+> 
+> (A 10.219)
 
 What is being referred to is that no measurable *kamma* will come of
 this. None will persist. With the liberation of the mind with
@@ -582,7 +595,9 @@ heavy *kamma*s because they take precedence over other forms of *kamma*.
 > “Loving-kindness, if developed in such a way, will lead to the state
 > of non-returning, in the case of a monk who is established in the
 > wisdom found here in this teaching, but who has not penetrated to a
-> higher liberation.” (A 10.219)
+> higher liberation.”
+> 
+> (A 10.219)
 
 So there is the recognition of the strength of loving-kindness as the
 ability to undermine other tendencies within the kammic potential.
@@ -592,28 +607,14 @@ ability to undermine other tendencies within the kammic potential.
 > established, consolidated, and properly undertaken, eleven benefits
 > may be expected. What eleven?
 > 
-> 1. One sleeps peacefully.
+> (1) “One sleeps well; (2) one awakens happily; (3) one does not have
+> bad dreams; (4) one is pleasing to human beings; (5) one is pleasing
+> to spirits; (6) deities protect one; (7) fire, poison, and weapons do
+> not injure one; (8) one’s mind quickly becomes concentrated; (9) one’s
+> facial complexion is serene; (10) one dies unconfused; and (11) if one
+> does not penetrate further, one fares on to the brahmā world.”
 > 
-> 2. One does not have bad dreams.
-> 
-> 3. One awakens happily.
-> 
-> 4. One is dear to human beings.
-> 
-> 5. One is dear to non-human beings. 
-> 
-> 6. One will be protected by devas. 
-> 
-> 7. Fire, poison, and weapons cannot injure one. 
-> 
-> 8. One’s mind becomes easily concentrated. 
-> 
-> 9. One’s facial complexion is serene.
-> 
-> 10. One will die unconfused.
-> 
-> 11. And if one does not penetrate higher, one will be reborn in the
->     brahmā world.” (A 11.15)
+> (A 11.15)
 
 Even if one does not realize some state of liberation, those are all
 good things. I don’t see anything that is a drawback here at all.

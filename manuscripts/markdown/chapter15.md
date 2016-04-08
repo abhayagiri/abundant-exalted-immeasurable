@@ -134,7 +134,9 @@ stream-entry.
 > of the deities.
 > 
 > “Mahānāma, a noble disciple, who has arrived at the fruit and
-> understood the teaching, often dwells in just this way.” (A 6.10)
+> understood the teaching, often dwells in just this way.”
+> 
+> (A 6.10)
 
 One of the things that I like to point out is that, particularly in
 terms of meditation, there are different recollections such as these to

@@ -141,7 +141,7 @@ associated with the wholesome, the skillful, the uplifting.
 
 Then there are other spiritual attributes we can trust, say, the
 qualities that are conducive to passing over, transcending, crossing
-over suffering: the paramis. Generosity, virtue, renunciation, patience,
+over suffering: the *pāramīs*. Generosity, virtue, renunciation, patience,
 effort, resolution, truthfulness, loving-kindness, equanimity, wisdom:
 everything that one could conceive of that is really good. That’s what
 the Buddha encourages and that’s what forms the basis for the ability to
