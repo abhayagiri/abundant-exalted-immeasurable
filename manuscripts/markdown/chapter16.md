@@ -39,13 +39,12 @@ the monks paid their respects to him.
 > mind.” The venerable Nandiya and the venerable Kimbila each spoke
 > likewise, adding: “That is how, venerable sir, we are living in
 > concord, with mutual appreciation, without disputing, blending like
-> milk and water, viewing each other with kindly eyes.” (M 31:6-7;
-> Bhikkhu Nanamoli and Bhikkhu Bodhi trans.)
+> milk and water, viewing each other with kindly eyes.” (M 128)
 
 That’s a delightful description of what is possible in the human realm.
 There is another discourse in which the Buddha is trying to convince the
 monks in Kosambi, the monks referred to in the previous discourse, who
-had been disputing and creating conflict (M 48:5-6). He admonishes them
+had been disputing and creating conflict. He admonishes them
 and then he outlines a more appropriate, skillful way to live together.
 
 > “So, bhikkhus, when you take to quarreling and brawling and are deep
@@ -97,7 +96,8 @@ and then he outlines a more appropriate, skillful way to live together.
 > that is noble and emancipating, and leads one who practices in
 > accordance with it to the complete destruction of suffering. This too
 > is a principle of cordiality that creates love and respect, and
-> conduces to cohesion, to non-dispute, to concord, and to unity.”
+> conduces to cohesion, to non-dispute, to concord, and to unity.” (M
+> 48)
 
 The six qualities of creating concord and living together come up in
 different places in the suttas: loving-kindness in acts, speech, and
@@ -119,9 +119,8 @@ you in line,” but allowing you to be established in a quality of
 non-remorse and well-being, so that you can concentrate easily. It is a
 factor of our development of meditation.
 
-This next sutta reading also comes from *The Middle-Length
-Discourses*, number 21. It’s a very famous sutta, *The Simile of the
-Saw*.
+This next sutta reading also comes from *The Middle-Length Discourses*.
+It’s a very famous sutta, *The Simile of the Saw*.
 
 There is a buildup to the simile. The incident that gave rise to the
 teaching is that one of the bhikkhus was in conflict with the other
@@ -255,7 +254,7 @@ to be used as an example of application of Dhamma within the community.
 > That will lead to your welfare and happiness for a long time.”
 > 
 > That is what the Blessed One said. The bhikkhus were satisfied and
-> delighted in the Blessed One’s words. (M 21:10-21)
+> delighted in the Blessed One’s words. (M 21)
 
 This sets the bar pretty high, doesn’t it? You think, “How is it
 possible when someone is attacking you not to give rise to any anger or
@@ -272,13 +271,10 @@ aversion, ill will, or irritation.
 
 So those were some suttas in the application of loving-kindness in
 day-to-day life. There is also an interesting discourse on the
-application of loving-kindness as a basis for insight, sutta number 52
-in *The Middle-Length Discourses*.
-
-It’s a discourse by Ananda. Ananda actually defines a number of bases
-for insight in the jhānas, the four brahma vihāras, and the three
-formless attainments, but I’ll just mention how he describes
-loving-kindness.
+application of loving-kindness as a basis for insight. It’s a discourse
+by Ānanda. Ānanda actually defines a number of bases for insight in the
+jhānas, the four brahmavihāras, and the three formless attainments, but
+I’ll just mention how he describes loving-kindness.
 
 > “Again, a bhikkhu abides pervading one quarter with a mind imbued with
 > loving-kindness, likewise the second, likewise the third, likewise the
@@ -293,35 +289,32 @@ loving-kindness.
 > does not attain the destruction of the taints, then because of that
 > desire for the Dhamma, that delight in the Dhamma, with the
 > destruction of the five lower fetters he becomes one due to appear
-> spontaneously \[in the Pure Abodes\] and there attain final Nibbāna
+> spontaneously \[in the Pure Abodes\] and there attain final nibbāna
 > without ever returning from that world.
 > 
 > “This too is one thing proclaimed by the Blessed One ... wherein if a
 > bhikkhu abides diligent, ardent, and resolute, his unliberated mind
 > comes to be liberated, his undestroyed taints come to be destroyed,
 > and he attains the supreme security from bondage that he had not
-> attained before.” (M 52:8)
+> attained before.” (M 52)
 
 Even something as sublime as loving-kindness is impermanent. Seeing its
 changing nature can be a basis for investigation and penetration.
 
 I’ll do a few readings from *The Numerical Discourses*, the *Aṅguttara
-Nikāya*. This is from the sixth section of the ones. This is addressed
-to monks but applies to everybody.
+Nikāya*. This is addressed to monks but applies to everybody.
 
-“Monks, if for just the time of a finger-snap, a monk produces a thought
-of loving-kindness, develops it, gives attention to it, such a one is
-rightly called a monk. Not in vain does he meditate. He acts in
-accordance with the Master's teaching, he follows his advice, and eats
-deservingly the country’s alms-food. How much more so if he cultivates
-it.” (A 1:53, Numerical Discourses of the Buddha – An Anthology of
-Suttas from the Aṅguttara Nikāya, Nyanaponika Thera & Bhikkhu Bodhi)
-
+> “Monks, if for just the time of a finger-snap, a monk produces a thought
+> of loving-kindness, develops it, gives attention to it, such a one is
+> rightly called a monk. Not in vain does he meditate. He acts in
+> accordance with the Master's teaching, he follows his advice, and eats
+> deservingly the country’s alms-food. How much more so if he cultivates
+> it.” (A 1:53)
+ 
 So what we have been doing is not to be sniffed at. The next sutta is
 one that everyone knows, the *Kālāma Sutta,* but almost never when the
 *Kālāma Sutta* is quoted does loving-kindness get any mention. So I
-thought I’d read the complete discourse. This is *Aṅguttara Nikāya,*
-threes, number 65 (Ṭhānissaro Bhikkhu’s translation).
+thought I’d read the complete discourse.
 
 > I have heard that on one occasion the Blessed One, on a wandering tour
 > among the Kosalans with a large community of monks, arrived at
@@ -517,7 +510,7 @@ threes, number 65 (Ṭhānissaro Bhikkhu’s translation).
 > everywhere and in every respect the all-encompassing cosmos with an
 > awareness imbued with good will: abundant, expansive, immeasurable,
 > free from hostility, free from ill will. \[And the same for
-> compassion, appreciative joy, and equanimity.\]
+> compassion, appreciative joy, and equanimity.\] (A 3.65)
 
 It is interesting how the Buddha’s teaching that is often quoted as a
 charter of how to make up one’s mind is then taken a step further and
@@ -529,7 +522,7 @@ scriptural teachings. One of the traditional ways of dealing with the
 fruits of bad *kamma*—dealing with some kammic obstacle or difficulty—is
 the commitment to skillful *kamma*, building up the bank account of good
 *kamma*. This is a sutta that gives a perspective on and certainly
-encourages this (A 10:219; Bhikkhu Bodhi trans.):
+encourages this.
 
 > “Bhikkhus, I do not say that there is a termination of volitional
 > kamma that has been done and accumulated so long as one has not
@@ -548,7 +541,7 @@ encourages this (A 10:219; Bhikkhu Bodhi trans.):
 > loving-kindness, vast, exalted, measureless, without enmity, without
 > ill will. He understands thus: ‘Previously, my mind was limited and
 > undeveloped, but now it is measureless, and well developed. No
-> measurable kamma remains or persists there.’”
+> measurable kamma remains or persists there.’” (A 10.219)
 
 What is being referred to is that no measurable *kamma* will come of
 this. None will persist. With the liberation of the mind with
@@ -558,12 +551,12 @@ rebirth.
 
 This is actually called “heavy *kamma*,” but it’s *kamma* that takes
 precedence over unskillful *kamma*. Taking the life of parents and
-killing an *arahant*: these are called “heavy *kamma*” on the unskillful
+killing an arahant: these are called “heavy *kamma*” on the unskillful
 side.
 
 However, on the skillful side, heavy *kamma* is such as the attainment
-of jhāna, and the attainment of the liberation of the mind by the brahma
-vihāras. They take precedence. Stream-entry, paths and fruits, are
+of jhāna, and the attainment of the liberation of the mind by the
+brahmavihāras. They take precedence. Stream-entry, paths and fruits, are
 heavy *kamma*s because they take precedence over other forms of *kamma*.
 
 > “What do you think, monks. If a man, from his boyhood onwards, were to
@@ -589,13 +582,10 @@ heavy *kamma*s because they take precedence over other forms of *kamma*.
 > “Loving-kindness, if developed in such a way, will lead to the state
 > of non-returning, in the case of a monk who is established in the
 > wisdom found here in this teaching, but who has not penetrated to a
-> higher liberation.”
+> higher liberation.” (A 10.219)
 
 So there is the recognition of the strength of loving-kindness as the
-ability to undermine other tendencies within the kammic potential. That
-one was from *Aṅguttara* tens, number 219 (A 10:219).
-
-The next one is *Aṅguttara* elevens, number 5 (A 11:5).
+ability to undermine other tendencies within the kammic potential.
 
 > “If, monks, liberation of the mind is developed and cultivated,
 > frequently practiced, made one’s vehicle and foundation, firmly
@@ -623,7 +613,7 @@ The next one is *Aṅguttara* elevens, number 5 (A 11:5).
 > 10. One will die unconfused.
 > 
 > 11. And if one does not penetrate higher, one will be reborn in the
->     brahma world.” (A 11.5)
+>     brahmā world.” (A 11.15)
 
 Even if one does not realize some state of liberation, those are all
 good things. I don’t see anything that is a drawback here at all.
@@ -639,7 +629,7 @@ tap into the teachings that we have inherited through our good fortune.
 We can take this next period to sit, bringing those thoughts of
 loving-kindness to mind, reminding ourselves of the various
 formulations—whatever resonates. One of the words used to describe the
-brahma vihāras when one is accomplished in these meditations is
+brahmavihāras when one is accomplished in these meditations is
 “immeasurable.” The heart is not bound by constricted, contracted
 small-mindedness. One sets that aside and allows the heart to shine
 forth in that which is beautiful.

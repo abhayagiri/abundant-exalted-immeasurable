@@ -1,12 +1,12 @@
 # The Five Hindrances
 
-As we develop meditation, whether it’s mettā bhāvanā (the development of
-loving-kindness) or other kinds of meditation, we always have to develop
-skill in dealing with what are called the hindrances, *nīvaraṇa* in
-Pāli. It’s something that we need to be attentive to, not just in
-meditation, but in daily life and our interactions with people. Whether
-we’re walking, sitting, standing, or lying down, we need to be aware of
-how these hindrances overwhelm or obscure the mind.
+As we develop meditation, whether it’s mettā-bhāvanā or other kinds of
+meditation, we always have to develop skill in dealing with what are
+called the hindrances, *nīvaraṇa* in Pāli. It’s something that we need
+to be attentive to, not just in meditation, but in daily life and our
+interactions with people. Whether we’re walking, sitting, standing, or
+lying down, we need to be aware of how these hindrances overwhelm or
+obscure the mind.
 
 The hindrances that the Buddha pointed to are sensual desire, ill will,
 sloth and torpor, restlessness and worry, and skeptical doubt. These
@@ -48,10 +48,10 @@ reflect, “Oh, this is what I’m feeling.” Work with that; breathe through
 it, bringing attention to the feeling with clear awareness.
 
 Bring up something skillful and wholesome to work with. One of the
-discourses of the Buddha begins with Ananda visiting a group of nuns.
+discourses of the Buddha begins with Ānanda visiting a group of nuns.
 There is an exchange concerning the nuns’ practice, and the nuns are
 making particularly good progress in their cultivation of meditation and
-training. Ananda tells the Buddha, and the Buddha gives a discourse,
+training. Ānanda tells the Buddha, and the Buddha gives a discourse,
 approving the practice and adding that in the cultivation of mindfulness
 and meditation, it is necessary to direct the mind to something
 uplifting.
@@ -61,7 +61,7 @@ torpor, direct the attention to something that is uplifting and
 pleasurable. The word in Pāli is *pasādaniya-nimitta*: a sign of that
 which is pleasurable or satisfying.
 
-We are directing attention to mettā bhāvanā. That’s a particularly
+We are directing attention to mettā-bhāvanā. That’s a particularly
 pleasurable sign and object of attention to direct the mind to. This
 isn’t done only to overcome ill will and aversion. It also can be very
 helpful with sloth and torpor, when the mind is dull. When we direct the
@@ -109,8 +109,8 @@ gratification.
 The hindrances are a very fruitful realm for investigation, and
 overcoming them is a necessary foundation to lay for our practice. As we
 continue to cultivate, we need to be more and more skilled and quick at
-noticing: Is that a hindrance? Is that an obstruction to that which is
-truly skillful?
+noticing: “Is that a hindrance? Is that an obstruction to that which is
+truly skillful?“
 
 In another discourse, the Buddha points to the hindrances as being the
 fuel or nourishment for ignorance, *avijjā*. Ignorance, or not knowing
@@ -123,8 +123,8 @@ are very directly undermining that fundamental tendency towards avijjā,
 the lack of true knowledge and awareness.
 
 As we practice through the day, doing sitting and walking meditation, be
-aware if a hindrance is present. This particular thought, mood,
-perception, or feeling—could it be a hindrance?
+aware if a hindrance is present. “This particular thought, mood,
+perception, or feeling—could it be a hindrance?”
 
 If it is, work with it. Ground it in the awareness of the body. When the
 Buddha describes the hindrances, he points out that when we’re able to
@@ -213,7 +213,7 @@ from sensual desire and unwholesome states. Attend to that feeling of
 seclusion, so that the mind is able to be present with the breath as it
 comes in and goes out of the body, as the body is sitting and relaxing.
 Fully permeating and pervading, suffusing and filling the breath, body,
-and mind, with this quality of loving-kindness. Drawing back from and
+and mind with this quality of loving-kindness, drawing back from and
 relinquishing the five hindrances.
 
 This is a present-moment practice. As you breathe in, there is a sense
@@ -267,7 +267,7 @@ ourselves to allow that, and we tend not to.
 
 With restlessness and worry, it’s helpful to tune in to the body. When
 the mind is restless, it’s moving around, looking for something,
-anything. So permeate and pervade, suffuse and fill the body with the
+*anything*. So permeate and pervade, suffuse and fill the body with the
 quality of loving-kindness. Breathe in and out, tuning in to the rhythm
 and the feeling of the energy through the body. Even if it’s a restless
 energy, allow and be very conscious of permeating and pervading,
@@ -275,7 +275,7 @@ suffusing and filling. Turn your attention to non-desire and step away
 from any unwholesome states, negativity, and aversion.
 
 Find a place in the body that does feel comfortable. Then find an object
-that is pleasurable or satisfying, pasādaniya nimitta. Maybe your chest
+that is pleasurable or satisfying, *pasādaniya-nimitta*. Maybe your chest
 or stomach is restless. Well, what about your hands? Can you just relax
 your hands? Can you make that a pleasurable sensation? Pick a spot and
 see that you can suffuse that particular area with a feeling of

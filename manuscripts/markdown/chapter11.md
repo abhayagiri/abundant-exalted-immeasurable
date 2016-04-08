@@ -17,7 +17,7 @@ training, the monastic presence is still pretty tiny, really.
 At Abhayagiri, we almost always have a waiting list for people who want
 to come and train.
 
-The classic model is for the Monastic Sangha to be laying the foundation
+The classic model is for the monastic sangha to be laying the foundation
 for teaching, leadership and being an example. I think oftentimes there
 is a false dichotomy perceived, from the West, because the monastic
 presence is so strong in Asia. Oftentimes, people overlook the strength
@@ -51,13 +51,13 @@ bear with the pathetic nature of the mind. But then there are also those
 experiments, those reflections we use in undermining the perceptions of
 self and ego – the recollection of impermanence, uncertainty, and
 change. “These are mental states arising and ceasing.” That’s tuning
-into it as dhammas arising and ceasing, as opposed to me struggling with
-Māra, me being the champion over Mara, me being defeated by Mara again:
-that “me and Māra” story.
+into it as *dhammas* arising and ceasing, as opposed to me struggling
+with Māra, me being the champion over Māra, me being defeated by Māra
+again: that “me and Māra” story.
 
-So, seeing dhammas arising and ceasing, that’s all that is needed. There
-isn’t a “me” in that. It’s a really important aspect of insight to be
-turning attention towards. Also, we can develop the deconstructing of
+So, seeing *dhammas* arising and ceasing, that’s all that is needed.
+There isn’t a “me” in that. It’s a really important aspect of insight to
+be turning attention towards. Also, we can develop the deconstructing of
 the process of how thoughts arise and cease: getting to know the sense
 of feeling, perception, mental formation, consciousness, desire,
 attachment, and clinging, the process of Dependent Origination –“It’s
@@ -84,14 +84,14 @@ two. In order to experience well-being, then of course one needs to be
 free from suffering.
 
 Q: This morning you spoke about bringing to mind the mettā-nimitta, the
-metta object. I have some understanding of the feeling of mettā, but no
-understanding of the metta nimitta. Could you explain more fully?
+mettā-object. I have some understanding of the feeling of mettā, but no
+understanding of the mettā-nimitta. Could you explain more fully?
 
 A: It’s exactly the same. *Nimitta* is more a generic term for the
-object. We often associate nimitta with some type of light or image.
+object. We often associate *nimitta* with some type of light or image.
 With mindfulness of breathing and concentration, there would be
 encouragement to develop a sign of light or imagery. But the actual word
-nimitta just means sign. So the sign of metta is the feeling, the actual
+*nimitta* just means sign. So the sign of metta is the feeling, the actual
 feeling, emotion within the heart, within experience. That is the
 nimitta.
 
@@ -131,11 +131,11 @@ morning chanting: Birth is dukkha, ageing is dukkha, sickness is dukkha,
 death is dukkha, separation is dukkha, association is dukkha:
 everything’s dukkha. One can think, “Wow, this is a miserable teaching.”
 
-But then when one investigates: well, what does the Buddha actually
+But then when one investigates: “Well, what does the Buddha actually
 encourage you to do? What does he lay out as a path of practice and
-training? The Noble Eightfold Path. Right View, Right Intention:
-association with wisdom. Right Speech, Right Action, Right Livelihood:
-virtue. Right Effort, Right Mindfulness, Right Concentration: peaceful,
+training?” The Noble Eightfold Path. right view, right intention:
+association with wisdom. right speech, right action, right livelihood:
+virtue. right effort, right mindfulness, right concentration: peaceful,
 tranquil states of mind. Well, it’s all good. The path is completely
 associated with the wholesome, the skillful, the uplifting.
 
@@ -162,7 +162,7 @@ and ego.
 
 There’s a wonderful quote by Ajahn Mahā Boowa, speaking about Ajahn Mun.
 Ajahn Mun once taught, “Normally, as human beings, we respond to
-teachings on liberation and Nibbana with a curious sense of fear and
+teachings on liberation and nibbāna with a curious sense of fear and
 trepidation. I don’t want to go there. I don’t want to do that. There’s
 nothing there. Our parents and grandparents have all taught us quite
 well to attach to family, attach to possessions, and attach to
@@ -182,22 +182,22 @@ spectrum of practices that are the Buddha’s teachings. Certainly the
 four foundations of mindfulness are an overarching framework to attend
 to.
 
-There’s a discourse in the Majjhima Nikāya where the Buddha talks about
-establishing mindfulness on particular skillful, wholesome thoughts and
-being able to hold that exclusively for a day, or a night, or a day and
-a night: establishing the mind in that, discerning what’s skillful and
+There’s a discourse (M 19) where the Buddha talks about establishing
+mindfulness on particular skillful, wholesome thoughts and being able to
+hold that exclusively for a day, or a night, or a day and a night:
+establishing the mind in that, discerning what’s skillful and
 unskillful, and then committing to the wholesome thoughts. But then the
 mind gets tired, so then it’s necessary to return to a place of
 stillness or stability.
 
 One has to recognize clearly and engage skillfully in the recitation of
-the metta phrases. It’s using a thought process, and, by its very
+the mettā phrases. It’s using a thought process, and, by its very
 nature, it’s easy for it to become repetitious and feel tiring to the
 mind. Again, it’s important to recognize that the recitation of those
 phrases is to be used as a recollection and a reminder of the actual
 feeling. As one establishes that feeling, which is non-discursive, the
 mind can stay with that. But the recitation is a helpful tool to keep
-the mind within the bounds of metta, the loving-kindness perception.
+the mind within the bounds of mettā, the loving-kindness perception.
 
 But if one is continuing to do that and the feeling is not strong enough
 to enable one to rest in it in a non-discursive way, then it’s important
@@ -211,8 +211,8 @@ work with them back and forth. There’s no hard and fast rule. It’s more:
 What is the result? What is the state of the mind? What is going to be
 useful for settling and stilling?
 
-Q: It seems that metta would be much easier without a self to protect.
-How does one realize anatta?
+Q: It seems that mettā would be much easier without a self to protect.
+How does one realize anattā?
 
 A: That’s an excellent question, in the sense that, as an insight, one
 starts by realizing that the obstruction to mettā is actually not anger
@@ -221,12 +221,12 @@ we reflect, investigate and start having a clear insight into the nature
 of Dhamma, the nature of the teachings and what the Buddha is giving us
 as an opportunity for liberation, then loving-kindness is a natural
 expression of that non-self aspect of the Dhamma. Yes, the cultivation
-of metta would be a lot easier without the perception of self.
+of mettā would be a lot easier without the perception of self.
 
-Q: What is *upekkha*, equanimity, and how does one practice it?
+Q: What is *upekkhā*, equanimity, and how does one practice it?
 
-A: Upekkha is equanimity and evenness of the mind, the mind being in
-perfect balance, a sense of recognition of the nature of kamma. The
+A: Upekkhā is equanimity and evenness of the mind, the mind being in
+perfect balance, a sense of recognition of the nature of *kamma*. The
 practice and basis of equanimity is traditionally described as
 understanding the nature of *kamma*. The chants we do say: “All beings are
 the owners of their *kamma*, heir to their *kamma*, born of their *kamma*,
@@ -256,14 +256,15 @@ insight, so that one is able to rest in a place of complete stability
 and not be shaken by anything, because one sees that the nature of all
 things is to arise through causes and conditions.
 
-The reflection on kamma is that all beings inherit the results of their
-kamma. There’s not a personality, a “me” or “mine.” It’s not fixed. It
-isn’t as if something happens and then that inevitable, immutable state
-of being is going to exist forever. Everything is in a state of change.
-Patterns and circumstances can all change. As one recognizes that and
-has a much clearer insight into the nature of what causes and conditions
-are functioning, then one has an opportunity to put attention onto the
-place where it is going to make the most difference.
+The reflection on *kamma* is that all beings inherit the results of
+their *kamma*. There’s not a personality, a “me” or “mine.” It’s not
+fixed. It isn’t as if something happens and then that inevitable,
+immutable state of being is going to exist forever. Everything is in a
+state of change. Patterns and circumstances can all change. As one
+recognizes that and has a much clearer insight into the nature of what
+causes and conditions are functioning, then one has an opportunity to
+put attention onto the place where it is going to make the most
+difference.
 
 Q: What is the most fun part about being a monk?
 
@@ -279,11 +280,11 @@ Recollection of the Sangha, mean?
 
 A: It’s a way of classification in terms of entry into realization.
 There are four stages of realization: steam-entry, once-returner,
-non-returner, and fully enlightened being or *arahant*. *sotapanna*,
-*sakadāgāmi*, *anagāmi*, *arahant*. So there’s four.
+non-returner, and fully enlightened being, or arahant. *Sotāpanna*,
+*sakadāgāmi*, *anāgāmi*, arahant. So there’s four.
 
 Then there’s path and fruition. So there are those who are on the path
-to stream entry and those who have reached its fruition, those who are
+to stream-entry and those who have reached its fruition, those who are
 on the path to once-returning and those who have reached its fruition,
 those who are on the path to non-returning and its fruition, and those
 who are on the path to arahantship and its fruition. Those are the four
@@ -292,9 +293,9 @@ pairs and eight kinds of noble beings.
 In the commentarial tradition, the way they line it up is that the path
 and fruition are tied to each other. There’s a realization of path, and,
 within mind-moments, there’s a realization of fruition. There are a few
-discourses, suttas, in the Canon, however, that make it clear that, for
-someone who is on the path, it could be a long period of time, years
-even, before there is a fruition. To me, that makes sense.
+suttas in the Canon, however, that make it clear that, for someone who
+is on the path, it could be a long period of time, years even, before
+there is a fruition. To me, that makes sense.
 
 The sutta tradition has a clear description that there are those who
 have got an insight into what the path is, what the practice is, what

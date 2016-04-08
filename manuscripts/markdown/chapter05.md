@@ -6,12 +6,12 @@ veritable blizzard of questions. That’s always encouraging.
 Question: Can you speak a little bit about *samatha-vipassanā* and
 explain the difference between serenity and equanimity?
 
-Answer: *Samatha-vipassanā* is actually a commentarial division. *Samatha*
-is about tranquility, *vipassanā* about insight. This has a scriptural
-basis to a certain extent, but as the commentaries tried to systematize
-the teachings and methodologies, there was a division into distinct
-realms as separate practices. Samatha includes concentration and
-tranquility practices. Vipassanā practices are insight techniques.
+Answer: *Samatha-vipassanā* is actually a commentarial division.
+*Samatha* is about tranquility, *vipassanā* about insight. This has a
+scriptural basis to a certain extent, but as the commentaries tried to
+systematize the teachings and methodologies, there was a division into
+distinct realms and separate practices. Samatha includes concentration
+and tranquility practices. Vipassanā practices are insight techniques.
 
 I tend to lean much more towards the earliest tradition. The Buddha
 himself didn’t draw huge distinctions between the two. Also, my teacher,
@@ -33,17 +33,16 @@ the mind). This is more the result of a concentration and focusing
 practice.
 
 Equanimity is a bit more nuanced in the sense that it is, first, a
-brahma vihāra (divine abiding), part of the spectrum of loving-kindness,
-compassion, sympathetic joy, and equanimity. These are sublime, lofty
-states of mind that result in a very refined state of consciousness.
-Equanimity is also an enlightenment factor. The seven factors of
-enlightenment taught by the Buddha are mindfulness, reflection on
-dhamma, effort, joy, tranquility, concentration, and equanimity.
-Equanimity is also a factor of wisdom in the sense of the mind becoming
-very stable, steady, and unshakeable because of an abiding involving
-both emotion and wisdom. So equanimity is a bit more nuanced. Samatha is
-just the settling of the mind, the peacefulness of the mind, a peaceful
-abiding.
+brahmavihāra, part of the spectrum of loving-kindness, compassion,
+sympathetic joy, and equanimity. These are sublime, lofty states of mind
+that result in a very refined state of consciousness. Equanimity is also
+an enlightenment factor. The seven factors of enlightenment taught by
+the Buddha are mindfulness, reflection on dhamma, effort, joy,
+tranquility, concentration, and equanimity. Equanimity is also a factor
+of wisdom in the sense of the mind becoming very stable, steady, and
+unshakeable because of an abiding involving both emotion and wisdom. So
+equanimity is a bit more nuanced. Samatha is just the settling of the
+mind, the peacefulness of the mind, a peaceful abiding.
 
 Q: Could you please explain the death process? What happens to us
 as we die or as the body dies? How quickly does rebirth occur? Is there
@@ -83,15 +82,15 @@ being the owner of our *kamma* are preparation for the death process. It
 is exceedingly important to challenge our perceptions, illusions of
 control, and the assumptions about how long we are going to live. If
 we’ve been practicing for a bit, we usually get it that we have to die
-at some point in time, but it’s usually “off in the future.”
+at some point in time, but it’s usually “off in the future.” There are
+so many different ways of dying.
 
-There are so many different ways of dying. What happens to us as we die?
-As we die, there is a breakdown of the physical body, of the processes
-that sustain life, and on a certain level, of the mind itself. Not in
-the sense of “we all fall apart and go bonkers,” but there is the
-breakdown of what we conceive of as “my mind and my thoughts.” We prop
-that up through our whole life and identify with the thoughts, memories,
-and perceptions. That starts to unravel.
+What happens to us as we die? As we die, there is a breakdown of the
+physical body, of the processes that sustain life, and on a certain
+level, of the mind itself. Not in the sense of “we all fall apart and go
+bonkers,” but there is the breakdown of what we conceive of as “my mind
+and my thoughts.” We prop that up through our whole life and identify
+with the thoughts, memories, and perceptions. That starts to unravel.
 
 If what you have done is spend your life identifying with thoughts,
 feelings, perceptions, and memories, then it’s going to be confusing
@@ -156,7 +155,7 @@ lifetime. One of Ajahn Chah’s former monks asked him about working with
 death and dying, and working with people like that to give them the
 opportunity for a wholesome rebirth. Ajahn Chah had his cane beside him
 and, poked the former monk in the chest, knocked him over, pushed him on
-the ground and said, “*Buddho, Buddho*.” Ajahn Chah was saying that
+the ground and said, “*buddho, buddho*.” Ajahn Chah was saying that
 the time of death can be painful and very difficult, and if somebody
 hasn’t done the work beforehand, it’s not that easy. So it’s important
 to prepare throughout our lives. His Holiness the Dalai Lama was once
@@ -167,11 +166,11 @@ Q: As a guilt-ridden American, I can’t quite comprehend how to
 respond without guilt when I have caused harm, even inadvertently. Could
 you walk through the non-guilt-oriented mental process of a person who
 has harmed or caused inconvenience to someone else? I’m thinking of the
-monk who falsely accused Sariputta. If that were me, I would practically
+monk who falsely accused Sāriputta. If that were me, I would practically
 have to leave the sangha out of embarrassment and shame.
 
 A: It’s essentially answered in the way the Buddha responded when the
-monk made his confession—“I falsely accused Sariputta”—and then asked
+monk made his confession—“I falsely accused Sāriputta”—and then asked
 for forgiveness. The Buddha said, “It’s recognizing one’s faults as
 faults, one’s unskillful action as unskillful action and wishing to make
 amends: that is growth in the Noble One’s discipline.” That in itself is
@@ -182,15 +181,15 @@ truth.
 
 Nobody is exempt. Remorse, from a Buddhist perspective, says, “I really
 missed my shot on that and that was unskillful,” and there is an impetus
-to change. In Pāli there is the word *hiri-ottappa*: *hiri* is a sense
+to change. In Pali there is the word *hiri-ottappa*: *hiri* is a sense
 of conscience or embarrassment toward an action done in the past;
 *ottappa* is a concern for future wrong-doing. It’s interesting when you
 say it in English because early translators used shame and fear of
 wrongdoing, and what comes up in our minds is that these are heavy,
-negative states, whereas in the Pāli language, these are actually
+negative states, whereas in the Pali language, these are actually
 wholesome mental states in the way that mental states are categorized.
 
-In Pāli it’s called *kusala*. Intrinsic to *kusala* or a wholesome
+In Pali it’s called *kusala*. Intrinsic to *kusala* or a wholesome
 mental state is a sense of well-being, clarity, and discernment. It’s
 having the clarity to recognize, “That is really unbecoming and not in
 accord with how I really want to be, so it would be better for me to
@@ -231,13 +230,13 @@ to shrink back from things that are unskillful.” Also, anybody can make
 a mistake and miss their shot. A person has the opportunity to recognize
 that and reestablish him or herself in what is skillful.
 
-There are several occasions in the scriptures regarding which we might
-think that the Buddha really messed up. It doesn’t come across that the
-Buddha was agonized with guilt and struggling. It’s more like, “That
-didn’t work! I’ll try it this way instead.” One of the things that is
-very helpful to do when recognizing that we have missed our shot is
-asking for forgiveness and seeking reconciliation. It’s not that
-difficult to do, and it’s very healing.
+There are several occasions in the scriptures where we might think that
+the Buddha really messed up. It doesn’t come across that the Buddha was
+agonized with guilt and struggling. It’s more like, “That didn’t work!
+I’ll try it this way instead.” One of the things that is very helpful to
+do when recognizing that we have missed our shot is asking for
+forgiveness and seeking reconciliation. It’s not that difficult to do,
+and it’s very healing.
 
 Q: How would you describe the *jhāna* states, and do you teach
 this kind of meditation?
@@ -260,25 +259,25 @@ are able to keep letting go of those aspects of the mind that are
 obstructive. As we keep doing that, the mind settles.
 
 Q: When there is a lot of pain in the body, it is difficult to
-maintain Right Effort. Yet sometimes, through patient endurance, the
-pain lessens. Can you speak about Right Effort and the connection
-between Right Effort and *samādhi*?
+maintain right effort. Yet sometimes, through patient endurance, the
+pain lessens. Can you speak about right effort and the connection
+between right effort and *samādhi*?
 
-A: It’s good to refresh our memory as to what Right Effort actually
-is. When we conceive of Right Effort, we use the word “effort,” and of
+A: It’s good to refresh our memory as to what right effort actually
+is. When we conceive of right effort, we use the word “effort,” and of
 course effort is about doing, struggling: getting out there and
 energetically being assiduous and diligent, which is sometimes good.
 
-But the way the Buddha defines Right Effort is effort for decreasing
+But the way the Buddha defines right effort is effort for decreasing
 unwholesome mental states that have arisen. Effort for the preventing of
-unwholesome mental states that have yet to arise is also Right Effort.
+unwholesome mental states that have yet to arise is also right effort.
 Effort for the bringing into being of wholesome states that have not yet
-arisen is Right Effort. And effort for the maintaining of wholesome
-states that have arisen is Right Effort.
+arisen is right effort. And effort for the maintaining of wholesome
+states that have arisen is right effort.
 
 It might sound a bit convoluted, but it’s a very clear description, once
 you get your mind around it. When the Buddha defines it, it’s all about
-actual mental states. Right Effort is not about how diligent we appear
+actual mental states. right effort is not about how diligent we appear
 externally or how much we flog ourselves. It’s about attending to the
 quality of the mind—wholesome or unwholesome—and how we relate to the
 unwholesome or unskillful states: whether we support them, buy into

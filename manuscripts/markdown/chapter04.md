@@ -5,8 +5,8 @@ to reflect on its foundation. One of the ways that Ajahn Sumedho
 describes this is “not dwelling in aversion.” That’s a helpful way to
 look at loving-kindness.
 
-In the Noble Eightfold Path, there is *sammā-saṅkappa*, Right Intention
-or Right Thought. There are three aspects of this: *nekkhamma-saṅkappa*,
+In the Noble Eightfold Path, there is *sammā-saṅkappa*, right intention
+or right thought. There are three aspects of this: *nekkhamma-saṅkappa*,
 the aspect of renunciation or not drifting into sensuality;
 *abyāpāda-saṅkappa*, not thinking with ill will or aversion; and
 *avihiṃsa-saṅkappa*, thoughts of non-harming. The last two are often
@@ -68,7 +68,7 @@ with it, and spread it out. That requires mindfulness and attention,
 which is one of the reasons why I’m only introducing loving-kindness on
 the afternoon of the second day of teaching.
 
-It’s important to see that loving-kindness has a context of the Refuges,
+It’s important to see that loving-kindness has a context of the refuges,
 precepts, mindfulness, and attention to the body, as well as faith,
 confidence, and effort. It is necessary to cultivate and develop all the
 spiritual faculties. A particular skillful and wholesome quality then
@@ -83,7 +83,7 @@ point is that there is a comprehensive spiritual path to be cultivated.
 Loving-kindness is an opportunity or an option that we can direct
 attention to and see where it goes. We bring attention to the different
 faculties of our spiritual cultivation in meditation and, having built
-that base, we can then recognize that there is an opportunity to hone in
+that base, we can then recognize that there is an opportunity to home in
 on a particular mature emotion and allow it to come forward.
 
 This is very powerful, useful, and healing, but it’s also only one of
@@ -242,14 +242,14 @@ I’m going to do a guided meditation using particular phrases for the
 sharing of loving-kindness. This is quite a classical way of doing it.
 The phraseology might not be classical, but the approach is classical in
 the sense of directing loving-kindness towards yourself, your parents,
-and your teachers—the people who are most karmically important and
+and your teachers—the people who are most *kammically* important and
 binding. Then start to spread it out to your family, friends, and then
 even those who are unfriendly because loving-kindness starts to be
 non-discriminative. Even those who are unfriendly—they’re suffering, and
 we wish for them to be happy. Then extend loving-kindness out to all
 living beings without distinction.
 
-*(Guided Meditation)*
+## Guided Meditation
 
 Again, begin by settling into the posture, relaxing any tension you are
 feeling in the shoulders, around the eyes, the jaw. Allow the breath to

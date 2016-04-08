@@ -67,7 +67,7 @@ much encouragement, and Devadatta developed a grudge against the Buddha
 and plotted to kill him.
 
 One way he did that was to bribe the king’s men who were the keepers of
-Nalagiri, the state elephant but also a rogue elephant, whose job
+Nālāgiri, the state elephant but also a rogue elephant, whose job
 description was that of executioner. They plied him with alcohol and let
 him loose as the Buddha was approaching, so that this enraged elephant
 would trample the Buddha. Ānanda, the Buddha’s trustworthy attendant,
@@ -92,9 +92,9 @@ respond to loving-kindness.
 I remember one instance when I was still living in Thailand. I was
 fairly young in my role as an abbot and was having a conflict with a few
 of the monks. There was a constant feeling of agitation and wondering
-why these “idiots” didn’t comply with my rightness, which was obvious to
-me. After some time using that method and not being very successful, I
-thought I’d give loving-kindness a try.
+why these “idiots” didn’t comply with my “rightness,” which was obvious
+to me. After some time using that method and not being very successful,
+I thought I’d give loving-kindness a try.
 
 A small group of monks had banded together and was creating a lot of
 division throughout the community. I decided to start going on a longer
@@ -129,15 +129,16 @@ pervading one quarter with a mind ...” The chanting book says “heart,”
 but it is usually translated as “mind.” For me, it seems to chant a bit
 more nicely with “mind.”
 
-This is the most common formulation of loving-kindness and the brahma
-vihāras in the discourses. It comes up in many places: “I will abide
-pervading one quarter ...”—this is directional in the sense that it is
-conceived of in terms of the directions, the four quarters—“with a mind
-imbued with loving-kindness; likewise the second, likewise the third,
-likewise the fourth; so above and below and around and everywhere; and
-to all as to myself.” The sense is of spreading loving-kindness in the
-different directions—north, south, east, west, above and below, all
-around—so that we are allowing the feeling of loving-kindness to expand.
+This is the most common formulation of loving-kindness and the
+brahmaeihāras in the discourses. It comes up in many places: “I will
+abide pervading one quarter ...”—this is directional in the sense that
+it is conceived of in terms of the directions, the four quarters—“with a
+mind imbued with loving-kindness; likewise the second, likewise the
+third, likewise the fourth; so above and below and around and
+everywhere; and to all as to myself.” The sense is of spreading
+loving-kindness in the different directions—north, south, east, west,
+above and below, all around—so that we are allowing the feeling of
+loving-kindness to expand.
 
 “To all as to myself” establishes that feeling of loving-kindness within
 the heart, then allows it to pervade and extend. That’s the next part of
@@ -155,7 +156,7 @@ heart and mind to be established in those sublime qualities. Allow it to
 shine forth, not obstructing it with aversion, ill will, worry, or fear,
 all the tendencies that we can add to it.
 
-As we do this, we allow the heart to feel abundant, exultant, and
+As we do this, we allow the heart to feel abundant, exalted, and
 immeasurable. We see that these qualities are truly beautiful. When we
 think of physical beauty in the world, it doesn’t compare to the beauty
 of a sublime quality like loving-kindness. It’s an image the Buddha

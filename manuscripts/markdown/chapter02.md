@@ -5,11 +5,11 @@ difficult to convince myself that I’m sitting in meditation for the
 benefit of all beings (not just giving myself a “gift”), let alone
 explain a week of sitting to her. Could you comment?
 
-Answer: There are a couple of different layers there. The main one that leaps
-out is, I don’t think you need to explain yourself to everybody,
-especially in the light of loving-kindness. It is usually not an act of
-loving-kindness to try to compare and then explain yourself to others.
-That’s usually an exercise in judgment of yourself in which you,
+Answer: There are a couple of different layers there. The main one that
+leaps out is that I don’t think you need to explain yourself to
+everybody, especially in the light of loving-kindness. It is usually not
+an act of loving-kindness to try to compare and then explain yourself to
+others. That’s usually an exercise in judgment of yourself in which you,
 invariably, come up short. The very impulse to have to explain yourself
 to others is almost always generated from the sense, “I must be doing
 something wrong, and therefore, I have to explain myself.” You’re
@@ -52,23 +52,22 @@ loving-kindness, to get some space around that way of dividing things
 up—separating them out and being in opposition to things.
 
 I don’t think that is a helpful way to reflect on our experience because
-how the Buddha structured things was not so much as “right and wrong,”
-but more as “skillful and unskillful, wholesome and unwholesome.” We
-realize that an activist who is registering voters is doing something
-wholesome and skillful. That’s a good thing to do. “Is it what *I* need
-to be doing? Is it what I want to be doing right now? Do I feel drawn to
-that?” Maybe yes, maybe no. It’s also about being able to see somebody
-else’s skillfulness or wholesome activity and delight in that, being
-able to derive a sense of encouragement from others’ good actions
-without intimidating ourselves: “Other people can and are happy to do
-that. That’s great.
+how the Buddha structured things was not so much as right and wrong, but
+more as skillful and unskillful, wholesome and unwholesome. We realize
+that an activist who is registering voters is doing something wholesome
+and skillful. That’s a good thing to do.
 
-What I’d like to do for this week, at least, is to have a chance for a
-period of retreat—settling, creating an inner anchor for myself. That’s
-a wholesome, good, and skillful thing to do.” It doesn’t mean that
-because we have made the choice to be on retreat that we’re right and
-the rest of those schmucks out there really blew it. These are very
-separate realms.
+“Is it what *I* need to be doing? Is it what I want to be doing right
+now? Do I feel drawn to that?” Maybe yes, maybe no. It’s also about
+being able to see somebody else’s skillfulness or wholesome activity and
+delight in that, being able to derive a sense of encouragement from
+others’ good actions without intimidating ourselves: “Other people can
+and are happy to do that. That’s great. What I’d like to do for this
+week, at least, is to have a chance for a period of retreat—settling,
+creating an inner anchor for myself. That’s a wholesome, good, and
+skillful thing to do.” It doesn’t mean that because we have made the
+choice to be on retreat that we’re right and the rest of those schmucks
+out there really blew it. These are very separate realms.
 
 We can encourage ourselves in the choices that we make without
 undermining ourselves. That’s an act of kindness. We can also see how
@@ -119,7 +118,7 @@ is a kindness to yourself or to others.
 
 I remember one time traveling as a translator and attendant to a very
 senior, well-known, and highly respected Thai monk, Luang Por
-Paññananda. A few people in the room here have met him before. When I
+Paññānanda. A few people in the room here have met him before. When I
 took a group to Thailand, we went to pay respects to him. Now, there is
 someone with serious puñña, a whole life of giving. When we went, he was
 sick and in the hospital, but it was a hospital that he had built. He
@@ -130,7 +129,7 @@ It was the evening session: chanting, meditation, Dhamma talk, and
 questions afterwards. One of the questions that somebody asked fairly
 early on was: “How do we deal with that feeling of guilt?” Of course, I
 was familiar with that feeling, but the interesting thing was that when
-I tried to translate it, I realized that I don’t know what the word for
+I tried to translate it, I realized that I didn’t know what the word for
 guilt is in Thai. I had been translating for teachers and studying the
 language and the Dhamma for years, but my mind drew a blank, so I burst
 out laughing. I explained to him what the question was, why I was
@@ -158,14 +157,14 @@ something good and then be able not to make it a judgment about
 yourself, torturing yourself.
 
 I think that sometimes, when we see loving-kindness as one of the
-*brahmavihāras*, a divine abiding, that puts it out *there* somewhere:
-“The divine, that’s way off somewhere else.” One of the monks in England
-has started translating brahmavihāra as “mature emotion,” and that’s a
-skillful way of bringing attention to that aspect. It is a mature
-emotion to be able to turn attention to loving-kindness, compassion,
-sympathetic joy, and equanimity. The doorway into them all is the
-quality of loving-kindness. Bring attention to that, consciously, and
-then also bring attention to what obstructs it. We can start to pay
+*brahmavihāras*, the divine abidings, that puts it out *there*
+somewhere: “The divine, that’s way off somewhere else.” One of the monks
+in England has started translating brahmavihāra as “mature emotion,” and
+that’s a skillful way of bringing attention to that aspect. It is a
+mature emotion to be able to turn attention to loving-kindness,
+compassion, sympathetic joy, and equanimity. The doorway into them all
+is the quality of loving-kindness. Bring attention to that, consciously,
+and then also bring attention to what obstructs it. We can start to pay
 attention to the immature emotions, which are fairly accessible, and
 recognize: “There’s that twinge of jealousy; there’s that twinge of
 comparing; there’s that irritation.” Rather than letting them gain

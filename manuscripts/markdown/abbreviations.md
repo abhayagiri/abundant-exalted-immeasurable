@@ -2,8 +2,8 @@
 
 |  |
 |:-|:---------------------
-|D |Digha Nikaya
-|M |Majjhima Nikaya
-|S |Samyutta Nikaya
-|A |Anguttara Nikaya
+|M |Majjhima Nikāya
+|S |Saṃyutta Nikāya
+|A |Aṅguttara Nikāya
+|Ud|Udāna
 

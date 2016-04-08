@@ -43,6 +43,8 @@
     \renewcommand*\printchapternum{}
     \renewcommand*\afterchapternum{}
     \renewcommand*\printchaptertitle[1]{\center\chaptitlefont ##1\par}
+    \setsecheadstyle{\sansfont\large}
+    \setsecnumformat{}
 }
 \chapterstyle{default}
 
@@ -85,8 +87,9 @@
 
 \aliaspagestyle{chapter}{plain}
 
+\settocdepth{chapter}
 \renewcommand{\cftchapterfont}{\normalfont}
-\renewcommand{\cftchapterformatpnum}[1]{{\normalfont #1}}
+\renewcommand{\cftchapterformatpnum}[1]{{\normalfont #1}\hspace*{20pt}}
 %\renewcommand{\chapternumberline}[1]{\normalfont #1\hspace{.5em}}
 \renewcommand{\chapternumberline}[1]{}
 \setlength{\cftbeforechapterskip}{.4em}
@@ -103,6 +106,7 @@
 
 \newlength{\qaskip}
 \setlength{\qaskip}{.5em}
+\newcommand\qaspace{\vspace{\the\qaskip}}
 
 \title{Abundant, Exalted, Immeasurable}
 \hypersetup{%

@@ -9,7 +9,7 @@ what Ram Dass has said about his defilements: after so many years of
 practice, they are more like little neurotic shmoos that he can relate
 to in a relaxed way.
 
-A: What the palm reader was looking at was fundamental temperament,
+Answer: What the palm reader was looking at was fundamental temperament,
 karmic tendencies, the patterns that are there. Anger was a particular
 tendency that Ajahn Chah had, but through his ability to see clearly, he
 relinquished the tendency. The awareness had such clarity that the mind
@@ -30,7 +30,7 @@ mood or any kind of excitement. Ajahn Chah probably said to himself,
 
 There was a similar circumstance that I had with Ajahn Maha Boowa, who
 is well known for a couple of things. First, he is considered the
-*arahant* of the age in Thailand. He is in his mid-nineties now. He has
+arahant of the age in Thailand. He is in his mid-nineties now. He has
 been considered to be highly attained for a long time, and he is also
 well known for his ferocious tendencies.
 
@@ -162,8 +162,8 @@ picks and chooses. So learn how to recognize that, by seeing that
 changing, impermanent, uncertain nature. What we take as mine and
 me—it’s not fixed at all.
 
-Anicca is often translated as “impermanent or changing.” Ajahn Chah
-would tend to translate the word anicca as “uncertain or “not sure.” I
+*Anicca* is often translated as “impermanent or changing.” Ajahn Chah
+would tend to translate the word *anicca* as “uncertain or “not sure.” I
 think that is an important shift. What is impermanent or changing tends
 to be objectified, whereas “uncertain” is much more subjectified: how I
 feel; how I experience things. It’s an important shift. Bring it back
@@ -227,7 +227,7 @@ Often the causal conditions in these sequences are a bit different:
 reflecting on virtue and the sense of non-remorse, a feeling of gladness
 arises. Reflecting on the truth of the teachings, gladness arises, or
 faith or confidence. Thankfulness is more gratitude, which in Pali is
-*kataññuta*. That feeling of thankfulness, appreciation, and gratitude
+*kataññutā*. That feeling of thankfulness, appreciation, and gratitude
 has a different quality to it. So the word gladness is used in a couple
 of different ways.
 
@@ -251,7 +251,7 @@ The near enemy of equanimity is aloofness or indifference. Indifference
 will always have a certain negativity, dullness, or slight aversion.
 It’s sort of: “I don’t want to deal with this, get out of my face.”
 
-Whereas equanimity, as a brahma vihāra, will be *kusala*: wholesome and
+Whereas equanimity, as a brahmavihāra, will be *kusala*: wholesome and
 associated with a sense of well-being, clarity, and presence. There is
 equanimity in the sense of being balanced, but it isn’t a shutting out
 or holding at bay. There doesn’t need to be. With equanimity we can be
@@ -271,17 +271,17 @@ the Buddha’s leading disciples. Is this possibly a result of translation
 or translators’ view, or is this so in Pali also?
 
 A: Actually, I think if anybody gets the short end of the stick, it is
-Ananda, because he is a bit of a fall guy sometimes. But with all of his
+Ānanda, because he is a bit of a fall guy sometimes. But with all of his
 psychic powers, there is a certain spectacular quality to Moggallāna. He
 is also sometimes involved in sorting out certain problems within the
-sangha. He is trusted, as well as proactive in dealing in sangha
+Sangha. He is trusted, as well as proactive in dealing in Sangha
 matters.
 
 I’m not so familiar with the Mahāyāna sutras. Certainly Sāriputta is
-often a fall guy in the Mahayana sutras. I’m not sure how Moggallāna
+often a fall guy in the Mahāyāna sutras. I’m not sure how Moggallāna
 comes across in the Mahāyāna sutras.
 
-In regards to Anuruddha, there is a passing comment about when Ananda
+In regards to Anuruddha, there is a passing comment about when Ānanda
 had asked Anuruddha to sort something out and it didn’t get done (A
 4:243). The Buddha says, “Why did you even ask Anuruddha? You know what
 he’s like. He’s just not interested in practical matters.” It wasn’t a
@@ -291,10 +291,10 @@ I think one of the things is that in the Pali Canon, these great
 disciples come across as very human. They have personalities. They are
 distinct individuals.
 
-There is a great sutta in which Sāriputta is sitting and meditating in
-the forest and Moggallāna, who is adept in psychic powers, sees this
-scene unfolding where there are two *yakkhas*, which is a type of
-celestial demon. They are flying along overhead and see Sariputta
+There is a great sutta (Ud 4.4) in which Sāriputta is sitting and
+meditating in the forest and Moggallāna, who is adept in psychic powers,
+sees this scene unfolding where there are two *yakkhas*, which is a type
+of celestial demon. They are flying along overhead and see Sariputta
 meditating in the forest. It is the day before the Full Moon Day, and
 monks have nicely shaved heads.
 
@@ -311,7 +311,7 @@ comes out of his meditation, and Moggallāna asks, “How are you feeling
 today?” Sāriputta says, “Okay. But I’ve got a bit of a headache today.”
 Moggallāna says, “It’s no wonder, with these yakkhas.” He relates the
 scene. “This is wonderful. These mighty yakkhas can give a blow to
-Sāriputta, and all he says is, “I’ve got a bit of a headache.”
+Sāriputta, and all he says is, ‘I’ve got a bit of a headache.’”
 
 Then Sāriputta says, “What’s really amazing to me is that you can see
 these things happening. I didn’t see so much as a mud sprite, let alone

@@ -48,7 +48,7 @@ We prop up views and positions and then land in places of suffering. “I
 had such loving-kindness going. How did I get back to this point of
 suffering again?” That is the way it works when there is still greed,
 hatred, and delusion, when there are still the underlying roots of the
-*āsava*, the outflows. In order for mettā to come to fruition, we need
+*āsavas*, the outflows. In order for mettā to come to fruition, we need
 to shine a light on the deeper-rooted tendencies.
 
 How do we work with them? Of course, one of the ways of working with
@@ -61,7 +61,7 @@ highlighting where we create opposition and conflict, where we hold to a
 particular view, and how significant views are in supporting negative
 underlying tendencies within the mind.
 
-The Buddha outlined the three outflows or āsavas, as sensual desire
+The Buddha outlined the three outflows (āsavas), as sensual desire
 (*kāmāsava*), becoming (*bhavāsava*), and ignorance (*avijjāsava*—not
 knowing, not having true knowledge). Very soon after the Buddha’s
 passing, commentators added the outflow of views (*diṭṭhāsava*) because
@@ -82,9 +82,9 @@ after death? Or, do they neither exist nor not exist after death?
 There were great philosophical debates and conflicts about this. In a
 more modern setting, well, pick your view of choice.
 
-There is a discourse in which Ānanda goes into a wanderer’s park around
-Rajagaha and goes to a hot springs. He meets a wanderer, who immediately
-starts questioning him:
+There is a discourse (A 10.96) in which Ānanda goes into a wanderer’s
+park around Rājagaha and goes to a hot springs. He meets a wanderer, who
+immediately starts questioning him:
 
 > “What teacher do you follow?”
 > 
@@ -141,7 +141,7 @@ language that describes this mental state of attaching to views: “this
 alone is true, anything else is wrong.” It isn’t as if we have
 consciously thought this out or even articulated it within the mind, but
 it is there. We can change our views, but at that particular moment it
-feels like, “This is right and everything else is wrong.”
+feels like, “this is right and everything else is wrong.”
 
 As soon as we are in that kind of position, it’s the basis for
 contention and conflict. It’s the basis for feeling irritation and
@@ -300,15 +300,15 @@ application. As we relinquish, “not holding to fixed views, the pure
 hearted one, having clarity of vision, being freed from all sense
 desire, is not born again into this world.” Somebody who is freed from
 all sense desires and is not born again into this world is an *anāgāmi*
-or *arahant*, a non-returner or somebody who is a fully enlightened
-being. That’s a real act of kindness, to be somebody who is fully able
-to penetrate the teachings and to be completely free of the
-entanglements of *saṃsāra*.
+or arahant, a non-returner or somebody who is a fully enlightened being.
+That’s a real act of kindness, to be somebody who is fully able to
+penetrate the teachings and to be completely free of the entanglements
+of saṃsāra.
 
 Of course, the example closest to me, a contemporary example, is Ajahn
 Chah. The Buddha’s example is still resonating after 2,500 years. The
 act of relinquishment, being able to be freed from all sense desires,
-turning away from the cycle of *saṃsāra*, has had an extraordinarily
+turning away from the cycle of saṃsāra, has had an extraordinarily
 powerful effect on the world.
 
 Ajahn Chah set an example of loving-kindness and had the ability to
@@ -357,8 +357,8 @@ drinking straight from the kettle was too much.
 Ajahn Chah took one look and just bolted after the lad. He was going to
 beat this little novice. The novice saw him and was out of there. Ajahn
 Chah chased after him, trying to catch the novice to thrash him. The
-novice was quicker and got away. Then it hit Ajahn Chah, what he was
-doing. He went back to his dwelling place and didn’t come out for three
+novice was quicker and got away. Then it hit Ajahn Chah: what he was
+doing? He went back to his dwelling place and didn’t come out for three
 days. He sat and worked with that anger. He didn’t come out, go on
 almsround, or eat. The monks said that after that occasion, nobody ever
 saw him display anger again. It was very, very interesting. He just

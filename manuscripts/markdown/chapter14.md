@@ -33,26 +33,6 @@ description of path and realization. That is in *Majjhima Nikāya* 70,
 the *Kīṭāgiri Sutta*. Path and fruit are fairly ubiquitous, but I don’t
 have a good reference off the top of my head.
 
-Q: I am hoping to go to the Udon Thani and Khon Kaen areas of Thailand.
-Are there temples and teachers that you would recommend for lay
-practice? I am also curious to know the name and location of the teacher
-you mentioned today who has students who focus on themselves as mettā
-objects for so long. That seems appropriate for my case.
-
-A: That is Ajahn Maha Chatchai in Wat Pleng in Nonthaburi. He lives on the
-outskirts of Bangkok.
-
-Udon Thani has lots of forest monasteries with good teachers. There are
-not so many teachers that I know in the Khon Kaen area, but Udon is very
-rich because Ajahn Maha Boowa’s monastery is in Udon. There is a very
-strong presence there of the disciples of Ajahn Mun, of whom Ajahn Maha
-Boowa is one. Ajahn Maha Boowa has taught for so long that he has many
-disciples and affiliated monasteries. Of course, there is always a
-problem of language in Thailand, but there is a group of westerners at
-Ajahn Maha Boowa’s monastery. The best thing to do is to get local
-knowledge of good practice places in that area, as there are lots of
-good teachers up there.
-
 Q: Would you say a bit about the benefits of dwelling in
 loving-kindness during the dying process? Both for the caregiver and the
 person dying.
@@ -163,11 +143,11 @@ helpful exercise in imagination or visualization: just to replace
 yourself with somebody else. Recognize that you would probably respond
 in a completely different way.
 
-Q: Was Ajahn Chah an *anāgami* (non-returner) when he became angry with
+Q: Was Ajahn Chah an *anāgāmi* (non-returner) when he became angry with
 the young monk? I thought the root of anger is uprooted at that stage.
 Please explain.
 
-A: Absolutely not, with that kind of anger. An anāgami has absolutely
+A: Absolutely not, with that kind of anger. An anāgāmi has absolutely
 eradicated anger and sensual desire. That was the sign that he really
 missed his shot and still had some major defilements to work with, and
 that’s what he put his energy into working with.
@@ -193,8 +173,8 @@ power of the Dhamma, by the power of the Sangha, may the devas protect
 you by the forces of goodness,  and may you live happily.”
 
 So it is a very beautiful chant, and it is unfortunate that we still
-haven’t got it together yet in English. They are called anumodanā
-chants, and there are a few different ones. “Anumodanā” literally means
+haven’t got it together yet in English. They are called anumodana
+chants, and there are a few different ones. “Anumodana” literally means
 delighting in the goodness that has been done. So that’s the gist of it.
 
 Q: Could you please talk about the difference between awareness and
@@ -212,15 +192,14 @@ consciousness. The ability to be conscious of sensory contact—that’s a
 basic function. If you live, exist, and have a body and a mind, then you
 have a basic function of consciousness.
 
-Awareness is a function of *saṅkhāra*, mental formations. The
-distinguishing characteristic of saṅkhāra, mental formations, is
-*cetanā* (volition or intention), so that we are directing the
-awareness. The ability to direct awareness and bring awareness into
-being is a function of the application of volition and attention. So we
-can become skilled in the use of awareness, or we can be forgetful in
-the use of awareness. This needs to be nurtured, looked after, and
-developed. Consciousness, receiving sensory contact, is just a basic
-function.
+Awareness is a function of *saṅkhārā*, mental formations. The
+distinguishing characteristic of saṅkhārā, is *cetanā* (volition or
+intention), so that we are directing the awareness. The ability to
+direct awareness and bring awareness into being is a function of the
+application of volition and attention. So we can become skilled in the
+use of awareness, or we can be forgetful in the use of awareness. This
+needs to be nurtured, looked after, and developed. Consciousness,
+receiving sensory contact, is just a basic function.
 
 That’s the basic difference. They’re both conditioned. We direct
 awareness in consciousness as well. By becoming increasingly aware of
@@ -352,7 +331,7 @@ A: Yes, it would be the opposite of that clinging.
 
 Q: Is *attavādupādāna* clinging to *sakkāya-diṭṭhi*?
 
-A: There are four different types of upādāna or clinging. The last one
+A: There are four different types of upādāna. The last one
 is *attavādupādāna*, which is the clinging to the belief in self.
 *Sakkāya-diṭṭhi* is one of the fetters; it is the identification with
 the body-mind complex. Attavādupādāna is much broader. It would still
@@ -439,18 +418,18 @@ about other-worldly, non-material beings.
 A: Unfortunately, I’m one of the last people to talk about any direct
 experience with this. I don’t see other realms or other beings. When I
 used to live at Wat Nanachat, there was a cremation ground, so there
-were many ghosts as well as many devas (celestial beings). On more than
-one occasion, either laypeople or a monks good at this would come up to
-me and say, “Such and such deva in that place and that spirit in that
-place would like you to dedicate merit and offer blessings.” They always
-had to use an intermediary. I was thick, thick, thick. I don’t get it.
+were many ghosts as well as many devas. On more than one occasion,
+either laypeople or a monks good at this would come up to me and say,
+“Such and such deva in that place and that spirit in that place would
+like you to dedicate merit and offer blessings.” They always had to use
+an intermediary. I was thick, thick, thick. I don’t get it.
 
 My own experience, having lived in Thailand a long time, a place that
 has a totally different world view, is that other people whom I trusted
 had these experiences. It certainly seems that they are just another
 part of reality.
 
-That being said, it can also be s sign of psychosis, so it can be a
+That being said, it can also be a sign of psychosis, so it can be a
 delicate balance. Once you meet someone who is communicating with other
 beings in other realms, you might need to call in a psychiatrist or a
 psychotherapist. So it does call for circumspection, but I have met many
@@ -477,7 +456,7 @@ to rely on Ajahn Plien was very helpful.
 Q: What is the difference between meditating on and contemplating or
 thinking about something? Could you give some examples about someone who
 would be skillfully meditating on something versus unskillfully doing
-so? And what does “*saṅkhāra*” mean?
+so? And what does *saṅkhāra* mean?
 
 A: “Meditating” is a generic term. “Contemplating” definitely has the sense
 of reflection, investigation, and thinking. Meditation can use the
@@ -510,16 +489,16 @@ Pali-English dictionary. It is a complicated word and concept, and it’s
 used in different contexts. In a literal sense, it is something that is
 built, compounded, or created. So in the chant that we do, *sabbe
 saṅkhārā aniccā* means, “all things of a compounded nature are
-impermanent.” But the phrase is also used in *rūpaṃ aniccaṃ*,
-*vedanā aniccā*, and *saññā aniccā*, as well as *saṅkhārā aniccā*.
-It’s used in the context of the khandhas, the aggregates of being. And
-there is also a specific meaning of saṅkhāra that refers to mental
-states, mental formations, which are the compounded and compounding,
-volitional aspect of mental activities.
+impermanent.” But the phrase is also used in *rūpaṃ aniccaṃ*, *vedanā
+aniccā*, and *saññā aniccā*, as well as *saṅkhārā aniccā*. It’s used in
+the context of the khandhas, the aggregates of being. And there is also
+a specific meaning of *saṅkhāra* that refers to mental states, mental
+formations, which are the compounded and compounding, volitional aspect
+of mental activities.
 
 Q: When I think of people with spontaneous, open, and generous hearts,
-they are full of mettā, *karuṇā*, and mudita but do not seem equanimous.
-Can upekkha come naturally, as well as be cultivated?
+they are full of mettā, *karuṇā*, and muditā but do not seem equanimous.
+Can upekkhā come naturally, as well as be cultivated?
 
 A: I think it really is more a result of cultivation because it isn’t
 immediately apparent in human experience that equanimity has value. We
@@ -529,7 +508,7 @@ good about equanimity.
 
 The others are more bound with becoming and all the positive
 connotations we have associated with a good human being. We don’t
-appreciate the sense of upekkha, the equanimity, equipoise, and balance,
+appreciate the sense of upekkhā, the equanimity, equipoise, and balance,
 until we start to reflect and investigate and see how difficult it
 actually is to sustain that: to be present with something, not moved by
 circumstance, not moved internally with the moods or impressions within
@@ -543,8 +522,8 @@ recognize the benefits of not being dragged into our own internal or
 external reactivity or the expectations of the world around us, there is
 tremendous freedom in that quality of equanimity.
 
-As we cultivate and attend to the qualities of mettā, karuna, and
-mudita, as we become more attuned to the sublime nature of these
+As we cultivate and attend to the qualities of mettā, karuṇā, and
+muditā, as we become more attuned to the sublime nature of these
 wholesome qualities, then we also start to recognize the nature of the
 mind, in the sense that our desires are always outstripping our
 experience. So, you get your latest gadget and it has more memory and
@@ -561,7 +540,7 @@ Q: What is the difference between *pīti* and sukha?
 
 A: These are qualities that usually arise in meditation as we develop a
 continuity of awareness and the mind becomes more and more settled,
-composed, and unified. The description of the first jhāna, or stage of
+composed, and unified. The description of the first *jhāna*, or stage of
 absorption, includes *vitakka-vicāra*, or directed thought and
 evaluation, *pīti*, sukha, and *ekaggatā*, which is unification of mind.
 

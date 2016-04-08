@@ -20,16 +20,16 @@ The teachings of loving-kindness are within a whole context and setting.
 Of course, one of the most important foundations for any aspect of the
 teaching to arise out of is what we’ve just done: determining the
 refuges and precepts. It’s not just a curious little ceremony that we
-begin a retreat with and that’s the end of it. The refuges of
-Buddha-Dhamma-Sangha provide the foundation for the wholesome qualities
-of the heart to arise. The precepts establish a strong foundation of
+begin a retreat with and that’s the end of it. The refuges of Buddha,
+Dhamma, and Sangha provide the foundation for the wholesome qualities of
+the heart to arise. The precepts establish a strong foundation of
 integrity and virtue, as well as an ability to cultivate, both
 individually and in a group setting, a sense of trust: trust in oneself
 and the whole environment that one is in.
 
 Reflecting on and recollecting the Buddha, Dhamma, and Sangha as refuges
 is always an important reminder for us. The reality is that we are
-always taking refuge in something—whether it is in some distraction or
+always taking refuge in something, whether it is in some distraction or
 particular worry or fear. The mind goes there, and that’s where we
 create our refuge. We rely on it and build our lives around it.
 
@@ -85,15 +85,15 @@ sangha here. We have our own particular perspectives. Some people find
 it useful, but it’s not everybody’s cup of tea. This is an opportunity
 to get a bit of the flavor of having ordained sangha nearby.
 
-However, when the Buddha refers to Sangha outside of the conventional
+However, when the Buddha refers to sangha outside of the conventional
 level, he’s again pointing to qualities of the heart. In our morning
 chant, when we recollect Sangha, we say: *Supaṭipanno bhagavato
 sāvakasaṅgho*, the Sangha of the Blessed One’s disciples are those who
-practice well, *ujupaṭipanno*, practice directly, *ñāyapaṭipanno*,
+practice well; *ujupaṭipanno*, practice directly; *ñāyapaṭipanno*,
 practice for the overcoming of suffering, for understanding and
-knowledge, *sāmīcipaṭipanno*, practice appropriately, with integrity.
+knowledge; *sāmīcipaṭipanno*, practice appropriately, with integrity.
 These are also the qualities of those who have entered into the fruition
-of the path: stream enterers, once returners, non-returners, and
+of the path: stream-enterers, once-returners, non-returners, and
 arahants.
 
 When we come together to practice in a retreat situation, we take on the
@@ -102,7 +102,7 @@ that takes place, having the eight precepts as a foundation. There’s a
 very interesting discourse that the Buddha gave to Visākhā, one of his
 foremost female disciples. He was praising the lay community’s keeping
 of the lunar observance days once a week. In Pāli, it’s called the
-*uposatha*. Traditionally, laypeople would take the eight precepts in
+*Uposatha*. Traditionally, laypeople would take the eight precepts in
 the morning and keep them for a day and a night.
 
 The way the Buddha described it is that the arahants, who are fully
@@ -183,7 +183,7 @@ meditation, you can do standing meditation. Again, it’s not so much the
 posture or the method: it’s how you approach establishing the mind,
 bringing attention to the object of meditation, sustaining and working
 with continuity. Where does the mind go? Does it drift? Does it get
-loose and nebulous? Or does it hone in on the minutiae of the mind and
+loose and nebulous? Or does it home in on the minutiae of the mind and
 get tied up and tight?
 
 Pay attention to what the mind is doing. Balance is an important quality
