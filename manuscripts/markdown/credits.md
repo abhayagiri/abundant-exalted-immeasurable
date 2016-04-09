@@ -1,6 +1,6 @@
 # Credits
 
-The following translations have been reprinted with permission:
+The following translations have been reprinted with gratitude:
 
 M 21, M 48, M 52, M 128: © 1995 Bhikkhu Bodhi. Reprinted from *The
 Middle Length Discourses of the Buddha*. Boston: Wisdom Publications.
@@ -15,3 +15,9 @@ Discourses of the Buddha*. Walnut Creek: AltaMira Press.
 A 3:66: © 2003 Ṭhānissaro Bhikkhu. Reprinted from *Handful of Leaves*,
 Volume 3. Sati Center for Buddhist Studies and Metta Forest
 Monastery.
+
+Many of the chants and reflections mentioned during the retreat can be
+found on Abhayagiri's website:
+
+-   http://www.abhayagiri.org/books/abhayagiri-chanting-book
+-   http://www.abhayagiri.org/audio

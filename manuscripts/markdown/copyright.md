@@ -6,7 +6,7 @@ Redwood Valley, California 95470\
 
 © 2016 Abhayagiri Buddhist Monastery
 
-ISBN XXX-X-XX-XXXXXX-X
+ISBN 978-1-63271-011-6
 
 
 This work is licensed under the Creative Commons
