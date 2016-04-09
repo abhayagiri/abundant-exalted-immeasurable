@@ -8,7 +8,7 @@
     top=.875in,
     bottom=.75in,
     headsep=24pt,
-    footskip=30pt,
+    footskip=24pt,
 }
 
 \usepackage{fontspec}
@@ -19,6 +19,7 @@
     ItalicFont={Alegreya Sans Light Italic},
     BoldItalicFont={Alegreya Sans Italic},
 ]{Alegreya Sans Light}
+\newfontfamily\titlefont{EB Garamond}
 %\renewcommand\normalsize{\fontsize{10.5}{13}}
 \linespread{1.1}
 
@@ -89,10 +90,10 @@
 
 \settocdepth{chapter}
 \renewcommand{\cftchapterfont}{\normalfont}
-\renewcommand{\cftchapterformatpnum}[1]{{\normalfont #1}\hspace*{20pt}}
+\renewcommand{\cftchapterformatpnum}[1]{{\normalfont #1}\hspace*{25pt}}
 %\renewcommand{\chapternumberline}[1]{\normalfont #1\hspace{.5em}}
 \renewcommand{\chapternumberline}[1]{}
-\setlength{\cftbeforechapterskip}{.4em}
+\setlength{\cftbeforechapterskip}{.3em}
 
 \sloppy
 \sloppybottom
@@ -103,6 +104,9 @@
         \small\parindent 1.5em\linespread{1.08}%
         \setlength{\parskip}{0pt}\item[]}
     {\endlist}
+
+\setlength{\tabcolsep}{15pt}
+\renewcommand{\arraystretch}{1.5}
 
 \newlength{\qaskip}
 \setlength{\qaskip}{.5em}

@@ -521,7 +521,7 @@ thought I’d read the complete discourse.
 > free from hostility, free from ill will. \[And the same for
 > compassion, appreciative joy, and equanimity.\]
 > 
-> (A 3:65)
+> (A 3:66)
 
 It is interesting how the Buddha’s teaching that is often quoted as a
 charter of how to make up one’s mind is then taken a step further and

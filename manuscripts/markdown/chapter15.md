@@ -16,14 +16,14 @@ is what the Buddha called his dispensation, has but one taste: the taste
 of liberation.
 
 The eighth quality is that: “Just as the great ocean is the abode of
-great beings, even so this Dhamma and discipline is the abode of great
+great beings, so too this Dhamma and discipline is the abode of great
 beings: the stream-enterer and the one practicing for the realization of
 the fruit of stream-entry; the once-returner and the one practicing for
 the realization of the fruit of once-returning; the non-returner and the
 one practicing for the fruit of non-returning; the arahant and the one
-practicing for arahantship. This is the eighth wonderful and marvelous
-quality of this Dhamma and discipline, which the monks perceive again
-and again, and by reason of which they take delight.” (A 8:19) 
+practicing for arahantship. This is the eighth astounding and amazing
+quality of this Dhamma and discipline because of which the monks take
+delight in it.” (A 8:19) 
 
 As I was poking around, I came across a delightful sutta that I thought
 I would read this morning, which also concerns the fruits of realization

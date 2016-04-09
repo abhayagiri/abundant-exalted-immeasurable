@@ -8,11 +8,13 @@ Redwood Valley, California 95470\
 
 ISBN XXX-X-XX-XXXXXX-X
 
-This work is licensed under the Creative Commons
-Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
+This work is licensed under the Creative Commons
+Attribution-NonCommercial-NoDerivatives 4.0 International License.\
 To view a copy of this license, visit
 <http://creativecommons.org/licenses/by-nc-nd/4.0/>
+
+Cover by Sumi Shin.
 
 *sabbadānaṃ dhammadānaṃ jināti.*\
 The gift of Dhamma excels all gifts.
