@@ -101,7 +101,7 @@ eight precepts for the duration of the retreat. There’s a simplification
 that takes place, having the eight precepts as a foundation. There’s a
 very interesting discourse that the Buddha gave to Visākhā, one of his
 foremost female disciples. He was praising the lay community’s keeping
-of the lunar observance days once a week. In Pāli, it’s called the
+of the lunar observance days once a week. In Pali, it’s called the
 *Uposatha*. Traditionally, laypeople would take the eight precepts in
 the morning and keep them for a day and a night.
 

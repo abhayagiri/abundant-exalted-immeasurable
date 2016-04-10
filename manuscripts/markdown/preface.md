@@ -1,6 +1,6 @@
 # Preface
 
-*... Even as a mother protects with her life her child, her only child ...*
+*Even as a mother protects with her life her child, her only child ...*
 
 That boundless, unconditional love of a mother: An image that I will
 forever carry in my heart is of my own mother as she waited for death to
