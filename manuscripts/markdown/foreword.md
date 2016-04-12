@@ -21,18 +21,19 @@ benefit from this retreat. Time passed. My mother passed. The idea to
 put these teachings into a book resurfaced but this time with a deeper
 intention. It felt like a wonderful tribute to my mother, to all
 mothers—whether from a biological mother or someone who has fit the
-ideal, perhaps a father, aunt, uncle, older sibling, friend, teacher ...
-An expression of the gratitude for the example and the love.
+ideal, perhaps a father, aunt, uncle, older sibling, friend,
+teacher—and as an expression of the gratitude for the example and
+the love.
 
 Many have contributed generously to the development of the book—the
-transcribers, the various editors, layout team and proofreaders. Tom
-Lane for his monumental effort in editing, Hisayo Suzuki for her sharp
-eye and mind with the line editing and Sumi Shin with the creative and
-expressive cover design. I am grateful to all who paricipated and
-contributed in this wonderful community effort. This offering is in
-honor of mothers, past, present and to come. It represents a beautiful
-transference of the energy of love and gratitude into something produced
-for the benefit of others, seen and unseen.
+transcribers, the various editors, layout team and proof readers. In
+particular, Tom Lane for his monumental effort in editing, Hisayo Suzuki
+for her sharp eye and mind with the line editing and Sumi Shin with the
+creative and expressive cover design. I am grateful to all who
+participated and contributed in this wonderful community effort. This
+offering is in honor of mothers, past, present and to come. It
+represents a beautiful transference of the energy of love and gratitude
+into something produced for the benefit of others, seen and unseen.
 
 We are all very grateful for the limitless generosity that Luang Por
 exemplifies when teaching the Dhamma.
