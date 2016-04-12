@@ -1,4 +1,4 @@
-# Preface
+# Foreword
 
 *Even as a mother protects with her life her child, her only child ...*
 

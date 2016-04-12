@@ -42,7 +42,7 @@
     <item id="copyright.xhtml" href="text/copyright.xhtml" media-type="application/xhtml+xml"/>
     <item id="credits.xhtml" href="text/credits.xhtml" media-type="application/xhtml+xml"/>
     <item id="dedication.xhtml" href="text/dedication.xhtml" media-type="application/xhtml+xml"/>
-    <item id="preface.xhtml" href="text/preface.xhtml" media-type="application/xhtml+xml"/>
+    <item id="foreword.xhtml" href="text/foreword.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="cover.xhtml"/>
@@ -70,14 +70,14 @@
     <itemref idref="copyright.xhtml"/>
     <itemref idref="credits.xhtml"/>
     <itemref idref="dedication.xhtml"/>
-    <itemref idref="preface.xhtml"/>
+    <itemref idref="foreword.xhtml"/>
   </spine>
   <guide>
     <reference href="text/cover.xhtml" title="Cover" type="cover"/>
     <reference href="text/title.xhtml" title="Title Page" type="title-page"/>
     <reference href="text/copyright.xhtml" title="Copyright" type="copyright-page"/>
     <reference href="text/dedication.xhtml" title="Dedication" type="dedication"/>
-    <reference href="text/preface.xhtml" title="Preface" type="preface"/>
+    <reference href="text/foreword.xhtml" title="Foreword" type="foreword"/>
     <reference href="text/abbreviations.xhtml" title="Abbreviations" type="other.abbreviations"/>
     <reference href="text/chapter01.xhtml" title="Refuges and Precepts" type="text"/>
   </guide>
