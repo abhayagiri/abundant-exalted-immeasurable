@@ -38,9 +38,9 @@
       </navPoint>
       <navPoint id="navPoint-5" playOrder="5">
         <navLabel>
-          <text>Preface</text>
+          <text>Foreword</text>
         </navLabel>
-        <content src="text/preface.xhtml"/>
+        <content src="text/foreword.xhtml"/>
       </navPoint>
       <navPoint id="navPoint-6" playOrder="6">
         <navLabel>
