@@ -16,7 +16,7 @@ something wrong, and therefore, I have to explain myself.” You’re
 inevitably going to come up short.
 
 A good question is: “Is this an act of kindness towards myself?” And
-then, “Is it a real act of kindness to explain yourself to other people?
+then, “Is it a real act of kindness to explain myself to other people?
 Do they actually need to know?” It’s something of an American compulsion
 to explain yourself to others.
 
@@ -72,16 +72,17 @@ out there really blew it. These are very separate realms.
 We can encourage ourselves in the choices that we make without
 undermining ourselves. That’s an act of kindness. We can also see how
 other people choose to use their time and energy and encourage and
-support them or at least delight in the good that they are doing. That
+support them, or at least delight in the good that they are doing. That
 is an aspect of our own wholesomeness as well, and we benefit from that.
 
 There is a word in Buddhist jargon: in Pali, it is *puñña*, in the Thai
 language, *boon*. Inevitably, Thai people who have been to the West or
 have met a Westerner who is studying Buddhism ask, “How do you translate
 *boon*?” It’s one of those very difficult terms to render. But the
-Buddha himself said, “*Puñña* is another word for happiness.” It is the
-result of skillful action: good, wholesome actions or activities that
-result in happiness and well-being for you and for others.
+Buddha himself said, “*Puñña* is another word for happiness.” (A 7.62)
+It is the result of skillful action: good, wholesome actions or
+activities that result in happiness and well-being for you and for
+others.
 
 Generosity and giving are puñña. Keeping precepts and virtue are puñña.
 Meditation is puñña. Listening to teachings is puñña. Teaching is puñña.
@@ -124,7 +125,7 @@ someone with serious puñña, a whole life of giving. When we went, he was
 sick and in the hospital, but it was a hospital that he had built. He
 was about ninety-six at the time, but very bright.
 
-I traveled with him in the 1980s and one time, we were in New Zealand.
+I traveled with him in the 1980s and one time we were in New Zealand.
 It was the evening session: chanting, meditation, Dhamma talk, and
 questions afterwards. One of the questions that somebody asked fairly
 early on was: “How do we deal with that feeling of guilt?” Of course, I
@@ -169,7 +170,7 @@ attention to the immature emotions, which are fairly accessible, and
 recognize: “There’s that twinge of jealousy; there’s that twinge of
 comparing; there’s that irritation.” Rather than letting them gain
 momentum, you can ask: “How can I bring a mature emotion into this? How
-can I bring some space around this?”
+can I create some space around this?”
 
 The quality of loving-kindness creates space; it’s a very spacious
 emotion. As we create that spaciousness, it’s also very solid. It’s not

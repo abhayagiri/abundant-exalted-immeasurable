@@ -191,7 +191,7 @@ wholesome state of mind.
 
 In the cultivation of more refined states of mind, as we relinquish the
 hindrances, the mind has a sense of brightness and stability. In the
-classical description of the first *jhāna*, the mind is withdrawn from
+classical description of the first jhāna, the mind is withdrawn from
 sensual desires and unwholesome states of mind. Through the strength of
 that withdrawal, that delighting in seclusion from the agitation of
 sensual desire and from unwholesome states of aversion, ill will, doubt,
@@ -275,7 +275,7 @@ suffusing and filling. Turn your attention to non-desire and step away
 from any unwholesome states, negativity, and aversion.
 
 Find a place in the body that does feel comfortable. Then find an object
-that is pleasurable or satisfying, *pasādaniya-nimitta*. Maybe your chest
+that is pleasurable or satisfying, pasādaniya-nimitta. Maybe your chest
 or stomach is restless. Well, what about your hands? Can you just relax
 your hands? Can you make that a pleasurable sensation? Pick a spot and
 see that you can suffuse that particular area with a feeling of

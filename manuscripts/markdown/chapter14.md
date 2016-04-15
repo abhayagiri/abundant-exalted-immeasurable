@@ -173,15 +173,15 @@ power of the Dhamma, by the power of the Sangha, may the devas protect
 you by the forces of goodness,  and may you live happily.”
 
 So it is a very beautiful chant, and it is unfortunate that we still
-haven’t got it together yet in English. They are called anumodana
-chants, and there are a few different ones. “Anumodana” literally means
+haven’t got it together yet in English. They are called *anumodana*
+chants, and there are a few different ones. *Anumodana* literally means
 delighting in the goodness that has been done. So that’s the gist of it.
 
 Q: Could you please talk about the difference between awareness and
 consciousness? Is awareness a conditioned state, the way consciousness
 is? How can we be aware if not through consciousness?
 
-A: Exactly. You can’t really separate out the khandhas, the five
+A: Exactly. You can’t really separate out the *khandhas*, the five
 aggregates of being. You can by using language and concepts, but, in
 reality, they’re tied together, rely on each other, and depend on each
 other. The difference between awareness and consciousness is that
@@ -193,7 +193,7 @@ basic function. If you live, exist, and have a body and a mind, then you
 have a basic function of consciousness.
 
 Awareness is a function of *saṅkhārā*, mental formations. The
-distinguishing characteristic of saṅkhārā, is *cetanā* (volition or
+distinguishing characteristic of saṅkhārā is *cetanā* (volition or
 intention), so that we are directing the awareness. The ability to
 direct awareness and bring awareness into being is a function of the
 application of volition and attention. So we can become skilled in the
@@ -312,11 +312,11 @@ Q: What is the Pali word for letting go or relinquishment? Please spell
 that as well.
 
 A: Well there are a few different words that sometimes get tied into the
-phrase “letting go.” *Abhinivesāya*: all *dhammas* are not to be clung
-to. Not clinging is, of course, letting go. *Paṭinissagga* directly
-means relinquishment or letting go. *Vossagga* is relinquishment,
-particularly around the sense of self—letting go of the sense of self or
-“I.”
+phrase “letting go.” *Nālaṃ abhinivesāya*: all *dhammas* are not to be
+clung to. Not clinging is, of course, letting go. *Paṭinissagga*
+directly means relinquishment or letting go. *Vossagga* is
+relinquishment, particularly around the sense of self—letting go of the
+sense of self or “I.”
 
 This comes up in many suttas in which the Buddha outlines a course of
 practice. Each step of the practice is accompanied by reflection on
@@ -419,7 +419,7 @@ A: Unfortunately, I’m one of the last people to talk about any direct
 experience with this. I don’t see other realms or other beings. When I
 used to live at Wat Nanachat, there was a cremation ground, so there
 were many ghosts as well as many devas. On more than one occasion,
-either laypeople or a monks good at this would come up to me and say,
+either laypeople or monks good at this would come up to me and say,
 “Such and such deva in that place and that spirit in that place would
 like you to dedicate merit and offer blessings.” They always had to use
 an intermediary. I was thick, thick, thick. I don’t get it.
@@ -488,7 +488,7 @@ ceasing, so there is space around it.
 Pali-English dictionary. It is a complicated word and concept, and it’s
 used in different contexts. In a literal sense, it is something that is
 built, compounded, or created. So in the chant that we do, *sabbe
-saṅkhārā aniccā* means, “all things of a compounded nature are
+saṅkhārā aniccā* means, “All things of a compounded nature are
 impermanent.” But the phrase is also used in *rūpaṃ aniccaṃ*, *vedanā
 aniccā*, and *saññā aniccā*, as well as *saṅkhārā aniccā*. It’s used in
 the context of the khandhas, the aggregates of being. And there is also
@@ -502,9 +502,9 @@ Can upekkhā come naturally, as well as be cultivated?
 
 A: I think it really is more a result of cultivation because it isn’t
 immediately apparent in human experience that equanimity has value. We
-can see the value in loving-kindness, compassion, and sympathetic joy
-(the freedom from jealousy), but it isn’t immediately apparent what is
-good about equanimity.
+can see the value in loving-kindness, compassion, (*karuṇā*) and
+sympathetic joy (the freedom from jealousy), but it isn’t immediately
+apparent what is good about equanimity.
 
 The others are more bound with becoming and all the positive
 connotations we have associated with a good human being. We don’t

@@ -173,7 +173,7 @@ A: It’s essentially answered in the way the Buddha responded when the
 monk made his confession—“I falsely accused Sāriputta”—and then asked
 for forgiveness. The Buddha said, “It’s recognizing one’s faults as
 faults, one’s unskillful action as unskillful action and wishing to make
-amends: that is growth in the Noble One’s discipline.” That in itself is
+amends: that is growth in the Noble One’s Discipline.” That in itself is
 the difference. Recognizing that we all make mistakes, whether it’s
 intentionally or unintentionally, we have the opportunity to reestablish
 ourselves in that which is skillful, appropriate, in accordance with

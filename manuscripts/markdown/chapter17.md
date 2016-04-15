@@ -16,7 +16,7 @@ relinquished the tendency. The awareness had such clarity that the mind
 was not drawn to the tendency at all.
 
 There was a very interesting circumstance that one of the Western monks
-had with Ajahn Chah. Ajahn Jayasaro, who is an English monk, was
+had with Ajahn Chah. Ajahn Jayasāro, who is an English monk, was
 attending to Ajahn Chah and sitting with him, massaging his feet. A
 particular monk came in who had done something wrong, had been
 admonished for it and was undergoing a period of penance.
@@ -28,7 +28,7 @@ was absolutely no tension in his body. There was no manifesting of a
 mood or any kind of excitement. Ajahn Chah probably said to himself,
 “What this monk needs is to be ripped down one side and up another.”
 
-There was a similar circumstance that I had with Ajahn Maha Boowa, who
+There was a similar circumstance that I had with Ajahn Mahā Boowa, who
 is well known for a couple of things. First, he is considered the
 arahant of the age in Thailand. He is in his mid-nineties now. He has
 been considered to be highly attained for a long time, and he is also
@@ -52,7 +52,7 @@ direct and blunt.
 
 Q: Would you explain the duties adult children have towards aging
 parents? And the duties of parents towards their children, as taught by
-the Buddha.
+the Buddha?
 
 A: The Buddha taught that one should look after one’s parents and try to
 care for their needs. In Asia, in general, that is very much a part of
@@ -70,7 +70,7 @@ beneficial and useful if one can encourage one’s parents to establish
 themselves in a higher degree of virtue and generosity, as well as in
 aspects of right view and discernment.
 
-Q: In a Dhamma talk several years ago, you mentioned in an interview a
+Q: In a Dhamma talk several years ago, you mentioned an interview a
 Christian monk. Reflecting on his forty years of monastic life, the monk
 said something about “I wish I’d been more kind.” Reflecting on your
 thirty-five years in robes, do you have any lessons that stand out? I’m
@@ -109,7 +109,7 @@ take it in and be present for it.
 
 Q: Is it hopeless to send loving-kindness to Māra?
 
-A: Well, Māra gets a bad rap. It depends on how we relate to it. Mara is
+A: Well, Māra gets a bad rap. It depends on how we relate to it. Māra is
 the personification of the tempter. In the midst of being tempted with
 the desire of the moment, loving-kindness might not be the right tool.
 But in a bigger sense, that is the most important thing to have
@@ -163,12 +163,12 @@ changing, impermanent, uncertain nature. What we take as mine and
 me—it’s not fixed at all.
 
 *Anicca* is often translated as “impermanent or changing.” Ajahn Chah
-would tend to translate the word *anicca* as “uncertain or “not sure.” I
-think that is an important shift. What is impermanent or changing tends
-to be objectified, whereas “uncertain” is much more subjectified: how I
-feel; how I experience things. It’s an important shift. Bring it back
-into the subjective field of “how do I experience what I think of as
-moods, feelings, impressions, thoughts, or personality?” So one is
+would tend to translate the word *anicca* as “uncertain” or “not sure.”
+I think that is an important shift. What is impermanent or changing
+tends to be objectified, whereas “uncertain” is much more subjectified:
+how I feel; how I experience things. It’s an important shift. Bring it
+back into the subjective field of “how do I experience what I think of
+as moods, feelings, impressions, thoughts, or personality?” So one is
 seeing the suffering involved that inevitably comes up with those
 perceptions—the burden that I was talking about this morning, the
 limitation of being a dog tied to a post.
@@ -176,7 +176,7 @@ limitation of being a dog tied to a post.
 Also, it is important that we don’t take it too seriously, that we are
 able to laugh at ourselves and the human condition, because taking it
 all very seriously weighs us down. In the end it is absurd. Life is
-sometimes “How did I walk into this Samuel Beckett play?”
+sometimes “how did I walk into this Samuel Beckett play?”
 
 Q: Just to clarify for my loving-kindness anxiety, are any phrases
 okay? And can they be said as a chant or at any speed? Is one more
@@ -245,13 +245,13 @@ A: One of the things that immediately comes up—I’ve mentioned it several
 times and then it also came up in the reading of the *Kālāma Sutta*—is
 how the Buddha asks if this is wholesome or unwholesome? Is it
 beneficial or not beneficial? So there is an immediate turning to what
-is *kusala*.
+is kusala.
 
 The near enemy of equanimity is aloofness or indifference. Indifference
 will always have a certain negativity, dullness, or slight aversion.
 It’s sort of: “I don’t want to deal with this, get out of my face.”
 
-Whereas equanimity, as a brahmavihāra, will be *kusala*: wholesome and
+Whereas equanimity, as a brahmavihāra, will be kusala: wholesome and
 associated with a sense of well-being, clarity, and presence. There is
 equanimity in the sense of being balanced, but it isn’t a shutting out
 or holding at bay. There doesn’t need to be. With equanimity we can be
@@ -266,7 +266,7 @@ into kusala and akusala sorts things out very quickly.
 
 Q: In your opinion, why do you think that Venerable Moggallāna is most
 often portrayed in suttas as a bit of an idiot and highly impractical
-while Venerable Sariputta is portrayed as wise and skillful? Both were
+while Venerable Sāriputta is portrayed as wise and skillful? Both were
 the Buddha’s leading disciples. Is this possibly a result of translation
 or translators’ view, or is this so in Pali also?
 
@@ -277,9 +277,9 @@ is also sometimes involved in sorting out certain problems within the
 Sangha. He is trusted, as well as proactive in dealing in Sangha
 matters.
 
-I’m not so familiar with the Mahāyāna sutras. Certainly Sāriputta is
-often a fall guy in the Mahāyāna sutras. I’m not sure how Moggallāna
-comes across in the Mahāyāna sutras.
+I’m not so familiar with the Mahayana sutras. Certainly Sāriputta is
+often a fall guy in the Mahayana sutras. I’m not sure how Moggallāna
+comes across in the Mahayana sutras.
 
 In regards to Anuruddha, there is a passing comment about when Ānanda
 had asked Anuruddha to sort something out and it didn’t get done (A
@@ -294,7 +294,7 @@ distinct individuals.
 There is a great sutta (Ud 4:4) in which Sāriputta is sitting and
 meditating in the forest and Moggallāna, who is adept in psychic powers,
 sees this scene unfolding where there are two *yakkhas*, which is a type
-of celestial demon. They are flying along overhead and see Sariputta
+of celestial demon. They are flying along overhead and see Sāriputta
 meditating in the forest. It is the day before the Full Moon Day, and
 monks have nicely shaved heads.
 
@@ -303,7 +303,7 @@ to take my club and wallop it.” And the other yakkha says, “I wouldn’t
 do that if I were you. These sons of the Sakyan, they are pretty special
 sometimes. Be careful.” The other says, “I don’t know—that’s a great
 target. I don’t think I can resist.” So he goes over, takes his club,
-and wallops Sariputta over the head. The description is that he gives
+and wallops Sāriputta over the head. The description is that he gives
 him a blow that could split a mountain.
 
 Sāriputta is unmoved. Moggallāna has seen this scene unfold. Sāriputta
@@ -318,10 +318,10 @@ these things happening. I didn’t see so much as a mud sprite, let alone
 a yakkha, a deva, or anything like that.” The sutta ends with these two
 great disciples admiring each other’s qualities.
 
-Q: What are the primary distinctions between Theravāda, Mahāyāna, and
-Vajrayāna?
+Q: What are the primary distinctions between Theravada, Mahayana, and
+Vajrayana?
 
-A: Without confusing people, I think Theravāda, just by the very literal
+A: Without confusing people, I think Theravada, just by the very literal
 translation of its name, means the teaching of the elders. Its primary
 focus is in trying to maintain the tradition as it was passed down as
 closely as they could assume were the original teachings of the Buddha.
@@ -329,32 +329,32 @@ There are always some accretions and additions, but that has been its
 primary flavor.
 
 It’s also interesting that when the Dalai Lama gives teachings, one of
-the things he will do is invite Mahāyāna, Theravāda, and Vajrayāna monks
+the things he will do is invite Mahayana, Theravada, and Vajrayana monks
 to give blessings before the teachings begin. He will always invite the
-Theravadans to give a Pali chant because he will say that the oldest
+Theravadins to give a Pali chant because he will say that the oldest
 scriptures are in Pali, and these are the elder brothers within the
 Buddhist fold. He gives deference. It is very beautiful.
 
 In Buddhist history, there was a range of schools. About 250 years after
 the Buddha, by the time of King Asoka, there were about eighteen
 distinct schools of Buddhism. Subsequent to that, there began to be a
-Mahāyāna movement, reinvigorating and redefining some of the principles.
+Mahayana movement, reinvigorating and redefining some of the principles.
 One of the main principles is putting emphasis on the Bodhisattva ideal.
 
-The Vajrayāna grew out of the Mahāyāna. There are several Vajrayāna
-schools. Usually when someone says Vajrayāna, they mean Tibetan. The
-Vajrayāna schools in Tibet actually took many of the different schools
+The Vajrayana grew out of the Mahayana. There are several Vajrayana
+schools. Usually when someone says Vajrayana, they mean Tibetan. The
+Vajrayana schools in Tibet actually took many of the different schools
 and brought them to Tibet. One of the distinctive qualities of the
 Vajrayana is the emphasis on faith, ceremony, ritual, and the efficacy
 and use of that.
 
 These are just snapshots. Of course, within these there are a huge
 number of schools as well. When you look at Buddhism, there is not a
-Theravāda tradition, a Mahāyāna tradition, and a Vajrayāna tradition
+Theravāda tradition, a Mahayana tradition, and a Vajrayana tradition
 that are each homogenous and monolithic. A country like Thailand is
 considered very strictly Theravāda. But if you start looking and digging
 into the history of doctrinal and popular Buddhism, one thing looks like
-a Mahāyāna teaching and then another one looks like a tantric ritual. So
+a Mahayana teaching and then another one looks like a tantric ritual. So
 there has been mixing and cross-pollination going on for millennia.
 
 Q: What could American culture learn from Thai culture?
@@ -362,7 +362,7 @@ Q: What could American culture learn from Thai culture?
 A: What immediately comes to mind is one of the first things you learn
 when you go to Thailand. There is a phrase, *mai pen rai*. That would be
 a really good thing for American culture to learn. It means “never
-mind,” as in, “let go, it’s not a big deal.”
+mind,” as in, “Let go, it’s not a big deal.”
 
 *Mai pen rai*: literally it means, “It is not anything.” It allows
 people to navigate the thorny aspects of human relationships. *Mai pen

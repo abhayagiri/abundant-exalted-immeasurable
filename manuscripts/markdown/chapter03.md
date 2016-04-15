@@ -66,7 +66,7 @@ you are experiencing it.
 There is a tendency for us to try to regulate, oversee, or maintain the
 breath in some way, but that’s adding an extra layer of complication.
 Unless you’re dead, you are going to be breathing, so it happens anyway.
-Just tune in to the breath: allow that sense of relaxing into the
+Just tune in to the breath: allow the sense of relaxing into the
 breathing. Also recognize that the breathing takes place within the
 whole sphere of the body. You are sitting here and breathing, but it
 isn’t as if there’s just a nose suspended in space somewhere: you have
@@ -92,8 +92,8 @@ One of the images helpful in sitting is imagining that there is a string
 or something similar at the top of your head. If you were dangling from
 that string, how would the spine and the shoulders line up? It would all
 be arranged quite neatly, nice and straight. There would be a balance
-there. That sense of an upright posture is one of comfort and ease as
-you continue to relax.
+there. The sense of an upright posture is one of comfort and ease as you
+continue to relax.
 
 The core is the breathing. As you breathe in, allow the breath energy to
 suffuse the body. The breath comes in, suffusing the body with the
@@ -116,7 +116,7 @@ great importance out of it. We recognize: “That’s just a thought, just a
 memory.” It comes into being, and we can let it go out again.
 
 Of course, thoughts and feelings are much stickier than the breath, so
-it’s helpful to have the image of the breath, that feeling of the breath
+it’s helpful to have the image of the breath, the feeling of the breath
 coming in and going out, and then extrapolate that to the feelings,
 perceptions, memories, and thoughts. They can come in and go out as
 well.
@@ -129,8 +129,8 @@ the body. As we allow the mind to have its thoughts and feelings arising
 and ceasing—coming in and going out—the mind and the heart relax as
 well.
 
-You don’t force the mind to be still or be clear. It’s through allowing
-the impressions in the mind to come in and go out without reacting,
+You don’t force the mind to be still or clear. It’s through allowing the
+impressions in the mind to come in and go out without reacting,
 clinging, or adding a commentary that a natural clarity and spaciousness
 starts to arise. Allow that to happen. It’s an exercise that we need to
 remind ourselves to do.
@@ -158,12 +158,12 @@ a way that we don’t get caught in reactions. That is how the mind
 becomes settled and clear.
 
 That exercise of coming back to the breath, the posture, and the body:
-how does it feel? Starting from the top of the head and feeling, ask:
-“Is there a sense of tension at the top of the head? The forehead, how
-can I relax that? What does it feel like around the eyes? Can I relax
-that? Can I soften that? Around the jaw, around the throat ...” You are
-paying attention and recognizing there is breathing—breathing in,
-breathing out.
+how does it feel? Starting from the top of the head, ask: “Is there a
+sense of tension at the top of the head? The forehead, how can I relax
+that? What does it feel like around the eyes? Can I relax that? Can I
+soften that? Around the jaw, around the throat ...” You are paying
+attention and recognizing there is breathing—breathing in, breathing
+out.
 
 What does it feel like in the shoulders, in the arms? What’s a
 comfortable position for the arms? How can I hold them so that they hang
@@ -329,7 +329,7 @@ against Sāriputta. May he forgive me.”
 
 The Buddha’s response is, “Yes, you have been foolish and you have made
 a false accusation but, having recognized your faults and wanting to
-make amends, you can grow in the Dhamma and discipline.” Then he turns
+make amends, you can grow in the Dhamma and Discipline.” Then he turns
 to Sāriputta and says, “Sāriputta, forgive this foolish man before his
 head splits in seven pieces.” Sāriputta says, “I certainly forgive him
 and may he forgive me for anything I have done.”
@@ -350,7 +350,7 @@ rhythm of the steps. You’re pacing, walking a bit more slowly than
 normal or using whatever pace feels comfortable for establishing
 mindfulness.
 
-Pay attention to that sensation of the right foot touching, rising,
+Pay attention to the sensation of the right foot touching, rising,
 moving, and of setting that foot down. Left foot coming up, moving,
 setting down. Simply pace, paying attention to the rhythm of the
 walking, the sensation of touching the ground, the movement of the foot,

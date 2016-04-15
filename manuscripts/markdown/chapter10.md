@@ -99,8 +99,8 @@ Pasenadi goes to the Buddha and recounts the conversation. The Buddha
 says, “That’s exactly what one’s attitude should be and that’s how it is
 in reality. It’s when we cherish and honor ourselves fully that we can
 really look after and cherish others. We need to have that foundation.”
-It isn’t a selfish obsession with “me.” In reality, we do need to
-cherish ourselves.
+(S 3.8) It isn’t a selfish obsession with “me.” In reality, we do need
+to cherish ourselves.
 
 If I eat something, nobody else gets full. We relate to ourselves first
 on a cellular level. So, on an emotional level, we need to attend to
@@ -123,7 +123,7 @@ In Thai, it’s “*wain gam*,” “Oh, this is conflict and kamma.” Establis
 the wish, “May I abide in freedom from hostility,” in freedom from any
 kind of conflict.
 
-“*Abyāpajjho homi*”: freedom from ill will. *Byāpada* is ill will,
+“*Abyāpajjho homi*”: freedom from ill will. *Byāpāda* is ill will,
 anger, irritation, aversion. “May I abide in freedom from ill will.”
 *Anīgho homi*: in freedom from anxiety, worry, or fear. Establish that
 wish, “May I abide in freedom from anxiety.”
@@ -270,10 +270,10 @@ monastery. This was along the border of Burma, in an area where there
 were big expanses of jungle but also a lot of insurgents. He was walking
 through the jungle when he walked into a large encampment of Communist
 insurgents. They immediately surrounded him with weapons and tried to
-grill him: how did he get in there? They thought he was a government spy
-because the whole area around their encampment was mined and he had been
-able to walk through the minefields. They held him for a long time and
-continued to question him. But eventually, when they realized he had
+grill him: “How did he get in there?” They thought he was a government
+spy because the whole area around their encampment was mined and he had
+been able to walk through the minefields. They held him for a long time
+and continued to question him. But eventually, when they realized he had
 been telling the truth and had indeed walked through their minefields
 without having been blown up, they warmed up to him and looked after him
 and fed him.
@@ -362,5 +362,5 @@ Cultivation of these phrases and tuning in to the feelings they generate
 are helpful for the cultivation of a mood of loving-kindness, and they
 also give us an insight into the way the mind works, how we cherish or
 overlook ourselves, how we look at others, how we compare, how we judge.
-In the loving-kindness meditation, with allowing the heart to abide in
-kindness and well-being, there is no judging or comparing.
+In the loving-kindness meditation, when we allow the heart to abide in
+kindness and well-being there is no judging or comparing.

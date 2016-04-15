@@ -11,18 +11,18 @@ This sutta is something people may have heard referenced in different
 places. The Buddha is giving a discourse about the eight wonderful and
 marvelous qualities of the ocean. One that is well known is that the
 ocean has but one taste, the taste of salt. And just as the ocean has
-one taste, the taste of salt, even so this Dhamma and discipline, which
+one taste, the taste of salt, even so this Dhamma and Discipline, which
 is what the Buddha called his dispensation, has but one taste: the taste
 of liberation.
 
 The eighth quality is that: “Just as the great ocean is the abode of
-great beings, so too this Dhamma and discipline is the abode of great
+great beings, so too this Dhamma and Discipline is the abode of great
 beings: the stream-enterer and the one practicing for the realization of
 the fruit of stream-entry; the once-returner and the one practicing for
 the realization of the fruit of once-returning; the non-returner and the
 one practicing for the fruit of non-returning; the arahant and the one
 practicing for arahantship. This is the eighth astounding and amazing
-quality of this Dhamma and discipline because of which the monks take
+quality of this Dhamma and Discipline because of which the monks take
 delight in it.” (A 8:19) 
 
 As I was poking around, I came across a delightful sutta that I thought
@@ -42,15 +42,15 @@ stream-entry.
 > “Mahānāma, a noble disciple, who has arrived at the fruit and
 > understood the teaching, often dwells in this way:
 > 
-> “Here, Mahānāma, a noble disciple recollects the Tathāgata thus: ‘The
-> Blessed One is an arahant, perfectly enlightened, accomplished in true
-> knowledge and conduct, fortunate, knower of the world, unsurpassed
-> trainer of persons to be tamed, teacher of devas and humans, the
-> Enlightened One, the Blessed One.’ When a noble disciple recognizes
-> the Tathāgata thus, on that occasion his mind is not obsessed with
-> lust, hatred or delusion; on that occasion his mind is simply
-> straight, based on the Tathāgata. A noble disciple whose mind is
-> straight gains inspiration in the meaning, gains inspiration in the
+> (1) “Here, Mahānāma, a noble disciple recollects the Tathāgata thus:
+> ‘The Blessed One is an arahant, perfectly enlightened, accomplished in
+> true knowledge and conduct, fortunate, knower of the world,
+> unsurpassed trainer of persons to be tamed, teacher of devas and
+> humans, the Enlightened One, the Blessed One.’ When a noble disciple
+> recognizes the Tathāgata thus, on that occasion his mind is not
+> obsessed with lust, hatred or delusion; on that occasion his mind is
+> simply straight, based on the Tathāgata. A noble disciple whose mind
+> is straight gains inspiration in the meaning, gains inspiration in the
 > Dhamma, gains joy connected with the Dhamma. When he is joyful,
 > rapture arises. For one with a rapturous mind, the body becomes
 > tranquil. One tranquil in body feels pleasure. For one feeling
@@ -60,8 +60,8 @@ stream-entry.
 > entered upon the stream of the Dhamma, he develops recollection of the
 > Buddha.
 > 
-> “Again, Mahānāma, a noble disciple recollects the Dhamma thus: ‘The
-> Dhamma is well expounded by the Blessed One, directly visible,
+> (2) “Again, Mahānāma, a noble disciple recollects the Dhamma thus:
+> ‘The Dhamma is well expounded by the Blessed One, directly visible,
 > immediate, inviting one to come and see, applicable, to be personally
 > experienced by the wise.’ When a noble disciple recollects the Dhamma,
 > on that occasion his mind is not obsessed by lust, hatred, and
@@ -71,8 +71,8 @@ stream-entry.
 > population. As one who has entered upon the stream of the Dhamma, he
 > develops recollection of the Dhamma.
 > 
-> “Again, Mahānāma, a noble disciple recollects the Sangha thus: ‘The
-> Sangha of the Blessed One’s disciples is practicing the good way,
+> (3) “Again, Mahānāma, a noble disciple recollects the Sangha thus:
+> ‘The Sangha of the Blessed One’s disciples is practicing the good way,
 > practicing the straight way, practicing the true way, practicing the
 > proper way; that is, the four pairs of persons, the eight types of
 > individuals—this Sangha of the Blessed One’s disciples is worthy of
@@ -86,7 +86,7 @@ stream-entry.
 > entered upon the stream of the Dhamma, he develops recollection of the
 > Sangha.
 > 
-> “Again, Mahānāma, a noble disciple recollects his own virtuous
+> (4) “Again, Mahānāma, a noble disciple recollects his own virtuous
 > behavior as unbroken, flawless, unblemished, unblotched, freeing,
 > praised by the wise, ungrasped, leading to concentration. When a noble
 > disciple recollects his virtuous behavior, on that occasion his mind
@@ -94,11 +94,11 @@ stream-entry.
 > mind is simply straight, based on virtuous behavior ... This is called
 > a noble disciple who dwells in balance amid an unbalanced population,
 > who dwells unafflicted amid an afflicted population. As one who has
-> entered of the stream of the Dhamma, he develops recollection of
-> virtuous behavior.
+> entered the stream of the Dhamma, he develops recollection of virtuous
+> behavior.
 > 
-> “Again, Mahānāma, a noble recollects his own generosity thus: ‘It is
-> truly my good fortune and gain that in a population obsessed by the
+> (5) “Again, Mahānāma, a noble recollects his own generosity thus: ‘It
+> is truly my good fortune and gain that in a population obsessed by the
 > stain of miserliness, I dwell at home with a mind devoid of the stain
 > of miserliness, freely generous, openhanded, delighting in
 > relinquishment, devoted to charity, delighting in giving and sharing.’
@@ -107,8 +107,8 @@ stream-entry.
 > occasion his mind is simply straight, based on generosity ... This is
 > called a noble disciple who dwells in balance amid an unbalanced
 > population, who dwells unafflicted amid an afflicted population. As
-> one who has entered of the stream of the Dhamma, he develops
-> recollection of generosity.
+> one who has entered the stream of the Dhamma, he develops recollection
+> of generosity.
 > 
 > “Again, Mahānāma, a noble disciple recollects the deities thus: ‘There
 > are devas \[ruled by\] the four great kings, Tāvatiṃsa devas, Yāma
@@ -183,7 +183,7 @@ suffering, discontent, and dissatisfaction: dukkha.
 
 That whole process of identification with body, feelings, perceptions,
 mental formations, and consciousness—“this is mine, this is what I am,
-this is myself”—is inevitably productive of suffering. It’s inherent.
+this is my self”—is inevitably productive of suffering. It’s inherent.
 It’s intrinsic. It can’t be any other way.
 
 So recognize how clinging, attachment, and identification keep
@@ -191,7 +191,7 @@ coalescing and forming, establishing themselves. And then recognize that
 there is an opportunity of non-clinging, non-attachment.
 
 “How do I do that? How do I not cling to everything I conceive of as
-myself?”
+my self?”
 
 If you have ever gone on a long hike with too much stuff, when you put
 that pack on, you think, “It’s a bit heavy, but it’s okay.” But you keep
@@ -206,7 +206,7 @@ You’re willing to put it down, get rid of it, drop it. That’s the good
 news. The bad news is we usually have to wait until we are really
 willing to put it down.
 
-The Buddha had us reflect on and investigate these aspects of the
+The Buddha has us reflect on and investigate these aspects of the
 khandhas and their emptiness, their ephemeral nature. The Buddha once
 offered a discourse (S 22:95) when he was by a river. As often happens,
 there was some foam on the river, and the Buddha used that as an
@@ -250,7 +250,7 @@ way, affected by memory and how we have perceived it over time as well.
 Ajahn Amaro recently gave a talk in which he related an experience he
 had when he was in England as a young monk. He did a long walk from our
 monastery in the south of England to a branch monastery up near the
-Scottish border. He had completed his fifth rains retreat, which is a
+Scottish border. He had completed his fifth Rains Retreat, which is a
 time when monks have the opportunity to spread their wings a bit. He
 wanted to try a walk, as a monk, in England and went with a layman who
 would be able to help out if necessary. This was the first time in our
@@ -345,9 +345,9 @@ rely on those five aggregates of being. That’s how we live; that’s how
 we accomplish things.
 
 That’s how the Buddha was able to teach—with the five khandhas. If he
-had said, “Well, that’s it for the five khandas,” and had done nothing,
+had said, “Well, that’s it for the five khandhas,” and had done nothing,
 then we would be in a bind. After the Buddha’s enlightenment, he spent
-forty-five years carrying the khandas around and teaching, establishing
+forty-five years carrying the khandhas around and teaching, establishing
 a dispensation that has lasted to this day.
 
 This reflection on the khandhas is a really important part of
@@ -369,7 +369,7 @@ the person is not a stream-enterer.
 
 Here, once again, that holding on to identity is one of the hallmarks of
 worldly existence. The relinquishment of that identification process is
-one of the fetters that are dropped as one enters the stream of Dhamma.
+one of the fetters that is dropped as one enters the stream of Dhamma.
 
 Ajahn Chah did something similar to someone who came to him. He was
 saying how well his practice was growing, that he was practicing really

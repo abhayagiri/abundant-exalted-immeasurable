@@ -114,7 +114,7 @@ of one who has entered the stream of Dhamma: a stream-enterer. It is
 interesting how the Buddha most often describes the stream-enterer not
 by their dazzling meditations or astute wisdom, but by their qualities
 of faith in Buddha, Dhamma, and Sangha, and well-established virtue.
-Such virtue in not misapprehended, not clung to, not attached to. It is
+Such virtue is not misapprehended, not clung to, not attached to. It is
 commended by the wise and conducive to concentration.
 
 Virtue is settling. There is composure involved. Virtue is not “keeping
@@ -130,7 +130,7 @@ teaching is that one of the bhikkhus was in conflict with the other
 bhikkhus and was not taking admonishment very well. The circumstance
 came to the attention of the Buddha, so he called the monk to him and
 gave a teaching. He took the occasion to teach all of the monks who were
-present, a situation that often happened, not just in the Buddha’s time.
+present, a situation that often happens, not just in the Buddha’s time.
 I do it all the time: a circumstance comes up and it is a great occasion
 to be used as an example of application of Dhamma within the community.
 
@@ -530,10 +530,10 @@ used to lay out a strong foundation for practice.
 This final sutta is a short one that might sound a bit obscure as I read
 it. Basically what it concerns is the result of *kamma*, based on
 scriptural teachings. One of the traditional ways of dealing with the
-fruits of bad *kamma*—dealing with some kammic obstacle or difficulty—is
-the commitment to skillful *kamma*, building up the bank account of good
-*kamma*. This is a sutta that gives a perspective on and certainly
-encourages this.
+fruits of bad *kamma*—dealing with some *kammic* obstacle or
+difficulty—is the commitment to skillful *kamma*, building up the bank
+account of good *kamma*. This is a sutta that gives a perspective on and
+certainly encourages this.
 
 > “Bhikkhus, I do not say that there is a termination of volitional
 > kamma that has been done and accumulated so long as one has not
@@ -602,10 +602,10 @@ heavy *kamma*s because they take precedence over other forms of *kamma*.
 So there is the recognition of the strength of loving-kindness as the
 ability to undermine other tendencies within the kammic potential.
 
-> “If, monks, liberation of the mind is developed and cultivated,
-> frequently practiced, made one’s vehicle and foundation, firmly
-> established, consolidated, and properly undertaken, eleven benefits
-> may be expected. What eleven?
+> “If, monks, liberation of the mind by loving-kindness is developed and
+> cultivated, frequently practiced, made one’s vehicle and foundation,
+> firmly established, consolidated, and properly undertaken, eleven
+> benefits may be expected. What eleven?
 > 
 > \(1) “One sleeps well; (2) one awakens happily; (3) one does not have
 > bad dreams; (4) one is pleasing to human beings; (5) one is pleasing

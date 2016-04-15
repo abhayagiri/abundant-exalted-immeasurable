@@ -82,8 +82,8 @@ helpful.
 Q: What is the definition of wholesome? The word connotes for me the
 ’50s era of Ozzie and Harriet.
 
-A: I think I mentioned today that the Pali word is kusala: wholesome,
-skillful, beneficial. Intrinsic to a kusala state, or the
+A: I think I mentioned earlier today that the Pali word is kusala:
+wholesome, skillful, beneficial. Intrinsic to a kusala state, or the
 *kusala-citta*, the mind that is happy and at ease, is well-being,
 *sukha*. There is a sense of peace and stability, and then there is a
 freedom from greed, hatred, and delusion, a certain purity or a lack of
@@ -269,9 +269,9 @@ recognized and brought out into the light of awareness is: “This is
 doubt.”
 
 One of the images that the Buddha gives for the hindrance of doubt is a
-dish of muddy water that is then placed in a dark cupboard. The murky
-quality of the water is not seen, not clearly understood, and not
-recognized, so it is put in the cupboard and hidden away. The first
+dish of muddy water that is then placed in a dark cupboard (A 5.193).
+The murky quality of the water is not seen, not clearly understood, and
+not recognized, so it is put in the cupboard and hidden away. The first
 thing we need to do is to bring it out into the light of awareness and
 say: “This is doubt; this is unclear to me. I’m uncertain about this. I
 don’t know.”

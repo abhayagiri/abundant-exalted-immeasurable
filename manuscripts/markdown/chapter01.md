@@ -70,8 +70,8 @@ able to realize, understand, and penetrate, and when those truths are
 seen and understood, they have a transformative quality to them. The
 Buddha himself said that whether a Buddha arises in the world or not,
 there is still this underlying nature of things. All compounded things
-are impermanent and unsatisfactory. All *dhammas*, all things, are not
-self.
+are impermanent and unsatisfactory. All *dhammas*, all things, are
+not-self.
 
 It’s helpful when a Buddha comes along and points it out, but this is
 also the underlying truth, the way things are. We can direct our
@@ -215,7 +215,7 @@ is get uncomfortable. What is needed is to relax around the pain or the
 discomfort and cultivate kindness.
 
 There was one Rains Retreat I did when I had about fifteen or twenty
-years as a monk, during which I had several months of lying-down
+years as a monk, during which I did several months of lying-down
 meditation. I had fractured my pelvis, so I wasn’t doing anything else.
 But I was in very quiet, peaceful surroundings. I had lobbied the
 doctor, who was a supporter of the monastery, and he had sprung me out
