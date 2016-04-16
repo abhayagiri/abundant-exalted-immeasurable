@@ -1,4 +1,4 @@
-# The Karanīya-Mettā Sutta
+# The Karaṇīya-Mettā Sutta
 
 Yesterday, I introduced a method for the cultivation of loving-kindness
 using the phrases: “May I be well, happy, peaceful. May no harm come to

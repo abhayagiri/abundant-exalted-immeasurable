@@ -16,5 +16,5 @@ To view a copy of this license, visit
 
 Cover by Sumi Shin.
 
-*sabbadānaṃ dhammadānaṃ jināti.*\
-The gift of Dhamma excels all gifts.
+*sabbadānaṃ dhammadānaṃ jināti*\
+The gift of Dhamma excels all gifts
