@@ -24,7 +24,7 @@ actually the meditation; that is how we train the mind.
 In Thailand, one of the most common meditation methods or techniques is
 using the word “*buddho*,” the name of the Buddha. “*bud-*” on the
 in-breath and “*-dho*” on the out breath: just that simple word. If you
-want, you can use the word “mettā”: “met” on the in-breath and “tā” on
+want, you can use the word “mettā”: “met-” on the in-breath and “-tā” on
 the out-breath. Use that word to keep the mind on track. Tune in to the
 feeling, the connotations of mettā you have reflected on. This helps the
 mind to channel its attention and energy to the pleasing emotional tone
