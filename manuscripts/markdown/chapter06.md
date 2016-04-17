@@ -54,7 +54,7 @@ making particularly good progress in their cultivation of meditation and
 training. Ānanda tells the Buddha, and the Buddha gives a discourse,
 approving the practice and adding that in the cultivation of mindfulness
 and meditation, it is necessary to direct the mind to something
-uplifting.
+uplifting (S 47.10).
 
 When the mind is scattered, diffused, or overwhelmed by dullness or
 torpor, direct the attention to something that is uplifting and

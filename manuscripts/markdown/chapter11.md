@@ -35,7 +35,7 @@ are well established in the path and the fruits, able to give leadership
 and solve problems, able to stand on their own, so this Dhamma and
 Discipline can last for a long time.” That was the Buddha’s standard of
 what was a balanced, strong dispensation: when monks, nuns, laymen, and
-laywomen were all knowledgeable and well-practiced.
+laywomen were all knowledgeable and well-practiced (D 16).
 
 Q: This is a common scenario: I’m caught in a story of praise and blame.
 I notice a voice says, “That was very quick. You’re getting good at
