@@ -3,6 +3,8 @@ OUTFILE=out.epub
 CHECK=epubcheck
 PANDOC=pandoc
 PANDOC_OPTS=--template=template.xhtml
+SCRIPT_PATH=../../scripts
+CLEAN_XHTML=$(SCRIPT_PATH)/cleanxhtml.py
 MARKDOWN_PATH=../../manuscripts/markdown
 MARKDOWN_FILES=chapter01.md chapter02.md chapter03.md chapter04.md\
     chapter05.md chapter06.md chapter07.md chapter08.md\
@@ -21,7 +23,7 @@ $(OUTFILE): clean
 	zip -o ../$(OUTFILE) -X -x mimetype -r *
 
 %.xhtml: $(MARKDOWN_PATH)/%.md
-	$(PANDOC) $(PANDOC_OPTS) $< -o $(XHTML_PATH)/$@
+	$(PANDOC) $(PANDOC_OPTS) $< | $(CLEAN_XHTML) > $(XHTML_PATH)/$@
 
 xhtml: $(XHTML_FILES)
 
