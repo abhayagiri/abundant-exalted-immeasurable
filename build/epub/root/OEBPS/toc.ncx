@@ -26,129 +26,147 @@
       </navPoint>
       <navPoint id="navPoint-3" playOrder="3">
         <navLabel>
+          <text>Copyright</text>
+        </navLabel>
+        <content src="text/copyright.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
           <text>Dedication</text>
         </navLabel>
         <content src="text/dedication.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-4" playOrder="4">
+      <navPoint id="navPoint-5" playOrder="5">
         <navLabel>
           <text>Abbreviations</text>
         </navLabel>
         <content src="text/abbreviations.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-5" playOrder="5">
+      <navPoint id="navPoint-6" playOrder="6">
         <navLabel>
           <text>Foreword</text>
         </navLabel>
         <content src="text/foreword.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-6" playOrder="6">
+      <navPoint id="navPoint-7" playOrder="7">
         <navLabel>
           <text>Refuges and Precepts</text>
         </navLabel>
         <content src="text/chapter01.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-7" playOrder="7">
+      <navPoint id="navPoint-8" playOrder="8">
         <navLabel>
           <text>Mettā: A Mature Emotion</text>
         </navLabel>
         <content src="text/chapter02.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-8" playOrder="8">
+      <navPoint id="navPoint-9" playOrder="9">
         <navLabel>
-          <text></text>
+          <text>Mindfulness Immersed in the Body</text>
         </navLabel>
         <content src="text/chapter03.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-9" playOrder="9">
+      <navPoint id="navPoint-10" playOrder="10">
         <navLabel>
-          <text></text>
+          <text>Introduction to Mettā Meditation</text>
         </navLabel>
         <content src="text/chapter04.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-10" playOrder="10">
+      <navPoint id="navPoint-11" playOrder="11">
         <navLabel>
-          <text></text>
+          <text>Questions and Answers</text>
         </navLabel>
         <content src="text/chapter05.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-11" playOrder="11">
+      <navPoint id="navPoint-12" playOrder="12">
         <navLabel>
-          <text></text>
+          <text>The Five Hindrances</text>
         </navLabel>
         <content src="text/chapter06.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-12" playOrder="12">
+      <navPoint id="navPoint-13" playOrder="13">
         <navLabel>
-          <text></text>
+          <text>The Karaṇīya-Mettā Sutta</text>
         </navLabel>
         <content src="text/chapter07.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-13" playOrder="13">
+      <navPoint id="navPoint-14" playOrder="14">
         <navLabel>
-          <text></text>
+          <text>Questions and Answers</text>
         </navLabel>
         <content src="text/chapter08.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-14" playOrder="14">
+      <navPoint id="navPoint-15" playOrder="15">
         <navLabel>
-          <text></text>
+          <text>Skillful Thinking in Meditation</text>
         </navLabel>
         <content src="text/chapter09.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-15" playOrder="15">
+      <navPoint id="navPoint-16" playOrder="16">
         <navLabel>
-          <text></text>
+          <text>Guided Mettā Meditation</text>
         </navLabel>
         <content src="text/chapter10.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-16" playOrder="16">
+      <navPoint id="navPoint-17" playOrder="17">
         <navLabel>
-          <text></text>
+          <text>Questions and Answers</text>
         </navLabel>
         <content src="text/chapter11.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-17" playOrder="17">
+      <navPoint id="navPoint-18" playOrder="18">
         <navLabel>
-          <text></text>
+          <text>Mettā and Relinquishment</text>
         </navLabel>
         <content src="text/chapter12.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-18" playOrder="18">
+      <navPoint id="navPoint-19" playOrder="19">
         <navLabel>
-          <text></text>
+          <text>Spreading Mettā to the Four Quarters</text>
         </navLabel>
         <content src="text/chapter13.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-19" playOrder="19">
+      <navPoint id="navPoint-20" playOrder="20">
         <navLabel>
-          <text></text>
+          <text>Questions and Answers</text>
         </navLabel>
         <content src="text/chapter14.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-20" playOrder="20">
+      <navPoint id="navPoint-21" playOrder="21">
         <navLabel>
-          <text></text>
+          <text>The Five Aggregates Affected by Clinging</text>
         </navLabel>
         <content src="text/chapter15.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-21" playOrder="21">
+      <navPoint id="navPoint-22" playOrder="22">
         <navLabel>
-          <text></text>
+          <text>Sutta Readings</text>
         </navLabel>
         <content src="text/chapter16.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-22" playOrder="22">
+      <navPoint id="navPoint-23" playOrder="23">
         <navLabel>
-          <text></text>
+          <text>Questions and Answers</text>
         </navLabel>
         <content src="text/chapter17.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-23" playOrder="23">
+      <navPoint id="navPoint-24" playOrder="24">
         <navLabel>
-          <text></text>
+          <text>Closing Ceremony</text>
         </navLabel>
         <content src="text/chapter18.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Credits</text>
+        </navLabel>
+        <content src="text/credits.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>About the Author</text>
+        </navLabel>
+        <content src="text/about_the_author.xhtml"/>
       </navPoint>
   </navMap>
 </ncx>
