@@ -17,6 +17,7 @@
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="text.css" href="styles/text.css" media-type="text/css"/>
     <item id="cover.jpg" href="images/cover.jpg" media-type="image/jpeg"/>
+    <item id="Ajahn_Pasanno-small.jpg" href="images/Ajahn_Pasanno-small.jpg" media-type="image/jpeg"/>
     <item id="cover.xhtml" href="text/cover.xhtml" media-type="application/xhtml+xml"/>
     <item id="title.xhtml" href="text/title.xhtml" media-type="application/xhtml+xml"/>
     <item id="abbreviations.xhtml" href="text/abbreviations.xhtml" media-type="application/xhtml+xml"/>
