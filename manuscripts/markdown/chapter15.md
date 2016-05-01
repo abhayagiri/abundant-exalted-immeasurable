@@ -299,7 +299,7 @@ inside.
 So the nature of mental formations, thought processes, is that there are
 just these layers but no solid core. It is absurd to consider, “What is
 my one true thought?” But this doesn’t mean that we can’t use thoughts,
-emotions, and planning, all of which takes place within mental
+emotions, and planning, all of which take place within mental
 formations. Mental formations can be related to ill will, aversion,
 desire, attachment, fear, or anxiety. Mindfulness is also a mental
 formation. Wisdom, loving-kindness, compassion, and equanimity are all

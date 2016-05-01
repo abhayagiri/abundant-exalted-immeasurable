@@ -527,7 +527,7 @@ It is interesting how the Buddha’s teaching that is often quoted as a
 charter of how to make up one’s mind is then taken a step further and
 used to lay out a strong foundation for practice.
 
-This final sutta is a short one that might sound a bit obscure as I read
+This next sutta is a short one that might sound a bit obscure as I read
 it. Basically what it concerns is the result of *kamma*, based on
 scriptural teachings. One of the traditional ways of dealing with the
 fruits of bad *kamma*—dealing with some *kammic* obstacle or
@@ -644,5 +644,5 @@ allows the mind to drop its self-concern, worries, fears, anxieties, and
 comparisons and dwell in that which is truly beautiful. It is not really
 about me being anything or getting anything. It’s the beauty of being
 able to put it all aside. Dwell in that wish of loving-kindness, to be
-expansive, abundant, and immeasurable. We can take this time to
-cultivate some of these qualities.
+abundant, exalted, and immeasurable. We can take this time to cultivate
+some of these qualities.

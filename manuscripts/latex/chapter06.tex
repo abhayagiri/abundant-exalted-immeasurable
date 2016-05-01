@@ -143,8 +143,8 @@ feels so good.” There is a sense of well-being and happiness that arises
 when sensual desire is abandoned and let go of.
 
 Ill will is compared to somebody who is sick and has a fever. Food
-doesn’t agree with them; nothing tastes good. As long as there is fever
-or illness, one feels out of sorts and uncomfortable, but when the
+doesn’t agree with him or her; nothing tastes good. As long as there is
+fever or illness, one feels out of sorts and uncomfortable, but when the
 sickness goes away, food tastes good and the world looks better again. A
 sense of happiness and well-being arises. The relinquishing and
 abandoning of ill will and aversion feels good.

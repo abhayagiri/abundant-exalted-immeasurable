@@ -151,7 +151,7 @@ that the wise would later reprove.” If we wish to take into account and
 worry about what somebody is going to think, let’s take the standards of
 somebody who is really wise and use that as a sounding board.
 
-“Wishing: in gladness and in safety, may all beings be at ease.” The
+“Wishing in gladness and in safety, may all beings be at ease.” The
 scriptural Pali is, *sukhino vā khemino hontu, sabbe sattā bhavantu
 sukhitattā.* *Sukhino* is happy, with gladness and well-being: may
 they be happy; may they experience well-being. *Khemino* is safety,
@@ -202,7 +202,7 @@ worthy and would respond to that wish to live in safety and happiness.
 “Living near or far away, those born and to be born.” In the Pali, it’s
 *sambhavesī vā*, those beings that are seeking birth: they don’t know
 what they are in for. They think, “Boy, I can’t wait to get born.” They
-get bored of something, whatever realm they’re in, and they think, “I
+get bored with something, whatever realm they’re in, and they think, “I
 want to be born, I want to be reborn.” Of course, that’s the cycle—it
 goes around and around.
 
@@ -284,10 +284,10 @@ as we don’t identify with it, it ceases.
 
 The nature of the human mind is such that we have a whole bank of
 experiences, both internally, within ourselves, and externally, from
-society, that impinge on us. All of that can pop up in the mind as
+society, that impinges on us. All of that can pop up in the mind as
 thoughts because that is what a mind is for, to provide thoughts. But as
 meditators, we have to use discernment. What are we going to invest in?
-What are we going to put my energy into?
+What are we going to put our energy into?
 
 That is where *kamma* is created, whether it be the mental *kamma* of
 investing in thoughts of ill will, aversion, and greed, or the mental

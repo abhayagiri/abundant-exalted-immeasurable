@@ -19,7 +19,7 @@ to come and train.
 
 The classic model is for the monastic sangha to be laying the foundation
 for teaching, leadership and being an example. I think oftentimes there
-is a false dichotomy perceived, from the West, because the monastic
+is a false dichotomy perceived from the West, because the monastic
 presence is so strong in Asia. Oftentimes, people overlook the strength
 of the tradition of lay practice and lay teachers in Asia. Certainly in
 Thailand, that is very much the case. There are laymen and women who are
@@ -67,7 +67,7 @@ into the story of “me and my khandhas.”
 
 Q: The loving-kindness chant includes “May I abide in freedom from
 affliction.” Why is affliction not included in the wish for all beings,
-while hostility, ill-will and anxiety are in both?
+while hostility, ill will and anxiety are in both?
 
 A: The reason is because in that chant it’s actually just a little bit
 further down. I can’t remember how it’s translated, but that particular
@@ -216,7 +216,7 @@ How does one realize anattā?
 
 A: That’s an excellent question, in the sense that, as an insight, one
 starts by realizing that the obstruction to mettā is actually not anger
-and ill-will, but the sense of self. That’s the big obstruction, and as
+and ill will, but the sense of self. That’s the big obstruction, and as
 we reflect, investigate and start having a clear insight into the nature
 of Dhamma, the nature of the teachings and what the Buddha is giving us
 as an opportunity for liberation, then loving-kindness is a natural
@@ -279,7 +279,7 @@ Q: What does “the four pairs, the eight kinds of noble beings,” in the
 Recollection of the Sangha, mean?
 
 A: It’s a way of classification in terms of entry into realization.
-There are four stages of realization: steam-entry, once-returner,
+There are four stages of realization: stream-entry, once-returner,
 non-returner, and fully enlightened being, or arahant. *Sotāpanna*,
 *sakadāgāmi*, *anāgāmi*, arahant. So there’s four.
 
@@ -315,7 +315,7 @@ teachers that I know don’t narrow it down that much.
 In terms of a hindrance, a *nīvaraṇa*, a quality of mind that obstructs
 the fundamental goodness of the mind, then it isn’t just doubt about the
 Buddha’s teachings. It’s the tendency to doubt, to waver. Of course,
-when you doubt, waver, are uncertain, then the focus will be on the
+when you doubt, waver, or are uncertain, then the focus will be on the
 teachings, but you’ll tend to doubt everything else as well.
 
 So it’s good to get a handle on doubt, uncertainty, wavering: how it
@@ -325,10 +325,10 @@ fruits or should I just have one? It can turn into a moment where
 everything stops: should I do this or should I do that; go forward or go
 back?” We start to doubt everything, doubt can creep into everything and
 then it manifests in the teachings as well: doubting the teachings,
-doubting the practice, doubting oneself, can one do it, can one not do
-it, is there any point even to doing this, “I’m not sure that I can do
-this.” All of it is doubt. So, being able to recognize that it’s doubt,
-and that’s all it is, one can then go forward.
+doubting the practice, doubting oneself. “Can I do it? Can I not do it?
+Is there any point even to doing this? I’m not sure that I can do this.”
+All of it is doubt. So, being able to recognize that it’s doubt, and
+that’s all it is, one can then go forward.
 
 This is also a situation where mindfulness of the body is really
 helpful, in the sense that you’re never going to talk yourself into a

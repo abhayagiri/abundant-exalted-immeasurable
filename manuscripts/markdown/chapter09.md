@@ -24,8 +24,8 @@ relentlessly passing. How well am I spending my time?” That’s a very
 useful reflection because it is real: days and nights are relentlessly
 passing. They don’t pass benignly. Each day that passes, we’re older and
 that much closer to death. That’s the reality: I managed to make it
-through another day, but I still have death as a reality that we’re
-going to have to face.
+through another day, but I still have death as a reality that I am going
+to have to face.
 
 So that is the sense of urgency. Letting time slip by in a way that’s
 frivolous, empty, or just propping up old habit patterns, recycling our

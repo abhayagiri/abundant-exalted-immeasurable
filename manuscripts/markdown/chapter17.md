@@ -22,7 +22,7 @@ particular monk came in who had done something wrong, had been
 admonished for it and was undergoing a period of penance.
 
 Ajahn Chah barked at him and scolded him, in what seemed to be a
-flare-up of anger. That was what was manifested. Ajahn Jayasaro, who was
+flare-up of anger. That was what was manifested. Ajahn Jayasāro, who was
 there massaging his feet, said that the peculiar thing was that there
 was absolutely no tension in his body. There was no manifesting of a
 mood or any kind of excitement. Ajahn Chah probably said to himself,

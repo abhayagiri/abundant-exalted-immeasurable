@@ -277,7 +277,7 @@ states that have arisen is right effort.
 
 It might sound a bit convoluted, but it’s a very clear description, once
 you get your mind around it. When the Buddha defines it, it’s all about
-actual mental states. right effort is not about how diligent we appear
+actual mental states. Right effort is not about how diligent we appear
 externally or how much we flog ourselves. It’s about attending to the
 quality of the mind—wholesome or unwholesome—and how we relate to the
 unwholesome or unskillful states: whether we support them, buy into

@@ -82,7 +82,7 @@ helpful.
 Q: What is the definition of wholesome? The word connotes for me the
 ’50s era of Ozzie and Harriet.
 
-A: I think I mentioned earlier today that the Pali word is kusala:
+A: I think I mentioned earlier today that the Pali word is *kusala*:
 wholesome, skillful, beneficial. Intrinsic to a kusala state, or the
 *kusala-citta*, the mind that is happy and at ease, is well-being,
 *sukha*. There is a sense of peace and stability, and then there is a
