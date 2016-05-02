@@ -355,7 +355,7 @@ appreciate, of what others would appreciate: that sense of well-being. I
 think that is a very useful perception of loving-kindness.
 
 Sometimes the English language is loaded with our cultural baggage: “How
-can I be loving towards myself and all living beings? I don't love
+can I be loving towards myself and all living beings? I don’t love
 everybody.” Well, sometimes you don’t even like them, but you can wish
 them well. You can establish that wish for your own well-being and for
 others’ well-being. You don’t even have to like people to do that. I

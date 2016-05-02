@@ -319,7 +319,7 @@ Nikāya*. This is addressed to monks but applies to everybody.
 > “Monks, if for just the time of a finger-snap, a monk produces a thought
 > of loving-kindness, develops it, gives attention to it, such a one is
 > rightly called a monk. Not in vain does he meditate. He acts in
-> accordance with the Master's teaching, he follows his advice, and eats
+> accordance with the Master’s teaching, he follows his advice, and eats
 > deservingly the country’s alms-food. How much more so if he cultivates
 > it.”
 > 

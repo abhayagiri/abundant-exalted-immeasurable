@@ -90,7 +90,7 @@ strong feeling of well-wishing towards oneself.
 
 In the scriptures, there is a very lovely exchange between King Pasenadi
 and Queen Mallikā. He was the king of Kosala, in which is Sāvatthi,
-where the Buddha spent the majority of his Rains residences in Jeta's
+where the Buddha spent the majority of his Rains residences in Jeta’s
 Grove and elsewhere in the region. So he was very familiar with King
 Pasenadi. Queen Mallikā was a devout Buddhist and had a solid practice.
 King Pasenadi had tremendous faith in the Buddha, but there is never any

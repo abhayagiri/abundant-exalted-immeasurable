@@ -17,7 +17,7 @@ Volume 3. Sati Center for Buddhist Studies and Metta Forest
 Monastery.
 
 Many of the chants and reflections mentioned during the retreat can be
-found on Abhayagiri's website:
+found on Abhayagiri’s website:
 
 -   http://www.abhayagiri.org/books/abhayagiri-chanting-book
 -   http://www.abhayagiri.org/audio

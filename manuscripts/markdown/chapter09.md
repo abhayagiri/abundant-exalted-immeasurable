@@ -147,7 +147,7 @@ the thoughts or feelings of loving-kindness.
 The Pali words are *vitakka* and *vicāra*. *Vitakka* is what is
 translated as thought or directed thought, but it’s both the thought and
 the bringing of the thought, feeling, or perception up into the mind.
-That's all vitakka.The arising of the thought of loving-kindness and
+That’s all vitakka.The arising of the thought of loving-kindness and
 directing of attention to loving-kindness, whether on the level of
 thought, feeling, or perception, are all vitakka. *Vicāra* is the
 sustaining or continuing of that. But there is also an evaluation that
