@@ -10,6 +10,8 @@ replacements = [
     (r'\\begin{quote}', r'\\begin{quotation}', 0, 0),
     (r'\\end{quote}', r'\\end{quotation}', 0, 0),
     (r'^(Q|Question|Answer|A): ', r'\\qaspace\n\1: ', 0, re.M),
+    (r'\n\n\((.+)\)\n\\end{quotation}\n',
+        r'\n\n\\hfill(\1)\n\\end{quotation}\n', 0, 0),
 ]
 
 
