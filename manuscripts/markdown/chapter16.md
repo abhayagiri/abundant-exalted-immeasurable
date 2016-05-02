@@ -1,9 +1,7 @@
 # Sutta Readings
 
-<!--
 *Even something as sublime as loving-kindness is impermanent. Seeing its
 changing nature can be a basis for investigation and penetration.*
--->
 
 This afternoon, I thought I’d take the opportunity to do some sutta
 readings about loving-kindness and give people the real scoop—I’ve

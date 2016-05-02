@@ -1,9 +1,7 @@
 # The Karaṇīya-Mettā Sutta
 
-<!--
 *The Buddha has laid it out quite clearly. There is an intrinsic
 well-being that comes from aligning ourselves with the skillful.*
--->
 
 Yesterday, I introduced a method for the cultivation of loving-kindness
 using the phrases: “May I be well, happy, peaceful. May no harm come to

@@ -1,10 +1,8 @@
 # Mettā and Relinquishment
 
-<!--
 *For loving-kindness to manifest fully and come to fruition, we need to
 undermine the fundamental roots of attachment, defilement, and
 clinging.*
--->
 
 A couple of people astutely noticed that I had skipped a few lines of
 the *Mettā Sutta*. I consciously did that because I wanted to take the
