@@ -1,5 +1,10 @@
 # The Five Hindrances
 
+<!--
+*By fully pervading the body and mind with this quality of loving-kindness
+we can draw back from the five hindrances.*
+-->
+
 As we develop meditation, whether it’s mettā-bhāvanā or other kinds of
 meditation, we always have to develop skill in dealing with what are
 called the hindrances, *nīvaraṇa* in Pali. It’s something that we need

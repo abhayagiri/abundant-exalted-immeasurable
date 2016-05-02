@@ -1,5 +1,10 @@
 # Mindfulness Immersed in the Body
 
+<!--
+*The natural rhythm of the breath suffuses the body with a sense of
+warmth and energy.*
+-->
+
 I thought I would begin the morning teaching with a reflection from the
 Buddha concerning mindfulness of the body.
 

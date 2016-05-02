@@ -1,5 +1,10 @@
 # Skillful Thinking in Meditation
 
+<!--
+*Directing thought to loving-kindness is a skillful way of using and
+applying the mind that allows us to build a momentum of wholesomeness.*
+-->
+
 In meditation, when we are trying to calm and still the mind, I think
 it’s a common tendency to try to eliminate thinking and get rid of the
 thinking mind. A common equation comes up: “I think, therefore I suffer.
