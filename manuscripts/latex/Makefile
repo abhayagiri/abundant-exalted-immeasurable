@@ -1,7 +1,7 @@
 PANDOC=pandoc
 PANDOC_OPTS=--no-tex-ligatures --chapters
 SCRIPT_PATH=../../scripts
-CLEANMD=$(SCRIPT_PATH)/cleantex.py
+CLEANTEX=$(SCRIPT_PATH)/cleantex.py
 MARKDOWN_PATH=../markdown
 MARKDOWN_FILES=chapter01.md chapter02.md chapter03.md chapter04.md\
     chapter05.md chapter06.md chapter07.md chapter08.md\
@@ -14,7 +14,7 @@ LATEX_FILES=$(MARKDOWN_FILES:.md=.tex)
 all: $(LATEX_FILES)
 
 %.tex: $(MARKDOWN_PATH)/%.md
-	$(PANDOC) $(PANDOC_OPTS) $< -t latex | $(CLEANMD) > $@
+	$(PANDOC) $(PANDOC_OPTS) $< -t latex | $(CLEANTEX) > $@
 
 clean:
 	rm -rf $(LATEX_FILES)
