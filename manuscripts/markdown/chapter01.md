@@ -1,9 +1,7 @@
 # Refuges and Precepts
 
-<!--
 *The refuges of Buddha, Dhamma, and Sangha provide the foundation for
 the wholesome qualities of the heart to arise.*
--->
 
 I’d like to welcome everyone who has gathered for this occasion and to
 express appreciation to Susan, Karen, and Cassidy for pulling it

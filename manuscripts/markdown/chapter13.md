@@ -1,9 +1,7 @@
 # Spreading Mettā to the Four Quarters
 
-<!--
 *Draw attention to loving-kindness and slowly build momentum, allowing
 it to take hold within the heart.*
--->
 
 As we work with the cultivation of mettā, loving-kindness, one cause for
 the arising of loving-kindness is not attending to things that are

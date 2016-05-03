@@ -1,9 +1,7 @@
 # Introduction to Mettā Meditation
 
-<!--
 *Loving-kindness is not separated from what you are feeling in the
 body.*
--->
 
 When we reflect on loving-kindness and use it as a meditation, it’s good
 to reflect on its foundation. One of the ways that Ajahn Sumedho

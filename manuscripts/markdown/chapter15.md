@@ -1,9 +1,7 @@
 # The Five Aggregates Affected by Clinging
 
-<!--
 *Because the five aggregates are empty and hollow, we need to be very
 careful and attentive around them.*
--->
 
 Last night during the question and answer session, there was a question
 asking about a reference for a sutta that talked about “path and fruit”
