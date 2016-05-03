@@ -20,7 +20,7 @@ important that we become aware of something as a hindrance, particularly
 in the context of cultivation of the meditations on loving-kindness.
 When ill will, anger, aversion, irritation, and negativity arise, there
 should be an immediate flag going up in the mind that says, “Aha, this
-is a hindrance.” Not, “That schmuck; how could they do that?” That’s the
+is a hindrance.” Not, “That schmuck. How could they do that?” That’s the
 immediate belief in a construct of negativity, rather than a sense of,
 “Oh, this is a hindrance; now how do I deal with it?”
 
@@ -115,7 +115,7 @@ The hindrances are a very fruitful realm for investigation, and
 overcoming them is a necessary foundation to lay for our practice. As we
 continue to cultivate, we need to be more and more skilled and quick at
 noticing: “Is that a hindrance? Is that an obstruction to that which is
-truly skillful?“
+truly skillful?”
 
 In another discourse, the Buddha points to the hindrances as being the
 fuel or nourishment for ignorance, *avijjā*. Ignorance, or not knowing
@@ -158,11 +158,10 @@ Sloth and torpor, the dullness and drowsiness that overtake the mind,
 the Buddha compares to somebody who is in prison. When someone is put in
 prison, he or she doesn’t have access to family or resources. There is a
 great sense of loss and suffering, but if the person is released from
-prison, property is restored, and connections with family
-re-established, then he or she would feel extremely happy. There would
-be a sense of ease and well-being. Similarly, a sense of ease and
-well-being comes to one who is able to relinquish and abandon sloth and
-torpor.
+prison, property is restored, and connections with family reestablished,
+then he or she would feel extremely happy. There would be a sense of
+ease and well-being. Similarly, a sense of ease and well-being comes to
+one who is able to relinquish and abandon sloth and torpor.
 
 The Buddha compares restlessness and worry to slavery. Slaves aren’t
 able to go where they want or do what they want; they’re not their own
@@ -203,13 +202,13 @@ sensual desire and from unwholesome states of aversion, ill will, doubt,
 restlessness, sloth, and torpor, the mind is able to settle.
 
 We need to work at it to a certain extent. One of the descriptions that
-the Buddha gives is a bath man or a bath man’s apprentice. In the
-Buddha’s time they used a kind of clay for soap. You would take that
-ball of clay and wet it, knead it, and permeate and pervade, suffuse and
-fill that ball of clay, so that it’s not too wet but the moisture
-completely pervades it. It doesn’t drip and the consistency is very
-even. That’s what you would use to rub against yourself if you were in a
-bath in the Buddha’s time.
+the Buddha gives is a bathman or a bathman’s apprentice. In the Buddha’s
+time they used a kind of clay for soap. You would take that ball of clay
+and wet it, knead it, and permeate and pervade, suffuse and fill that
+ball of clay, so that it’s not too wet but the moisture completely
+pervades it. It doesn’t drip and the consistency is very even. That’s
+what you would use to rub against yourself if you were in a bath in the
+Buddha’s time.
 
 The meditator does the same thing with his or her body and mind. It’s
 interesting that the Buddha points to the body. The meditator permeates
@@ -267,7 +266,7 @@ struggling, just to get up and stand. Go and do some walking meditation.
 Sit with your eyes open. “Sit with our eyes open? Do real meditators do
 that?” Well, why not? A very simple thing can give energy. Sitting with
 our eyes open can energize. We can pass through the period of sloth and
-torpor; it’s actually fairly simple. But we do have to have kindness to
+torpor; it’s actually fairly simple. But we do have to have kindness for
 ourselves to allow that, and we tend not to.
 
 With restlessness and worry, it’s helpful to tune in to the body. When
@@ -287,7 +286,7 @@ see that you can suffuse that particular area with a feeling of
 well-being and seclusion from the unwholesome. From that you have a
 base, and you can work on that to pervade the other areas of the body.
 
-We are working in accord with that image of the bath man. It’s a lovely
+We are working in accord with that image of the bathman. It’s a lovely
 image and very much body-based. And of course we do have a mind with
 this body as well. That is, we can affect the mind directly without
 getting entangled in it. Sometimes, seclusion is from the mind itself.

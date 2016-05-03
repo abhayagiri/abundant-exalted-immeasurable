@@ -74,11 +74,11 @@ But most people do not have a huge sangha of monks. It’s hard work to
 look after bodies that are breaking down. One of the uses of
 loving-kindness is being realistic as to how we need to be kind to
 ourselves and draw other people in as well. Often we feel that we should
-be doing everything. It’s like the horse in *Animal Farm*, “I will work
-harder. I will work harder.” And of course the pigs keep piling on the
-work. The horse collapses, dies, and is shipped off to the glue factory.
-It is really important to have loving-kindness about our limits and to
-find other resources.
+be doing everything. It’s like the horse in George Orwell’s *Animal
+Farm*, “I will work harder. I will work harder.” And of course the pigs
+keep piling on the work. The horse collapses, dies, and is shipped off
+to the glue factory. It is really important to have loving-kindness
+about our limits and to find other resources.
 
 Q: If everything about me, my body, thoughts, feelings, and
 consciousness is impermanent, and even if my “self” is illusionary, whom
@@ -152,7 +152,7 @@ eradicated anger and sensual desire. That was the sign that he really
 missed his shot and still had some major defilements to work with, and
 that’s what he put his energy into working with.
 
-Q: Would you explain, in English, the Pali blessings you chant after
+Q: Would you explain the meaning of the Pali blessings you chant after
 the meal offering? I can’t remember the whole translation but remember
 that it is very beautiful and complements the concept of mettā.
 
@@ -175,7 +175,8 @@ you by the forces of goodness,  and may you live happily.”
 So it is a very beautiful chant, and it is unfortunate that we still
 haven’t got it together yet in English. They are called *anumodana*
 chants, and there are a few different ones. *Anumodana* literally means
-delighting in the goodness that has been done. So that’s the gist of it.
+“delighting in the goodness that has been done.” So that’s the gist of
+it.
 
 Q: Could you please talk about the difference between awareness and
 consciousness? Is awareness a conditioned state, the way consciousness

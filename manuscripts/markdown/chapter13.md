@@ -101,7 +101,7 @@ why these “idiots” didn’t comply with my “rightness,” which was obviou
 to me. After some time using that method and not being very successful,
 I thought I’d give loving-kindness a try.
 
-A small group of monks had banded together and was creating a lot of
+A small group of monks had banded together and were creating a lot of
 division throughout the community. I decided to start going on a longer
 alms round, close to an hour and a half, which was the route that they
 had been going on. The whole period is in silence. Every morning, just

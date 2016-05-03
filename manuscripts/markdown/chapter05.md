@@ -37,7 +37,7 @@ brahmavihāra, part of the spectrum of loving-kindness, compassion,
 sympathetic joy, and equanimity. These are sublime, lofty states of mind
 that result in a very refined state of consciousness. Equanimity is also
 an enlightenment factor. The seven factors of enlightenment taught by
-the Buddha are mindfulness, reflection on dhamma, effort, joy,
+the Buddha are mindfulness, reflection on Dhamma, effort, joy,
 tranquility, concentration, and equanimity. Equanimity is also a factor
 of wisdom in the sense of the mind becoming very stable, steady, and
 unshakeable because of an abiding involving both emotion and wisdom. So

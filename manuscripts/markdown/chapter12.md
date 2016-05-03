@@ -43,7 +43,7 @@ loving-kindness and make it go away? That is one way.
 
 Or, do we say, “Well, what’s the root of that? What’s the root of that
 feeling, of having to hold a view of right or wrong ... good or bad ...
-this is correct ... this is incorrect ... it’s got to be this way.” What
+this is correct ... this is incorrect ... it’s got to be this way?” What
 is the root of that? The root is the sense of self, of “I am.” The mettā
 practice is a very skillful means of softening and opening the heart, so
 that it’s able to tune in and say, “Well, that’s suffering.” Even if
@@ -253,21 +253,21 @@ from the way we normally use it in the English language. According to
 the teachings, there are nine different bases of conceit:
 
 
-1. being inferior and assuming oneself to be inferior;
+1. being inferior and assuming oneself to be inferior
 
-2. being inferior and assuming oneself to be equal;
+2. being inferior and assuming oneself to be equal
 
-3. being inferior and assuming oneself to be superior;
+3. being inferior and assuming oneself to be superior
 
-4. being equal and assuming oneself to be inferior;
+4. being equal and assuming oneself to be inferior
 
-5. being equal and assuming oneself to be equal;
+5. being equal and assuming oneself to be equal
 
-6. being equal and assuming oneself to be superior;
+6. being equal and assuming oneself to be superior
 
-7. being superior and assuming oneself to be inferior;
+7. being superior and assuming oneself to be inferior
 
-8. being superior and assuming oneself to be equal;
+8. being superior and assuming oneself to be equal
 
 9. being superior and assuming oneself to be superior.
 
@@ -287,9 +287,9 @@ isn’t as if the “I, me, and mine” is related to an actual fixed entity.
 This is something we are doing all of the time. That is made really
 clear in the Pali words *ahaṅkāra* and *mamaṅkāra*. *Kāra* is the verb
 “to do”: the “I-doing” and “mine-doing.” We are doing it and creating
-it, although it’s like the sorcerer’s apprentice in *Fantasia*. The
-apprentice ends up with a lot of complications and far more than he
-bargained for.
+it, although it’s like the sorcerer’s apprentice in Walt Disney’s
+*Fantasia*. The apprentice ends up with a lot of complications and far
+more than he bargained for.
 
 The teachings of the Buddha give us the tools to be able to allow that
 to be let go of, to be put down, to be dropped. Of course that is a
@@ -374,7 +374,7 @@ deal with it.”
 Teachers who are wise or compassionate aren’t born like that—that’s not
 how it works. You have to work at it; you have to deal with it. There
 needs to be the realization: this is suffering and there is a way out of
-this. It’s seeing that taking rebirth again and again; even if it’s
+this. It’s seeing that taking rebirth again and again, even if it’s
 pleasant, is not worth it. This is a tremendous gift of kindness to the
 world. That’s something that we can be doing, each in our own way. We
 can set that intention, that resolution. Mettā-bhāvanā is not an

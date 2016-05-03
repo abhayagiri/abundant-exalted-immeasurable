@@ -107,15 +107,15 @@ we do direct attention in a way that is not dissipated through the
 distraction of the five hindrances, then the mind actually becomes very
 steady and strong.
 
-There is a strength there. The Buddha compares it to a mountain stream.
-If the stream comes down from the mountain and is then channeled off
-into different little canals and rivulets, the power of the stream is
-dissipated. It’s not able to wash anything away. That is compared to the
-energy and flow of the mind as it’s dissipated out into the five
-hindrances. When it goes off into these different hindrances, the
-strength of that current or stream is just not so strong. Of course, the
-opposite is true. When a stream comes down and is not dissipated, it has
-tremendous power and can be used for something beneficial.
+There is a strength there. The Buddha compares it to a mountain stream
+(A 5:51). If the stream comes down from the mountain and is then
+channeled off into different little canals and rivulets, the power of
+the stream is dissipated. It’s not able to wash anything away. That is
+compared to the energy and flow of the mind as it’s dissipated out into
+the five hindrances. When it goes off into these different hindrances,
+the strength of that current or stream is just not so strong. Of course,
+the opposite is true. When a stream comes down and is not dissipated, it
+has tremendous power and can be used for something beneficial.
 
 At Abhayagiri, we’re trying to set up a micro-hydro system. If the
 stream goes off in all sorts of different directions, all you get is a
@@ -235,17 +235,17 @@ satisfying and joyful when based on purity of intention and an unalloyed
 quality of skillfulness. It’s wholesome.
 
 In the story of the Buddha, when he was still the Bodhisattva and
-striving for awakening, he struggled with ascetic practices. He got to
-the point where he was emaciated and frustrated. He then had a memory of
-when he was a young child: becoming very peaceful, settled, and
-concentrated when he was left on his own during a ceremony. He was about
-nine years old and his mind went into stillness. He recalled that memory
-and wondered, “Why am I afraid of that happiness that is untainted by
-sensuality and unskillful tendencies? Perhaps that’s the path.” There
-was a realization that there is actually nothing wrong with that kind of
-happiness. Then the Buddha thought that he would never be able to
-cultivate that path in his emaciated shape, so he started eating again.
-That is when he had the insight into the Middle Way (M 36).
+striving for awakening, he struggled with ascetic practices. He
+got to the point where he was emaciated and frustrated. He then had a
+memory of when he was a young child: becoming very peaceful, settled,
+and concentrated when he was left on his own during a ceremony. He was
+about nine years old and his mind went into stillness. He recalled that
+memory and wondered, “Why am I afraid of that happiness that is
+untainted by sensuality and unskillful tendencies? Perhaps that’s the
+path.” There was a realization that there is actually nothing wrong with
+that kind of happiness. Then the Buddha thought that he would never be
+able to cultivate that path in his emaciated shape, so he started eating
+again. That is when he had the insight into the Middle Way (M 4).
 
 So, cultivation relies on directed thought and uses the investigative
 process, the ability to pay attention and allow the mind to channel its

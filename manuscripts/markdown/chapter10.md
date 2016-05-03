@@ -13,7 +13,7 @@ it affects us. What is it that resonates and helps bring into being a
 feeling and perception of loving-kindness, an interest in the wish for
 well-being in oneself and others?
 
-As a meditation, the use of words and phrases are helpful ways of
+As a meditation, the use of words and phrases is a helpful way of
 establishing mindfulness or recollections. We can use a phrase to plant
 that seed within the heart and mind. Because the nature of the mind is
 to come up with different thoughts and, usually, with stories (not just
@@ -263,7 +263,7 @@ fashion, this happens three times. Finally, he gives up his
 determination to go anywhere and stays there and attains enlightenment,
 which is what always seems to happen in the stories.
 
-One could say it’s just a shaggy-dog story from the scriptures, but I
+One could say it’s just a shaggy dog story from the scriptures, but I
 know of a monk who had something very similar happen. He really embodies
 loving-kindness. He’s still living—his name is Ajahn Gunha, and he is a
 nephew of Ajahn Chah. Now, he’s well into his sixties. He had some major
@@ -366,7 +366,7 @@ because of it.
 
 Cultivation of these phrases and tuning in to the feelings they generate
 are helpful for the cultivation of a mood of loving-kindness, and they
-also give us an insight into the way the mind works, how we cherish or
+also give us an insight into the way the mind works: how we cherish or
 overlook ourselves, how we look at others, how we compare, how we judge.
 In the loving-kindness meditation, when we allow the heart to abide in
 kindness and well-being there is no judging or comparing.

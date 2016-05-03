@@ -22,8 +22,8 @@ for teaching, leadership and being an example. I think oftentimes there
 is a false dichotomy perceived from the West, because the monastic
 presence is so strong in Asia. Oftentimes, people overlook the strength
 of the tradition of lay practice and lay teachers in Asia. Certainly in
-Thailand, that is very much the case. There are laymen and women who are
-excellent scholars, teachers. It’s not as monochromatic as people
+Thailand, that is very much the case. There are laymen and laywomen who
+are excellent scholars, teachers. It’s not as monochromatic as people
 perceive.
 
 Look at the model that the Buddha himself gave. There’s a very
@@ -126,10 +126,11 @@ that the Buddha encourages. There isn’t anything that the Buddha
 encourages that is something to be looked on askance, as if it were
 untrustworthy.
 
-On a certain level when one first approaches the teachings, like in the
-morning chanting: Birth is dukkha, ageing is dukkha, sickness is dukkha,
-death is dukkha, separation is dukkha, association is dukkha:
-everything’s dukkha. One can think, “Wow, this is a miserable teaching.”
+On a certain level, when one first approaches the teachings one can
+think, “Wow, this is a miserable teaching.” Like in the morning
+chanting: Birth is dukkha, ageing is dukkha, sickness is dukkha, death
+is dukkha, separation is dukkha, association is dukkha: everything’s
+dukkha.
 
 But then when one investigates: “Well, what does the Buddha actually
 encourage you to do? What does he lay out as a path of practice and
@@ -157,7 +158,7 @@ mind, identification with the world and all the things that we have
 pretty much no control over. So when one looks at it quite clearly, one
 realizes, “Well, I really have very little control.” It’s a very
 practical teaching to allow us to approach this. It’s quite natural in
-the human condition to be dismayed at the loss of, the threat to self
+the human condition to be dismayed at the loss of, the threat to, self
 and ego.
 
 There’s a wonderful quote by Ajahn Mahā Boowa, speaking about Ajahn Mun.
@@ -182,12 +183,12 @@ spectrum of practices that are the Buddha’s teachings. Certainly the
 four foundations of mindfulness are an overarching framework to attend
 to.
 
-There’s a discourse (M 19) where the Buddha talks about establishing
+There’s a discourse where the Buddha talks about establishing
 mindfulness on particular skillful, wholesome thoughts and being able to
 hold that exclusively for a day, or a night, or a day and a night:
 establishing the mind in that, discerning what’s skillful and
-unskillful, and then committing to the wholesome thoughts. But then the
-mind gets tired, so then it’s necessary to return to a place of
+unskillful, and then committing to the wholesome thoughts (M19). But
+then the mind gets tired, so then it’s necessary to return to a place of
 stillness or stability.
 
 One has to recognize clearly and engage skillfully in the recitation of
@@ -279,7 +280,7 @@ Q: What does “the four pairs, the eight kinds of noble beings,” in the
 Recollection of the Sangha, mean?
 
 A: It’s a way of classification in terms of entry into realization.
-There are four stages of realization: stream-entry, once-returner,
+There are four stages of realization: stream-enterer, once-returner,
 non-returner, and fully enlightened being, or arahant. *Sotāpanna*,
 *sakadāgāmi*, *anāgāmi*, arahant. So there’s four.
 
@@ -299,10 +300,10 @@ there is a fruition. To me, that makes sense.
 
 The sutta tradition has a clear description that there are those who
 have got an insight into what the path is, what the practice is, what
-the actual goal is, but who are still to have the full realization of
-that. It could be a very quick insight and realization, or it could take
-time for that to come to fruition. Those are the four pairs, the eight
-kinds of noble beings. It *is* a bit mysterious when we chant it.
+the actual goal is, but who are still yet to have the full realization
+of that. It could be a very quick insight and realization, or it could
+take time for that to come to fruition. Those are the four pairs, the
+eight kinds of noble beings. It *is* a bit mysterious when we chant it.
 
 Q: When doubt is mentioned under the hindrances, is it mainly
 referring to doubt about the Buddha’s teachings? Are there other
