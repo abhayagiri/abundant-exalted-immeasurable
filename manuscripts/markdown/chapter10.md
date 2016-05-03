@@ -72,7 +72,7 @@ homi*, which is “May I be happy.” Of course, if you’re chanting “May I
 be happy,” it falls a bit flat. Whereas, if you begin a chant, “May I
 abide in well-being,” it’s kind of nice to chant.
 
-“May I be happy” is a very precise translation of *ahaṁ sukhito homi*,
+“May I be happy” is a very precise translation of *ahaṃ sukhito homi*,
 but I think it is appropriate to take a bit of poetic license, to make
 it a bit more chantable: “May I abide in well-being.” For me, having
 chanted this for decades now, that is what happens when I think of the
