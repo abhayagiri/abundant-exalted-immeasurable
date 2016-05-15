@@ -48,8 +48,10 @@
   <spine toc="ncx">
     <itemref idref="cover.xhtml"/>
     <itemref idref="title.xhtml"/>
+    <itemref idref="copyright.xhtml"/>
+    <itemref idref="dedication.xhtml"/>
     <itemref idref="abbreviations.xhtml"/>
-    <itemref idref="about_the_author.xhtml"/>
+    <itemref idref="foreword.xhtml"/>
     <itemref idref="chapter01.xhtml"/>
     <itemref idref="chapter02.xhtml"/>
     <itemref idref="chapter03.xhtml"/>
@@ -68,10 +70,8 @@
     <itemref idref="chapter16.xhtml"/>
     <itemref idref="chapter17.xhtml"/>
     <itemref idref="chapter18.xhtml"/>
-    <itemref idref="copyright.xhtml"/>
     <itemref idref="credits.xhtml"/>
-    <itemref idref="dedication.xhtml"/>
-    <itemref idref="foreword.xhtml"/>
+    <itemref idref="about_the_author.xhtml"/>
   </spine>
   <guide>
     <reference href="text/cover.xhtml" title="Cover" type="cover"/>

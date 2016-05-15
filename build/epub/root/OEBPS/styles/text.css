@@ -35,7 +35,15 @@ p.copyright {
     text-align: left;
 }
 
+
 p.title {
     text-align: center;
 }
 
+blockquote {
+    font-size: small;
+}
+
+blockquote p.ref {
+    text-align: right;
+}
