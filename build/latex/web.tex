@@ -2,11 +2,17 @@
 
 \usepackage{local}
 
+\usepackage{pdfpages}
+
 \geometry{
     papersize={5.5in,8.5in},
 }
 
 \begin{document}
+
+\includepdf[offset=-3in 0in]{../../source/cover.pdf}
+
+\setcounter{page}{1}
 
 \input{document.tex}
 
