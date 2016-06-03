@@ -1,0 +1,26 @@
+\documentclass[11pt]{memoir}
+
+\usepackage{local}
+
+\geometry{
+    papersize={5.75in,8.75in},
+    layoutsize={5.5in,8.5in},
+    layoutoffset=.125in
+%    papersize={5.5in,8.5in},
+}
+
+\hypersetup{draft}
+
+\begin{document}
+
+\input{document.tex}
+
+\putphoto{300}{../../source/Ajahn_Pasanno-large.jpg}
+
+\input{../../manuscripts/latex/about_the_author.tex}
+
+\clearpage
+
+\input{license.tex}
+
+\end{document}
